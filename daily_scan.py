@@ -123,7 +123,11 @@ def build_report():
             return '<span style="background:#ffd600;color:#000;padding:2px 8px;border-radius:12px;font-size:11px;font-weight:bold">BUY</span>'
         return '<span style="background:#455a64;color:#fff;padding:2px 8px;border-radius:12px;font-size:11px;font-weight:bold">WATCH</span>'
 
-    sectors = sorted(set(r.get('sector', '') for r in scored if r.get('sector') and r.get('sector') != 'nan'))
+    def _clean_sector(s):
+        if s is None: return ''
+        s = str(s)
+        return '' if s in ('nan', 'None', 'NaN', '') else s
+    sectors = sorted(set(_clean_sector(r.get('sector')) for r in scored if _clean_sector(r.get('sector'))))
     sector_opts = ''.join(f'<option value="{s}">{s}</option>' for s in sectors)
 
     rows_html_parts = []
@@ -137,7 +141,7 @@ def build_report():
         volume  = float(r.get('volume', 0) or 0)
         pattern = float(r.get('pattern', 0) or 0)
         action  = r.get('action', '')
-        sector  = r.get('sector', '')
+        sector  = _clean_sector(r.get('sector'))
         mcap_raw = float(r.get('mcap', 0) or 0)
         mcap    = f"${mcap_raw/1e9:.2f}B" if mcap_raw >= 1e9 else f"${mcap_raw/1e6:.0f}M" if mcap_raw >= 1e6 else "N/A"
         vol_raw  = float(r.get('avgvol', 0) or 0)
