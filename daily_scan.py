@@ -321,8 +321,8 @@ if __name__ == '__main__':
         log(f"Report: {html_path}")
         log("=" * 60)
 
-        # Auto-open the report
-        if html_path and os.path.exists(html_path):
+        # Auto-open the report (Windows only — not available on Linux/GitHub Actions)
+        if html_path and os.path.exists(html_path) and sys.platform == 'win32':
             os.startfile(html_path)
 
     except Exception as e:
