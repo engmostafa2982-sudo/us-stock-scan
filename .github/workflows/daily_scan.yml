@@ -43,8 +43,6 @@ jobs:
           cp US_Stock_Scan_*.html docs/
           # Copy master CSV
           cp master_ranked_*.csv docs/ 2>/dev/null || true
-          # Copy control panel page
-          cp trigger.html docs/trigger.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

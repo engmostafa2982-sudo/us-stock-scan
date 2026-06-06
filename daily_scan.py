@@ -199,16 +199,12 @@ th {{ background:#0a1628; color:#4fc3f7; padding:10px 8px; text-align:center; fo
 th:hover {{ background:#1a2332; }}
 td {{ padding:8px 8px; border-bottom:1px solid #1a2332; }}
 .footer {{ text-align:center; margin-top:30px; color:#37474f; font-size:12px; }}
-.run-btn {{ display:inline-block; margin-top:12px; padding:10px 28px; background:#00c853; color:#000;
-  font-weight:bold; font-size:14px; border-radius:8px; text-decoration:none; letter-spacing:1px; }}
-.run-btn:hover {{ background:#69f0ae; }}
 </style>
 </head>
 <body>
 <div class="header">
   <h1>&#127482;&#127480; US MARKET SCAN &mdash; $1 to $5 STOCKS</h1>
   <h2>30-Point Technical Scoring System v2 &nbsp;|&nbsp; {DATE_STR} &nbsp;|&nbsp; Powered by EODHD</h2>
-  <a class="run-btn" href="https://github.com/engmostafa2982-sudo/us-stock-scan/actions/workflows/daily_scan.yml" target="_blank">&#9654; Run New Scan Now</a>
 </div>
 <div class="stats">
   <div class="stat"><div class="val">{len(all_results)}</div><div class="lbl">Stocks Scanned</div></div>
