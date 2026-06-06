@@ -1,0 +1,13 @@
+# API key — NEVER commit this
+.env
+
+# Large cache & output files (regenerated on each run)
+cache/
+parts/
+logs/
+__pycache__/
+*.pyc
+
+# Local CSV outputs
+scored_ranked.csv
+scan_full.log

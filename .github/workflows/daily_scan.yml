@@ -1,0 +1,53 @@
+name: Daily US Stock Scan
+
+on:
+  schedule:
+    # 2:00 AM Saudi time = 11:00 PM UTC (prev day)
+    - cron: '0 23 * * *'
+  workflow_dispatch:   # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily scan
+        env:
+          EODHD_API_KEY: ${{ secrets.EODHD_API_KEY }}
+        run: python daily_scan.py
+
+      - name: Prepare GitHub Pages output
+        run: |
+          mkdir -p docs
+          # Copy latest HTML report to docs/index.html (GitHub Pages root)
+          cp US_Stock_Scan_*.html docs/index.html
+          # Also keep a dated copy
+          cp US_Stock_Scan_*.html docs/
+          # Copy master CSV
+          cp master_ranked_*.csv docs/ 2>/dev/null || true
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          keep_files: true          # keep previous days' reports
+          commit_message: "Scan ${{ github.run_number }} — $(date +'%Y-%m-%d')"
