@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Stock Scan Control Panel</title>
+<style>
+* { box-sizing:border-box; margin:0; padding:0; }
+body { background:#0d1421; color:#eceff1; font-family:'Segoe UI',Arial,sans-serif;
+  min-height:100vh; display:flex; align-items:center; justify-content:center; padding:20px; }
+.panel { max-width:640px; width:100%; }
+h1 { text-align:center; color:#4fc3f7; font-size:26px; letter-spacing:2px; margin-bottom:6px; }
+.sub { text-align:center; color:#78909c; font-size:13px; margin-bottom:40px; }
+.card { background:#1a2332; border:1px solid #263547; border-radius:14px; padding:28px 32px; margin-bottom:20px; }
+.card h2 { font-size:18px; color:#eceff1; margin-bottom:6px; }
+.card p { color:#78909c; font-size:13px; margin-bottom:18px; line-height:1.6; }
+.btn { display:inline-block; padding:12px 32px; border-radius:8px; font-weight:bold;
+  font-size:14px; text-decoration:none; letter-spacing:1px; transition:0.15s; }
+.btn-green { background:#00c853; color:#000; }
+.btn-green:hover { background:#69f0ae; }
+.btn-blue  { background:#1565c0; color:#fff; }
+.btn-blue:hover  { background:#1976d2; }
+.btn-small { font-size:12px; padding:7px 16px; margin-left:10px; }
+.row { display:flex; align-items:center; flex-wrap:wrap; gap:10px; }
+.badge { background:#0a1628; border:1px solid #263547; border-radius:6px;
+  padding:4px 10px; font-size:11px; color:#78909c; }
+hr { border:none; border-top:1px solid #263547; margin:16px 0; }
+</style>
+</head>
+<body>
+<div class="panel">
+  <h1>&#9881; SCAN CONTROL PANEL</h1>
+  <p class="sub">Click "Run Now" to trigger a fresh scan on GitHub's cloud servers.<br>
+  Your PC does NOT need to be on — the scan runs automatically in the cloud.</p>
+
+  <!-- US SCAN -->
+  <div class="card">
+    <h2>&#127482;&#127480; &nbsp;US Market Scan &mdash; $1–$5 Stocks</h2>
+    <p>Scans ~3,688 US stocks with the 30-Point scoring system.<br>
+       Scheduled daily at <strong>2:00 AM Saudi time</strong>. Takes ~5 minutes.</p>
+    <hr>
+    <div class="row">
+      <a class="btn btn-green"
+         href="https://github.com/engmostafa2982-sudo/us-stock-scan/actions/workflows/daily_scan.yml"
+         target="_blank">&#9654; &nbsp;Run Now</a>
+      <a class="btn btn-blue btn-small"
+         href="https://engmostafa2982-sudo.github.io/us-stock-scan/"
+         target="_blank">&#128202; View Last Report</a>
+      <a class="btn btn-blue btn-small"
+         href="https://github.com/engmostafa2982-sudo/us-stock-scan/actions"
+         target="_blank">&#128336; Live Progress</a>
+    </div>
+  </div>
+
+  <!-- EGX SCAN -->
+  <div class="card">
+    <h2>&#127466;&#127468; &nbsp;EGX Market Scan &mdash; All Stocks</h2>
+    <p>Scans all ~279 Egyptian Exchange stocks with the 30-Point scoring system.<br>
+       Scheduled daily at <strong>8:30 AM Saudi time</strong>. Takes ~2 minutes.</p>
+    <hr>
+    <div class="row">
+      <a class="btn btn-green"
+         href="https://github.com/engmostafa2982-sudo/egypt-stock-scan/actions/workflows/daily_scan.yml"
+         target="_blank">&#9654; &nbsp;Run Now</a>
+      <a class="btn btn-blue btn-small"
+         href="https://engmostafa2982-sudo.github.io/egypt-stock-scan/"
+         target="_blank">&#128202; View Last Report</a>
+      <a class="btn btn-blue btn-small"
+         href="https://github.com/engmostafa2982-sudo/egypt-stock-scan/actions"
+         target="_blank">&#128336; Live Progress</a>
+    </div>
+  </div>
+
+  <p style="text-align:center;color:#37474f;font-size:12px;margin-top:20px;">
+    After clicking "Run Now" &rarr; sign in to GitHub &rarr; click the green "Run workflow" button
+  </p>
+</div>
+</body>
+</html>

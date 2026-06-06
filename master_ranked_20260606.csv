@@ -358,8 +358,8 @@ KRNGY,Karoon Energy Ltd,2.856,13,3,4,16,1,9,5,51,-10.0,41.0,Weak,Watchlist only,
 AIIO,Robo.ai Inc.,2.94,12,7,3,7,5,7,5,46,-5.0,41.0,Weak,Watchlist only,60,24.1,-9.0,9.0,54.1,1,,Consumer Cyclical,55789548.0,4175162.61
 PEXUF,PTT Exploration and Production Public Company Limited ,3.48,8,6,11,8,3,2,3,41,0.0,41.0,Weak,Watchlist only,52,0.0,0.0,0.0,50.0,0,,Energy,13815548928.0,0.0
 OUTKY,Outokumpu Oyj ADR,3.45,15,4,5,15,3,4,5,51,-10.0,41.0,Weak,Watchlist only,49,-5.0,8.4,5.1,59.8,2,,Basic Materials,3252506368.0,0.0
-TMVWY,TeamViewer AG,3.41,12,2,3,9,3,7,5,41,0.0,41.0,Weak,Watchlist only,52,3.0,0.3,2.1,57.1,0,,Technology,1132019456.0,6342.03
 ELKEF,Elkem ASA,3.4,17,4,5,12,6,2,5,51,-10.0,41.0,Weak,Watchlist only,47,0.0,11.7,3.7,92.5,2,,Basic Materials,1198290688.0,74.36
+TMVWY,TeamViewer AG,3.41,12,2,3,9,3,7,5,41,0.0,41.0,Weak,Watchlist only,52,3.0,0.3,2.1,57.1,0,,Technology,1132019456.0,6342.03
 UPBMF,United Plantations Berhad,3.507,8,7,9,8,4,2,3,41,0.0,41.0,Weak,Watchlist only,50,0.0,0.0,0.0,51.9,0,,Consumer Defensive,2181771008.0,1.08
 UFI,Unifi Inc,4.11,14,3,6,7,5,7,4,46,-5.0,41.0,Weak,Watchlist only,67,3.5,3.3,1.2,54.7,1,,Consumer Cyclical,77508848.0,52272.9
 MGHTF,Mercury NZ Limited,4.37,15,5,7,11,6,2,5,51,-10.0,41.0,Weak,Watchlist only,54,0.0,0.0,1.2,99.9,0,,Utilities,6194007552.0,300.76
@@ -1021,8 +1021,8 @@ DHSBF,Dah Sing Banking Group Ltd,1.0,8,6,9,6,4,2,3,38,-10.0,28.0,Poor,Stay away,
 VTXXF,Vertex Minerals Limited,1.0,10,6,10,8,4,2,3,43,-15.0,28.0,Poor,Stay away,48,0.0,0.0,0.1,100.0,1,,Basic Materials,286577472.0,120.23
 VCNX,Vaccinex Inc,1.0,9,9,8,3,9,2,3,43,-15.0,28.0,Poor,Stay away,40,0.0,0.0,1.1,50.3,1,,Healthcare,2676637.0,2603.64
 MCSXX,BlackRock Liquidity Funds - MuniCash,1.0,14,5,4,6,4,2,3,38,-10.0,28.0,Poor,Stay away,41,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
-JOIXX,JPMorgan Trust IV - Institutional Tax Free Money Market Fund,1.0,14,5,4,6,4,2,3,38,-10.0,28.0,Poor,Stay away,41,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
 JOCXX,JPMorgan Trust IV - Institutional Tax Free Money Market Fund,1.0,14,5,4,6,4,2,3,38,-10.0,28.0,Poor,Stay away,44,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
+JOIXX,JPMorgan Trust IV - Institutional Tax Free Money Market Fund,1.0,14,5,4,6,4,2,3,38,-10.0,28.0,Poor,Stay away,41,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
 VMVXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.001,14,5,5,6,3,2,3,38,-10.0,28.0,Poor,Stay away,42,-0.0,0.0,0.0,50.6,0,,nan,nan,0.0
 ABLV,Able View Global Inc. Class B Ordinary Shares,1.07,15,3,5,10,5,0,5,43,-15.0,28.0,Poor,Stay away,54,-2.7,3.9,6.3,60.8,1,,Consumer Cyclical,54822812.0,248317.12
 MTEN,Mingteng International Corporation Inc. Ordinary Shares,1.07,6,5,5,13,0,0,4,33,-5.0,28.0,Poor,Stay away,26,-7.8,4.9,-3.9,44.2,1,,Industrials,5631816.0,148205.67
@@ -1056,8 +1056,8 @@ DBMBF,FIBRA Macquarie México,2.502,12,2,7,5,8,0,4,38,-10.0,28.0,Poor,Stay away,
 AIFU,Fanhua Inc.,2.53,17,8,4,10,8,6,5,58,-30,28,Poor,Stay away,57,11.0,11.9,20.9,65.2,3,,Financial Services,263101328.0,19471.69
 ARQ,Arq Inc,2.6,9,4,6,12,5,4,3,43,-15.0,28.0,Poor,Stay away,36,-5.8,4.8,0.1,51.5,1,,Industrials,111608264.0,495997.46
 KPRX,Kiora Pharmaceuticals Inc,2.5,14,6,2,10,3,4,4,43,-15.0,28.0,Poor,Stay away,53,-6.7,-6.7,-4.3,46.2,1,,Healthcare,11496453.0,185673.01
-UFCP,Union Financial Corporation,2.51,8,6,9,6,4,2,3,38,-10.0,28.0,Poor,Stay away,43,0.0,0.0,0.0,50.0,0,,Financial Services,8266010.0,26.73
 PCSA,Processa Pharmaceuticals Inc,2.52,5,7,5,9,3,2,2,33,-5.0,28.0,Poor,Stay away,40,-1.6,-1.8,-5.8,45.4,2,,Healthcare,7562976.0,393023.37
+UFCP,Union Financial Corporation,2.51,8,6,9,6,4,2,3,38,-10.0,28.0,Poor,Stay away,43,0.0,0.0,0.0,50.0,0,,Financial Services,8266010.0,26.73
 INGEF,Ingenia Communities Group,2.875,1,1,7,9,6,2,2,28,0.0,28.0,Poor,Stay away,26,0.6,-5.5,-2.5,27.6,0,,Real Estate,1171801856.0,214.48
 CRWS,Crown Crafts Inc,2.75,8,14,3,6,4,0,3,38,-10.0,28.0,Poor,Stay away,27,-4.2,0.4,-1.0,47.5,1,,Consumer Cyclical,28777048.0,42323.21
 LTNCX,Oppenheimer Rochester LtdTerm NY MunisC,2.79,15,5,6,6,1,2,3,38,-10.0,28.0,Poor,Stay away,40,0.0,0.7,0.2,63.4,0,,nan,0.0,0.0
@@ -1195,8 +1195,8 @@ SINGF,Singapore Airlines Ltd,5.0,3,6,3,7,3,1,3,26,0.0,26.0,Poor,Stay away,25,-4.
 MPT,"Medical Properties Trust, Inc.",4.98,4,8,8,2,7,5,2,36,-10.0,26.0,Poor,Stay away,31,-2.5,-3.5,-1.4,45.5,1,,Real Estate,2960594688.0,6948662.3
 JBLU,JetBlue Airways Corp,4.85,2,10,3,9,5,0,2,31,-5.0,26.0,Poor,Stay away,38,-11.3,-3.2,-2.6,46.9,1,,Industrials,1800571392.0,22178391.6
 RSKD,Riskified Ltd,4.75,10,5,4,12,3,4,3,41,-15.0,26.0,Poor,Stay away,44,-2.7,-1.0,-0.4,50.9,1,,Technology,692813376.0,682449.56
-SLNG,Stabilis Solutions Inc,4.94,15,7,5,16,5,3,5,56,-30.0,26.0,Poor,Stay away,61,34.2,15.7,19.0,65.8,3,,Energy,94655168.0,24925.62
 VNMHF,VietNam Holding Limited,4.85,5,4,6,5,6,8,2,36,-10.0,26.0,Poor,Stay away,37,0.0,0.0,-0.4,28.6,0,,Financial Services,90636760.0,26.5
+SLNG,Stabilis Solutions Inc,4.94,15,7,5,16,5,3,5,56,-30.0,26.0,Poor,Stay away,61,34.2,15.7,19.0,65.8,3,,Energy,94655168.0,24925.62
 BJDX,Bluejay Diagnostics Inc,4.8,18,3,4,7,7,3,5,47,-21,26,Poor,Stay away,71,124.3,146.2,67.5,80.9,3,9,Healthcare,5988620.0,678236.1
 YSXT,"YSX Tech. Co., Ltd Class A Ordinary Shares",1.03,4,15,8,0,3,2,3,35,-10.0,25.0,Poor,Stay away,24,-1.0,2.0,-1.4,44.4,0,,Industrials,28440150.0,452002.89
 APM,Aptorum Group Ltd Class A,1.01,16,4,1,7,5,7,5,45,-20.0,25.0,Poor,Stay away,40,-1.9,21.0,7.8,57.9,3,,Healthcare,8876695.0,2219235.03
@@ -1430,8 +1430,8 @@ AURX,Nuo Therapeutics Inc,1.16,6,16,3,9,3,2,2,41,-20.0,21.0,Broken,Avoid/exit,31
 FGSGF,Flat Glass Group Co. Ltd,1.2,3,3,8,6,3,5,3,31,-10.0,21.0,Broken,Avoid/exit,14,0.0,0.0,-1.6,0.0,0,,Technology,2788911616.0,29.5
 WVMDF,West Vault Mining Inc,1.16,2,4,9,9,0,0,2,26,-5.0,21.0,Broken,Avoid/exit,14,-7.2,-5.7,-5.2,39.0,1,,Basic Materials,70271440.0,12046.72
 DLEXY,Datalex plc,1.55,9,4,8,6,4,2,3,36,-15.0,21.0,Broken,Avoid/exit,39,0.0,0.0,-0.0,48.1,1,,Technology,145819168.0,11.9
-AIFF,"Firefly Neuroscience, Inc.",1.58,1,4,8,11,0,0,2,26,-5.0,21.0,Broken,Avoid/exit,27,-10.7,-7.6,-9.9,40.3,1,,Technology,25693436.0,3879881.17
 LLEIF,LleidaNetworks Serveis Telemàtics S.A,1.55,10,6,10,6,4,2,3,41,-20.0,21.0,Broken,Avoid/exit,54,0.0,0.0,0.0,93.4,0,,Communication Services,24643744.0,25.5
+AIFF,"Firefly Neuroscience, Inc.",1.58,1,4,8,11,0,0,2,26,-5.0,21.0,Broken,Avoid/exit,27,-10.7,-7.6,-9.9,40.3,1,,Technology,25693436.0,3879881.17
 TRUG,Trugolf Inc,1.6,6,9,6,5,4,4,2,36,-15.0,21.0,Broken,Avoid/exit,23,-7.5,5.3,-7.9,42.8,1,,Consumer Cyclical,1737336.0,77974.75
 CRBU,Caribou Biosciences Inc,1.92,1,6,1,8,2,4,4,26,-5.0,21.0,Broken,Avoid/exit,40,-18.6,-3.5,-9.4,41.7,1,,Healthcare,198857072.0,1609609.3
 GUOSF,Guotai Junan Securities Co. Ltd,2.0,10,6,11,6,3,2,3,41,-20.0,21.0,Broken,Avoid/exit,52,0.0,0.0,0.0,95.1,0,,Financial Services,35257851904.0,2.0
@@ -1479,47 +1479,47 @@ UCL,Ucloudlink Group Inc,1.03,4,16,2,2,2,2,2,30,-10.0,20.0,Broken,Avoid/exit,23,
 PSPX,PSPX,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,31,0.0,0.0,0.0,50.0,0,,Consumer Cyclical,14375000.0,4.5
 ATER,Aterian Inc,1.04,9,6,3,6,5,4,2,35,-15.0,20.0,Broken,Avoid/exit,41,-5.5,-12.6,-5.5,47.3,1,,Consumer Cyclical,11684423.0,1489277.54
 FBLG,"FibroBiologics, Inc. Common Stock",1.03,5,6,8,6,4,4,2,35,-15.0,20.0,Broken,Avoid/exit,44,-11.2,-1.9,-7.4,41.9,1,,Healthcare,5573539.0,1187423.74
-BMMCX,Blackrock Multi-Manager Alt Fund Cl C,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,Other,0.0,0.0
 BMMAX,Blackrock Multi-Manager Alt Fund Cl A,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,Other,0.0,0.0
-VUSXX,Vanguard Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CPVPX,Columbia Leg Captl Preservation Port A,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,Other,0.0,0.0
-FDRXX,Fidelity Govt Cash Rsrvs,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BMMCX,Blackrock Multi-Manager Alt Fund Cl C,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,Other,0.0,0.0
 IUGXX,Invesco Treasurers Series Trust - Invesco Premier U.S. Government Money Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,Other,nan,0.0
+CPVPX,Columbia Leg Captl Preservation Port A,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,Other,0.0,0.0
+VUSXX,Vanguard Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 VMFXX,Vanguard Federal Money Market Fund Investor Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FDRXX,Fidelity Govt Cash Rsrvs,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FGTXX,Goldman Sachs Financial Square Government Fund Institutional Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TFDXX,BlackRock Liquidity Funds FedFund Institutional Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTIXX,Goldman Sachs Financial Square Treasury Instruments Fund Institutional Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AGPXX,Invesco Short-Term Investments Trust Government & Agency Portfolio Institutional,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DAPXX,Dreyfus Government Securities Cash Management Administrative Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MVRXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 AALXX,Thrivent Money Market Fund Class S,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MISXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FTIXX,Goldman Sachs Financial Square Treasury Instruments Fund Institutional Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MVRXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DAPXX,Dreyfus Government Securities Cash Management Administrative Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FXFXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-AGPXX,Invesco Short-Term Investments Trust Government & Agency Portfolio Institutional,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FGXXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FXFXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DTRXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-TPIXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FSIXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GVMXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSIXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TPIXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FRAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-TTTXX,BlackRock Liquidity Funds - Treasury Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FIGXX,Fidelity Colchester Street Trust - Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FMJXX,Goldman Sachs Investor Money Market Fund Class I,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TTTXX,BlackRock Liquidity Funds - Treasury Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FZDXX,Fidelity Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMJXX,Goldman Sachs Investor Money Market Fund Class I,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PDDXX,Putnam Money Market Fund Class A,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SWGXX,Schwab Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SWVXX,Schwab Value Advantage Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DGCXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TSCXX,T. Rowe Price Cash Reserves Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGCXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MUSXX,MainStay U.S. Government Liquidity Fund Class I,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SAHXX,State Street Institutional U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TSTXX,BlackRock Liquidity Funds - T-Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-INFXX,Institutional Fiduciary Trust Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 AAOXX,American Beacon U.S. Government Money Market Select Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+INFXX,Institutional Fiduciary Trust Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ABZXX,American Funds U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-ACNXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ACAXX,American Century Investment Trust - Prime Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-ACXXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ACNXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ACZXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ACXXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ADAXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 AEAXX,AB Government Exchange Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 AECXX,AB Fixed-Income Shares Inc. - AB Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1539,73 +1539,73 @@ APGXX,Cavanal Hill Funds - U.S. Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Bro
 APHXX,Cavanal Hill Funds - Government Securities Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 APKXX,Cavanal Hill Funds - U.S. Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 APNXX,Cavanal Hill Funds - U.S. Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-APSXX,Cavanal Hill Funds - Government Securities Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 APPXX,Cavanal Hill Funds - Government Securities Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ARCXX,American Century Investment Trust - Prime Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BBSXX,BBH Trust - BBH U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+APSXX,Cavanal Hill Funds - Government Securities Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BCHXX,BlackRock Liquidity Funds - T-Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BCTXX,American Century California Tax-Free and Municipal Funds - California Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BECXX,BlackRock Liquidity Funds - Federal Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BEMXX,BlackRock Liquidity Funds - T-Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BFFXX,BlackRock Liquidity Funds - FedFund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BFMXX,BlackRock Liquidity Funds - Federal Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-BEMXX,BlackRock Liquidity Funds - T-Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-BFRXX,BlackRock Liquidity Funds - FedFund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BFTXX,BlackRock Liquidity Funds - Federal Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BFRXX,BlackRock Liquidity Funds - FedFund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BGSXX,Northern Institutional Funds - U.S. Government Select Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-BNGXX,Northern Institutional Funds - U.S. Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BMMIX,CollegeAdvantage 529 Savings Plan - BlackRock Money Market Option,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BNGXX,Northern Institutional Funds - U.S. Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BNTXX,American Century Municipal Trust - Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-BRIXX,Blackrock Funds III - Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BPRXX,American Century Investment Trust - Prime Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BRIXX,Blackrock Funds III - Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BTCXX,BlackRock Liquidity Funds - Treasury Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BSCXX,Northern Institutional Funds - U.S. Government Select Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BTFXX,BlackRock Liquidity Funds - Treasury Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CACPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 BTRXX,BlackRock Liquidity Funds - T-Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CACPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CACXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CAGXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CAIXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CBDAX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CALXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CBDAX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CBDCX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CBDPX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CBDEX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CCCPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CBDPX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CCCXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CEAXX,Citizensselect Funds - Dreyfus Institutional Preferred Treasury Securities Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CCCPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CCSXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CECPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CEAXX,Citizensselect Funds - Dreyfus Institutional Preferred Treasury Securities Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CEIXX,Citizensselect Funds - Dreyfus Institutional Preferred Treasury Securities Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CECPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CIFXX,LeggMason Partners Institutional Trust - Western Asset Institutional Tax Free Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CIIXX,Legg Mason Partners Institutional Trust - Western Asset Institutional U.S. Treasury Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CNFXX,City National Rochdale Funds - City National Rochdale Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CNGXX,City National Rochdale Funds - City National Rochdale Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CNIXX,City National Rochdale Funds - City National Rochdale Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CNGXX,City National Rochdale Funds - City National Rochdale Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 COSXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CPFXX,American Century Government Income Trust - Capital Preservation Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CRHXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CRJXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CRKXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CRMXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CRJXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-CRRXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CRVXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CRRXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CVGXX,BofA Funds Series Trust - BofA Money Market Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 CVTXX,Short-Term Investment Trust - Invesco Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DAGXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DARXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DBBXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DGEXX,Morgan Stanley U.S Government Money Market Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DAGXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DCMXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DGQXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DBBXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DGPXX,Dreyfus Government Cash Management Funds - Dreyfus Government Prime Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGQXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGEXX,Morgan Stanley U.S Government Money Market Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DGUXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DGVXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DHLXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Treasury and Agency Cash Advantage Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DIPXX,Dreyfus Government Cash Management Funds - Dreyfus Government Prime Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DNSXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Treasury and Agency Cash Advantage Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DIRXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DOAXX,DWS Money Market Prime Series - DWS Cash Investment Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DNSXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Treasury and Agency Cash Advantage Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DOCXX,DWS Money Market Prime Series - DWS Cash Investment Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DOAXX,DWS Money Market Prime Series - DWS Cash Investment Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DOSXX,DWS Money Market Prime Series - DWS Cash Investment Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DPGXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DPRXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1613,8 +1613,8 @@ DSHXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Preferred Gov
 DSVXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Preferred Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DTAXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DTBXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DTDXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DTCXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTDXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DTGXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DTHXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DTKXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1623,83 +1623,83 @@ DTNXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.
 DTPXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DTVXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DVPXX,Dreyfus Government Cash Management Funds - Dreyfus Government Prime Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-DWGXX,Morgan Stanley U.S Government Money Market Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 DVRXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DWGXX,Morgan Stanley U.S Government Money Market Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ELMXX,Elfun Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FAAXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FAPXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FATXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FCEXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FCGXX,Fidelity Colchester Street Trust - Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCEXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FCIXX,Fidelity Colchester Street Trust - Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FCOXX,Fidelity Colchester Street Trust - Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FCSXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCYXX,Goldman Sachs Trust - Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FCVXX,Fidelity Colchester Street Trust - Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FDCXX,Fidelity Newbury Street Trust - Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FCYXX,Goldman Sachs Trust - Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FDEXX,Fidelity Newbury Street Trust - Tax-Exempt Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FEAXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FEDXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FDUXX,Fidelity Newbury Street Trust - Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FEDXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FEIXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FESXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FERXX,Fidelity Newbury Street Trust - Tax-Exempt Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FETXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FESXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FEXXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FFCXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FFTXX,Money Market Obligations Trust - Federated Institutional Tax-Free Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FFCXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FGAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FGDXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGNXX,Fidelity Salem Street Trust - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FGEXX,Fidelity Colchester Street Trust - Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FGGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FGNXX,Fidelity Salem Street Trust - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FGVXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FGUXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGVXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FGZXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FHIXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FHMXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FHSXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FIHXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FIKXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FIOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FILXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FISXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FIOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FIRXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FISXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FIWXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FKIXX,Goldman Sachs Trust - Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FLGXX,Fidelity Hereford Street Trust-Flexible Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FLPXX,Meeder Funds - Institutional Prime Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FLIXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FLPXX,Meeder Funds - Institutional Prime Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMAXX,Fidelity Massachusetts Municipal Trust - Fidelity Massachusetts AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMEXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMFXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FMKXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMGXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMOXX,Fidelity Newbury Street Trust - Tax-Exempt Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMKXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMPXX,Fidelity Colchester Street Trust - Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMQXX,Fidelity Salem Street Trust - Fidelity SAI Municipal Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMSXX,Fidelity Massachusetts Municipal Trust - Fidelity Massachusetts AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FMYXX,Fidelity Colchester Street Trust - Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FNCXX,Money Market Obligations Trust - Federated New York Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FNBXX,Fidelity Hereford Street Trust - Fidelity Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FNDXX,Federated Private Liquidity Funds-Prime Private Liquidity Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FNCXX,Money Market Obligations Trust - Federated New York Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FNKXX,Fidelity New York Municipal Trust II - Fidelity New York AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FNTXX,Money Market Obligations Trust - Federated New York Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FOAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FOCXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FODXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FOEXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOCXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FOIXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOEXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FOPXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FOSXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FOXXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FOYXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FOZXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FPPXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FPUXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FRBXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FRQXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FPUXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FRFXX,Money Market Obligations Trust - Federated Hermes Capital Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FRQXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FRRXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FRSXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FSGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1707,161 +1707,161 @@ FSBXX,Fidelity California Municipal Trust II - Fidelity California AMT Tax-Free 
 FSJXX,Fidelity Court Street Trust II - Fidelity New Jersey AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FSKXX,Fidelity Court Street Trust II - Fidelity New Jersey AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FSNXX,Fidelity New York Municipal Trust II - Fidelity New York AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FSPXX,Fidelity California Municipal Trust II - Fidelity California AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FSOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSPXX,Fidelity California Municipal Trust II - Fidelity California AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FSRXX,Fidelity Newbury Street Trust - Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTAXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FSXXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FTCXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTDXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTCXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTFXX,Money Market Obligations Trust - Federated Institutional Tax-Free Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTGXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTJXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTKXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTQXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FTUXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTTXX,Fifth Third Funds - Fifth Third US Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTUXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTVXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FTXXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTYXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTXXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FTZXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FUGXX,Invesco Treasurers Series Trust - Invesco Premier U.S. Government Money Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FUIXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FUPXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FVAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FUZXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FVAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FVIXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FVSXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FXRXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FYAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-FYSXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FYRXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FZAXX,Fidelity Hereford Street Trust - Fidelity Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FYSXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FZBXX,Fidelity Hereford Street Trust - Fidelity Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FZEXX,Fidelity Newbury Street Trust - Tax-Exempt Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FZFXX,Fidelity Newbury Street Trust - Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FZGXX,Fidelity Hereford Street Trust - Fidelity Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 FZRXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GBAXX,The Gabelli Money Market Funds - The Gabelli U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GABXX,The Gabelli Money Market Funds - The Gabelli U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GCFXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GBAXX,The Gabelli Money Market Funds - The Gabelli U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GBCXX,The Gabelli Money Market Funds - The Gabelli U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GCIXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GCFXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GCGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GCIXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GCTXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GFAXX,SEI Daily Income Trust - Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GFCXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GFPXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GICXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GGPXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GMBXX,General Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GICXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GIPXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GMCXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMBXX,General Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GMGXX,General Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMCXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GMIXX,Nationwide Mutual Funds - Nationwide Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GMMXX,General Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GMLXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMMXX,General Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GMOXX,AB Fixed-Income Shares Inc. - AB Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GMQXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GMRXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GMYXX,GuideStone Funds - Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GOAXX,Money Market Obligations Trust - Federated Hermes Government Obligations Tax-Managed Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GMZXX,GuideStone Funds - Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GOAXX,Money Market Obligations Trust - Federated Hermes Government Obligations Tax-Managed Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GOFXX,Money Market Obligations Trust - Federated Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GOIXX,Federated Hermes Govt Obl IS,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GOTXX,Money Market Obligations Trust - Federated Hermes Government Obligations Tax-Managed Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GPFXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GOVXX,Money Market Obligations Trust - Federated Government Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPFXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GPGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GPIXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GPOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GPVXX,Short-Term Investment Trust - Invesco Government & Agency Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GPTXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPVXX,Short-Term Investment Trust - Invesco Government & Agency Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GRAXX,Money Market Obligations Trust - Federated Hermes Government Reserves Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GRCXX,Money Market Obligations Trust - Federated Hermes Government Reserves Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GRFXX,Money Market Obligations Trust - Federated Hermes Government Reserves Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GRGXX,Money Market Obligations Trust - Federated Hermes Government Reserves Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GSGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GSFXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GSOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GSGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GSIXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GTOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GSOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GTPXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GTRXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GTSXX,Money Market Obligations Trust - Federated Hermes Government Obligations Tax-Managed Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GVCXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-GVIXX,Allspring Funds Trust - Allspring Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GVRXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GVIXX,Allspring Funds Trust - Allspring Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GVSXX,State Street Insti U.S. Government Money Market Fd Service Class,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 GVVXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 HBIXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 HDIXX,Homestead Funds Inc. - Daily Income Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 HGDXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 HGFXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-HGGXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 HGIXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HGGXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 HTDXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-HTFXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 HTGXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-IATXX,Transamerica Funds - Transamerica Government Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HTFXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 HTYXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IATXX,Transamerica Funds - Transamerica Government Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ICAXX,DWS Government Money Market Series - Institutional,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ICTXX,Investors Cash Trust - DWS Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-IMRXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 IMLXX,Transamerica Funds - Transamerica Government Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 INAXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-INVXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IMRXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 INGXX,Legg Mason Partners Institutional Trust - Western Asset Institutional Government Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+INVXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 IPPXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 IPTXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 IPVXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-IRVXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 IRCXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IRVXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ISSXX,Federated Private Liquidity Funds-Prime Private Liquidity Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 ITVXX,Investors Cash Trust - DWS Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JAMXX,Janus Investment Fund - Janus Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 IVMXX,Voya Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JHMXX,John Hancock Money Market Fund Class A,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 JMCXX,John Hancock Money Market Fund Class C,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 JHOXX,John Hancock Variable Insurance Trust - Money Market Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 IUSXX,Treasury Portfolio - Deutsche U.S. Treasury Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-JHMXX,John Hancock Money Market Fund Class A,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-JAMXX,Janus Investment Fund - Janus Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 JNMXX,Janus Investment Fund - Janus Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 JNSXX,Edward Jones Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 JRSXX,ftse-kicks-2011-off-boosted-by-oil-manufacturing.aspx,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 KMMXX,DWS Money Market Prime Series - DWS Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 LACXX,Lord Abbett U.S. Govt & Govt Sponsored Enterprises Money Mkt Fd Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 LAIXX,Legg Mason Partners Institutional Trust - U.S. Treasury Obligations Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-LAYXX,Lord Abbett U.S. Govt & Govt Sponsored Entpr MMkt Fd Cl I,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 LAOXX,Legg Mason Partners Institutional Trust - U.S. Treasury Obligations Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LAYXX,Lord Abbett U.S. Govt & Govt Sponsored Entpr MMkt Fd Cl I,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 LCCXX,Lord Abbett U.S. Government & Government Sponsored Enterprises Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 LGRXX,Legg Mason Partners Institutional Trust - Western Asset Institutional Government Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 LTRXX,Legg Mason Partners Institutional Trust - Western Asset Institutional U.S. Treasury Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 LUIXX,Legg Mason Partners Institutional Trust - U.S. Treasury Obligations Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 LWPXX,Legg Mason Partners Institutional Trust - Western Asset Institutional Government Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MAMXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MAAXX,Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MAOXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MAMXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MAYXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MCBXX,BlackRock Financial Institutions Series Trust - BlackRock Summit Cash Reserves Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MCCXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MCDXX,BlackRock Liquidity Funds - MuniCash,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MCPXX,BlackRock Liquidity Funds MuniCash - Capital,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MCHXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MCMXX,MFS Series Trust IV - MFS U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MCRXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MCPXX,BlackRock Liquidity Funds MuniCash - Capital,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MFCXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MGAXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MFSXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MGMXX,JPMorgan Trust II - JPMorgan U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MGAXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MGOXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MGPXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MGSXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MIFXX,Nationwide Mutual Funds - Nationwide Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MHSXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MIFXX,Nationwide Mutual Funds - Nationwide Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MIPXX,The MainStay Funds - MainStay Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MJCXX,Prudential Government Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MJAXX,Prudential Government Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MJCXX,Prudential Government Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MJLXX,JPMorgan Trust II - JPMorgan Liquid Assets Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MMIXX,Wells Fargo Funds Trust - National Tax-Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MNVXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1873,10 +1873,10 @@ MOTXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,
 MPCXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MPIXX,ProFunds - Money Market ProFund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MPMXX,Morgan Stanley Institutional Liquidity Funds - Prime Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MPRXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MPNXX,Morgan Stanley Institutional Liquidity Funds - Prime Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MPSXX,ProFunds - Money Market ProFund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPRXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MPVXX,Morgan Stanley Institutional Liquidity Funds - Prime Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPSXX,ProFunds - Money Market ProFund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MREXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MSAXX,BlackRock Summit Cash Reserves Fund Cl A,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MSCXX,The MainStay Funds - MainStay Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1891,18 +1891,18 @@ MSUXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10
 MSVXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MTCXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MTNXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MTTXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MTSXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-MVAXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MTTXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MUIXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MVAXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MVIXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MVVXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MVYXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 MYMXX,AB Fixed-Income Shares Inc. - AB Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 NCGXX,North Capital Funds Trust - Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 NISXX,Money Market Obligations Trust - Federated New York Municipal Cash Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-NOGXX,Northern Funds - U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 NITXX,Northern Institutional Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NOGXX,Northern Funds - U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 NOSXX,Northern Funds - U.S. Government Select Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 NTPXX,Northern Institutional Funds - Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 NWGXX,Allspring Funds Trust - Allspring Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1916,48 +1916,48 @@ PCEXX,PACE Select Advisors Trust - PACE Money Market Investments,1,2,4,10,6,3,2,
 PCSXX,Principal Fds Inc. Money Market Fd A Cl,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PCOXX,Money Market Obligations Trust - Federated Prime Cash Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PCUXX,Fundvantage Trust - Pac Capital US Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-PFCXX,Putnam Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PCVXX,Money Market Obligations Trust - Federated Prime Cash Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PFCXX,Putnam Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PGDXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PGEXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PGFXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PGKXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PGLXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-PGOXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PGPXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-PGYXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGOXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PGRXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-PIFXX,Plan Investment Fund Inc. - Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGYXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PINXX,BlackRock Funds - BlackRock Wealth Liquid Environmentally Aware Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-PIVXX,Wells Fargo Funds Trust - Treasury Plus Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PIFXX,Plan Investment Fund Inc. - Government Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PISXX,Wells Fargo Funds Trust - Treasury Plus Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-PMJXX,Principal Fds Inc. Money Market Fd J Cl,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PIVXX,Wells Fargo Funds Trust - Treasury Plus Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PMTXX,Pioneer Money Market Trust - Pioneer U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PMJXX,Principal Fds Inc. Money Market Fd J Cl,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PMZXX,Prudential Government Money Market Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PRMXX,Federated Private Liquidity Funds-Prime Private Liquidity Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PRRXX,T. Rowe Price Government Money Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PRTXX,T. Rowe Price U.S. Treasury Funds Inc. - T. Rowe Price U.S. Treasury Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-PRYXX,Pioneer Money Market Trust - Pioneer U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PRVXX,Wells Fargo Funds Trust - Treasury Plus Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-PTEXX,T. Rowe Price Tax-Exempt Money Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PRYXX,Pioneer Money Market Trust - Pioneer U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PTBXX,Putnam Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PTEXX,T. Rowe Price Tax-Exempt Money Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 PURXX,Putnam Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-RGYXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 RBEXX,American Funds U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+RGYXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 RMGXX,Ubs Money Series - RMA Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-RYFXX,Rydex Series Funds - U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 RPGXX,Davis Series Inc. - Davis Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+RYFXX,Rydex Series Funds - U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SAEXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SAJXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SALXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SCAXX,Schwab California Municipal Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SAJXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SAMXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SCAXX,Schwab California Municipal Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SCIXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SCOXX,Schwab Treasury Obligations Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SCPXX,SEI Daily Income Trust - Treasury II Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SCTXX,Schwab AMT Tax-Free Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SCOXX,Schwab Treasury Obligations Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SEGXX,UBS Series Funds - UBS Select Government Preferred Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SEOXX,SEI Daily Income Trust - Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SEGXX,UBS Series Funds - UBS Select Government Preferred Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SETXX,UBS (Cayman) Select Treasury Institutional Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SGAXX,The Saratoga Advantage Trust - U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SGMXX,The Saratoga Advantage Trust - U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1965,21 +1965,21 @@ SGPXX,UBS Series Funds - UBS Select Government Preferred Fund,1,2,4,10,6,3,2,3,3
 SGUXX,Schwab Government Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SMGXX,Legg Mason Partners Money Market Trust - Western Asset Government Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SNAXX,The Charles Schwab Family of Funds - Schwab Value Advantage Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SNRXX,Schwab Charles Family Funds - Retirment Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SNOXX,Charles Schwab Family of Funds - Schwab Treasury Obligations Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SNRXX,Schwab Charles Family Funds - Retirment Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SNSXX,The Charles Schwab Family of Funds - Schwab U.S. Treasury Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SNVXX,Schwab Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SNYXX,Schwab New York Municipal Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SNVXX,Schwab Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SPRXX,Fidelity Hereford Street Trust - Fidelity Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SSJXX,State Street Institutional Investment Trust- Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SSKXX,State Street Institutional Investment Trust - State Street Institutional Tax Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SSOXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SSJXX,State Street Institutional Investment Trust- Treasury Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SSNXX,State Street Institutional Investment Trust - State Street Institutional Tax Free Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SSOXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SSQXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-STGXX,Wells Fargo Funds Trust - Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 STPXX,UBS Money Series - UBS Select Treasury Preferred Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-SUTXX,Schwab U.S. Treasury Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+STGXX,Wells Fargo Funds Trust - Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SWKXX,The Charles Schwab Family of Funds - Schwab California Municipal Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SUTXX,Schwab U.S. Treasury Money Fund Ultra Shares,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SWOXX,Schwab Municipal Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SWTXX,The Charles Schwab Family of Funds - Schwab Municipal Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 SWWXX,The Charles Schwab Family of Funds - Schwab AMT Tax-Free Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -1991,12 +1991,12 @@ TAQXX,State Street Institutional Investment Trust -Treasury Obligations Money Ma
 TBIXX,Money Market Obligations Trust - Federated Tax-Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TBSXX,Money Market Obligations Trust - Federated Tax-Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TBVXX,Money Market Obligations Trust - Federated Tax-Free Obligations Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-TCGXX,SEI Daily Income Trust - Government II Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TCIXX,TIAA-CREF Funds - TIAA-CREF Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TCGXX,SEI Daily Income Trust - Government II Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TCRXX,American Century Investment Trust - Premium Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TERXX,T. Rowe Price Tax-Exempt Money Fund Inc.,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-TFGXX,Transamerica Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TFFXX,BlackRock Liquidity Funds - Federal Trust Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TFGXX,Transamerica Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TGRXX,Transamerica Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TGTXX,Transamerica Funds - Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TIEXX,TIAA-CREF Funds - TIAA-CREF Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -2007,32 +2007,32 @@ TLMXX,TIAA-CREF Life Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avo
 TMDXX,T. Rowe Price State Tax-Free Income Trust - T. Rowe Price Maryland Tax-Free Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TMHXX,TIAA-CREF Life Funds - Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TPFXX,Short-Term Investment Trust - Invesco Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-TPPXX,TIAA-CREF Funds - TIAA-CREF Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TPLXX,State Street Institutional Investment Trust - International Treasure Plus Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TPPXX,TIAA-CREF Funds - TIAA-CREF Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TPVXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TRGXX,T. Rowe Price U.S. Treasury Funds Inc. - T. Rowe Price U.S. Treasury Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TRIXX,State Street Institutional Investment Trust - Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TRPXX,Short-Term Investment Trust - Invesco Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-TRZXX,T. Rowe Price U.S. Treasury Funds Inc. - T. Rowe Price U.S. Treasury Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TRVXX,State Street Institutional Investment Trust - Treasury Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TRZXX,T. Rowe Price U.S. Treasury Funds Inc. - T. Rowe Price U.S. Treasury Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TSPXX,Short-Term Investment Trust - Invesco Treasury Obligations Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TTGXX,T Rowe Price Government Money Funds Inc - Government Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-TUGXX,RBC Funds Trust - U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-TUIXX,RBC Funds Trust - U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TTOXX,Money Market Obligations Trust - Federated Trust for U.S. Treasury Obligations,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TUIXX,RBC Funds Trust - U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TUGXX,RBC Funds Trust - U.S. Government Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TWNXX,T. Rowe Price State Tax-Free Income Trust - T. Rowe Price Maryland Tax-Free Money Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TXMXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TXPXX,Short-Term Investment Trust - Invesco Treasury Obligations Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 TYCXX,Short-Term Investment Trust - Invesco Treasury Portfolio,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-UATXX,USAA Mutual Funds Trust - USAA Treasury Money Market Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 UPPXX,UBS Select Prime Preferred Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+UATXX,USAA Mutual Funds Trust - USAA Treasury Money Market Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 UPRXX,Ubs Money Series - Prime Reserve  Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 USAXX,USAA Mutual Funds Trust - USAA Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 USEXX,USAA Mutual Funds Trust - USAA Tax Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 UTIXX,Money Market Obligations Trust - Federated Hermes U.S. Treasury Cash Reserves,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 UTSXX,Shelton Funds - The United States Treasury Trust,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
-VETXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 VCTXX,Vanguard California Municipal Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+VETXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 VMRXX,Vanguard Money Market Reserves - Vanguard Cash Reserves Federal Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 VMSXX,Vanguard Municipal Bond Funds - Vanguard Municipal Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
 VYFXX,Vanguard New York Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,3,30,-10.0,20.0,Broken,Avoid/exit,30,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
@@ -2355,8 +2355,8 @@ KHYQX,DEUTSCHE HIGH INCOME FUND CLASS R6,4.43,5,3,5,6,3,2,3,27,-10.0,17.0,Broken
 ECTXF,Electrolux Professional AB (publ),4.65,3,3,8,4,3,3,3,27,-10.0,17.0,Broken,Avoid/exit,12,0.0,0.0,-5.6,0.1,0,,Industrials,1336398080.0,96.25
 SDSAX,WESTERN ASSET GLOBAL STRATEGIC INCOME FUND CLASS A,4.96,5,6,2,6,3,2,3,27,-10.0,17.0,Broken,Avoid/exit,23,-0.6,0.0,-0.4,40.8,0,,nan,0.0,0.0
 EMDCX,PRUDENTIAL EMERGING MARKETS DEBT LOCAL CURRENCY FUND CLASS C,4.84,5,6,3,6,3,1,3,27,-10.0,17.0,Broken,Avoid/exit,25,-1.2,0.0,-0.7,42.1,0,,nan,0.0,0.0
-SHIYX,WESTERN ASSET SHORT DURATION HIGH INCOME FUND CLASS I,4.78,6,5,2,6,3,2,3,27,-10.0,17.0,Broken,Avoid/exit,27,-0.4,-0.2,-0.3,38.6,0,,nan,0.0,0.0
 SDSIX,WESTERN ASSET GLOBAL STRATEGIC INCOME FUND CLASS C1,4.97,5,5,3,6,3,2,3,27,-10.0,17.0,Broken,Avoid/exit,23,-0.6,0.0,-0.4,39.6,0,,nan,0.0,0.0
+SHIYX,WESTERN ASSET SHORT DURATION HIGH INCOME FUND CLASS I,4.78,6,5,2,6,3,2,3,27,-10.0,17.0,Broken,Avoid/exit,27,-0.4,-0.2,-0.3,38.6,0,,nan,0.0,0.0
 SDSYX,WESTERN ASSET GLOBAL STRATEGIC INCOME FUND CLASS I,4.98,5,6,2,6,3,2,3,27,-10.0,17.0,Broken,Avoid/exit,24,-0.6,0.0,-0.4,40.8,0,,nan,0.0,0.0
 HLDYX,THE HARTFORD EMERGING MARKETS LOCAL DEBT FUND CLASS Y,4.84,4,4,4,6,3,3,3,27,-10.0,17.0,Broken,Avoid/exit,28,-0.8,-0.4,-0.8,40.9,0,,nan,0.0,0.0
 PBHAX,PRUDENTIAL HIGH YIELD FUND CLASS A,4.78,5,6,2,6,3,2,3,27,-10.0,17.0,Broken,Avoid/exit,30,-0.4,0.0,-0.3,41.2,0,,nan,0.0,0.0
@@ -2405,8 +2405,8 @@ NNBR,NN Inc,2.81,17,5,3,14,3,0,4,46,-30.0,16.0,Broken,Avoid/exit,61,-5.4,16.1,3.
 OCCI,OFS Credit Company Inc,3.23,5,5,2,4,3,5,2,26,-10.0,16.0,Broken,Avoid/exit,21,-3.6,-3.3,-2.5,45.6,1,,Financial Services,94681680.0,320869.39
 UBXG,U-BX Technology Ltd. Ordinary Shares,3.03,15,7,5,5,5,4,5,46,-30,16,Broken,Avoid/exit,44,-13.7,2248.8,40.0,67.5,3,,Communication Services,5508637.0,45489.35
 JFHYX,John Hancock Focused High Yield Fund Cla,3.02,6,4,2,6,3,2,3,26,-10.0,16.0,Broken,Avoid/exit,30,-0.3,0.0,-0.2,43.6,0,,nan,0.0,0.0
-TQPCX,Touchstone Strategic Income Opportunities Fund Class C,3.28,7,6,2,6,0,2,3,26,-10.0,16.0,Broken,Avoid/exit,29,-0.3,0.3,-0.1,46.3,0,,nan,nan,0.0
 TQPAX,Touchstone Strategic Income Opportunities Fund Class A,3.26,6,8,1,6,0,2,3,26,-10.0,16.0,Broken,Avoid/exit,26,-0.3,0.3,-0.2,44.3,0,,nan,nan,0.0
+TQPCX,Touchstone Strategic Income Opportunities Fund Class C,3.28,7,6,2,6,0,2,3,26,-10.0,16.0,Broken,Avoid/exit,29,-0.3,0.3,-0.1,46.3,0,,nan,nan,0.0
 FXCNF,FIH Mobile Limited,3.51,14,3,2,4,3,5,5,36,-20.0,16.0,Broken,Avoid/exit,56,0.0,0.0,0.3,55.0,0,,Technology,2747351552.0,43.5
 AHYCX,INVESCO HIGH YIELD FUND CLASS C,3.52,4,6,2,6,3,2,3,26,-10.0,16.0,Broken,Avoid/exit,31,-0.6,0.0,-0.3,43.3,0,,nan,0.0,0.0
 GPIIX,GRANDEUR PEAK INTERNATIONAL OPPORTUNITIES FUND GRANDEUR PEAK INTERNATIONAL OPPORTUNITIES FUND INSTITUTIONAL CLASS,3.52,8,4,1,7,3,1,2,26,-10.0,16.0,Broken,Avoid/exit,44,-4.3,-1.1,-1.8,44.4,0,,nan,0.0,0.0
@@ -2559,8 +2559,8 @@ WBDSF,WBDSF,3.0,6,4,2,3,3,3,2,23,-10.0,13.0,Broken,Avoid/exit,35,0.0,0.0,-5.7,2.
 SBC,SBC Medical Group Holdings Incorporated,3.01,3,7,5,4,0,2,2,23,-10.0,13.0,Broken,Avoid/exit,10,-6.2,-2.9,-4.9,38.2,0,,Industrials,314911200.0,69475.86
 BLRX,BioLineRx Ltd,3.23,13,5,2,5,3,0,5,33,-20.0,13.0,Broken,Avoid/exit,47,-14.6,12.9,1.8,53.7,2,,Healthcare,14960542.0,34229.93
 ISPC,iSpecimen Inc,3.02,10,4,4,3,5,0,2,28,-15.0,13.0,Broken,Avoid/exit,52,-4.4,-15.4,-10.8,45.2,1,,Healthcare,4570159.0,379532.01
-THYUX,HIGH YIELD FUND HIGH YIELD FUND,3.21,3,6,0,6,3,2,3,23,-10.0,13.0,Broken,Avoid/exit,33,-0.3,-0.3,-0.3,44.3,0,,nan,0.0,0.0
 JHHBX,JOHN HANCOCK FOCUSED HIGH YIELD FUND CLASS A,3.02,3,5,1,6,3,2,3,23,-10.0,13.0,Broken,Avoid/exit,26,-0.7,-0.3,-0.4,39.8,0,,nan,0.0,0.0
+THYUX,HIGH YIELD FUND HIGH YIELD FUND,3.21,3,6,0,6,3,2,3,23,-10.0,13.0,Broken,Avoid/exit,33,-0.3,-0.3,-0.3,44.3,0,,nan,0.0,0.0
 JYHIX,JOHN HANCOCK FOCUSED HIGH YIELD FUND CLASS I,3.02,3,5,1,6,3,2,3,23,-10.0,13.0,Broken,Avoid/exit,26,-0.7,-0.3,-0.4,39.3,0,,nan,0.0,0.0
 MHGUP,Meritage Hospitality Group Inc. PFD CV SER B,3.0,5,8,1,2,3,2,2,23,-10.0,13.0,Broken,Avoid/exit,18,1.7,33.3,-19.1,29.5,2,,Other,nan,503.05
 ALNPY,ANA Holdings Inc ADR,3.47,1,9,3,0,3,4,3,23,-10.0,13.0,Broken,Avoid/exit,12,-7.6,-0.8,-2.0,44.3,0,,Industrials,7766415872.0,6603.75
@@ -2652,14 +2652,14 @@ HUIZ,Huize Holding Ltd,1.4,2,3,1,9,2,2,2,21,-10.0,11.0,Broken,Avoid/exit,21,-1.
 MRNFF,Meren Energy Inc.,1.58,2,2,6,5,0,4,2,21,-10.0,11.0,Broken,Avoid/exit,41,-5.4,-6.0,-6.3,35.7,1,,Energy,1115590272.0,162410.28
 FLYE,"Fly-E Group, Inc. Common Stock",1.69,2,6,8,4,0,4,2,26,-15.0,11.0,Broken,Avoid/exit,23,-15.9,-2.9,-9.6,40.8,1,,Consumer Cyclical,3068885.0,233260.34
 PALI,Palisade Bio Inc,1.74,2,3,5,5,0,4,2,21,-10.0,11.0,Broken,Avoid/exit,30,-17.9,-13.4,-10.7,39.7,0,,Healthcare,335394752.0,5322832.89
-STXS,Stereotaxis Inc,1.78,2,3,1,8,0,0,2,16,-5.0,11.0,Broken,Avoid/exit,19,-10.1,-6.3,-6.5,41.7,1,,Healthcare,183745008.0,483199.22
 CNTX,Context Therapeutics Inc,1.75,0,5,0,9,0,0,2,16,-5.0,11.0,Broken,Avoid/exit,35,-38.6,-27.1,-26.3,32.3,1,,Healthcare,186514720.0,858841.52
+STXS,Stereotaxis Inc,1.78,2,3,1,8,0,0,2,16,-5.0,11.0,Broken,Avoid/exit,19,-10.1,-6.3,-6.5,41.7,1,,Healthcare,183745008.0,483199.22
 HOUR,Hour Loop Inc,1.9,4,9,2,0,2,2,2,21,-10.0,11.0,Broken,Avoid/exit,33,-0.5,-3.6,-4.7,43.7,0,,Consumer Cyclical,67216504.0,1529140.2
 GENK,"GEN Restaurant Group, Inc. Class A Common Stock",1.92,6,4,0,9,3,2,2,26,-15.0,11.0,Broken,Avoid/exit,32,-7.2,-19.3,-6.2,46.4,1,,Consumer Cyclical,63621712.0,52733.47
 XDHYX,Credit Suisse High Yield Bond Fund,1.94,1,7,2,6,0,3,2,21,-10.0,11.0,Broken,Avoid/exit,15,0.0,0.5,-1.3,23.7,0,,Other,0.0,0.0
 HUTCY,Hutchison Telecommunications Hong Kong Holdings Ltd ADR,2.09,6,3,3,1,3,3,2,21,-10.0,11.0,Broken,Avoid/exit,44,0.0,0.0,-1.3,28.1,0,,Communication Services,671460736.0,223.27
-VVVNF,Vivendi SE,2.43,5,2,2,3,3,4,2,21,-10.0,11.0,Broken,Avoid/exit,30,-4.0,-9.0,-6.8,44.5,0,,Communication Services,2560161792.0,3155.6
 MXCHY,Orbia Advance Corp,2.43,6,2,6,5,3,2,2,26,-15.0,11.0,Broken,Avoid/exit,48,-8.3,-6.5,-5.3,39.1,1,,Industrials,2518820352.0,8239.6
+VVVNF,Vivendi SE,2.43,5,2,2,3,3,4,2,21,-10.0,11.0,Broken,Avoid/exit,30,-4.0,-9.0,-6.8,44.5,0,,Communication Services,2560161792.0,3155.6
 GALT,Galectin Therapeutics Inc,2.33,4,8,3,6,0,0,5,26,-15.0,11.0,Broken,Avoid/exit,23,-7.5,-7.5,-3.3,46.9,1,,Healthcare,156739424.0,383759.86
 RSSS,Research Solutions Inc,2.25,1,10,2,0,4,2,2,21,-10.0,11.0,Broken,Avoid/exit,24,3.2,-0.4,-1.8,45.5,1,,Technology,75256944.0,85176.55
 HTZWW,Hertz Global Hldgs New Equity Warrants,2.47,2,11,2,0,4,0,2,21,-10.0,11.0,Broken,Avoid/exit,25,-5.7,0.8,-5.1,42.3,0,,nan,nan,99864.11
@@ -2699,8 +2699,8 @@ QNCX,"Quince Therapeutics, Inc.",1.01,4,4,7,3,3,2,2,25,-15.0,10.0,Broken,Avoid/e
 BUYXX,BUYXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,30,0.0,0.0,-12.2,42.7,0,,nan,nan,0.0
 BVYXX,BVYXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,30,0.0,0.0,-12.2,42.7,0,,nan,nan,0.0
 CAHXX,CAHXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,27,0.0,0.0,-12.2,42.7,0,,nan,nan,0.0
-CAJXX,CAJXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,30,0.0,0.0,-12.2,42.7,0,,nan,nan,0.0
 CSJXX,CSJXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,25,0.0,0.0,-12.3,42.7,0,,nan,nan,0.0
+CAJXX,CAJXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,30,0.0,0.0,-12.2,42.7,0,,nan,nan,0.0
 OPGXX,OPGXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,31,0.0,0.0,-12.2,42.8,0,,nan,nan,0.0
 OPRXX,OPRXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,30,0.0,0.0,-12.2,42.9,0,,nan,nan,0.0
 OPTXX,OPTXX,1.0,2,5,3,4,3,1,2,20,-10.0,10.0,Broken,Avoid/exit,23,0.0,0.0,-12.2,42.8,0,,nan,nan,0.0
@@ -3085,8 +3085,8 @@ TCPC,BlackRock TCP Capital Corp,3.68,0,3,4,3,2,0,2,14,-10.0,4.0,Broken,Avoid/exi
 IZEA,IZEA Inc,3.71,0,7,3,3,2,2,2,19,-15.0,4.0,Broken,Avoid/exit,34,0.5,0.5,-3.4,42.0,2,,Communication Services,66025336.0,104971.58
 ASRV,AmeriServ Financial Inc,3.74,5,4,3,2,5,2,3,24,-20.0,4.0,Broken,Avoid/exit,55,1.1,-4.3,-1.5,46.2,0,,Financial Services,64124932.0,17162.33
 FHYTDX,FHYTDX,3.665,1,3,0,6,0,1,3,14,-10.0,4.0,Broken,Avoid/exit,13,-1.5,-0.8,-1.0,30.9,0,,nan,nan,0.0
-GSISF,Genesis Minerals Limited,3.9,0,3,2,5,2,0,2,14,-10.0,4.0,Broken,Avoid/exit,19,-3.9,-6.9,-9.8,36.1,0,,Basic Materials,4960903168.0,1407.38
 NEXXY,Nexi S.p.A,3.87,0,3,3,0,3,3,2,14,-10.0,4.0,Broken,Avoid/exit,17,-5.6,-2.3,-6.5,39.3,1,,Technology,4581428224.0,3608.96
+GSISF,Genesis Minerals Limited,3.9,0,3,2,5,2,0,2,14,-10.0,4.0,Broken,Avoid/exit,19,-3.9,-6.9,-9.8,36.1,0,,Basic Materials,4960903168.0,1407.38
 TBNGY,Bukit Asam Tbk PT ADR,3.8,2,4,2,1,0,3,2,14,-10.0,4.0,Broken,Avoid/exit,27,-4.3,-2.6,-6.6,25.2,0,,Energy,1838778368.0,705.75
 BIRD,Allbirds Inc,3.83,7,6,2,0,0,2,2,19,-15.0,4.0,Broken,Avoid/exit,21,-7.0,-7.9,-14.4,40.5,1,,Consumer Cyclical,35224204.0,1954322.46
 LDLFX,LORD ABBETT SHORT DURATION INCOME FUND CLASS F,3.83,1,2,0,6,0,2,3,14,-10.0,4.0,Broken,Avoid/exit,16,-0.5,-0.3,-0.4,28.3,0,,nan,0.0,0.0
@@ -3131,8 +3131,8 @@ EMPD,Empery Digital Inc.,3.32,0,7,1,6,0,2,2,18,-15.0,3.0,Broken,Avoid/exit,23,-2
 MLLUY,Metallurgical Corporation of China Ltd ADR,3.558,0,1,0,3,3,4,2,13,-10.0,3.0,Broken,Avoid/exit,18,-17.1,-17.1,-12.1,0.0,0,,Industrials,3680521472.0,19.65
 ATCX,Atlas Critical Minerals Corporation,3.71,0,3,3,1,0,4,2,13,-10.0,3.0,Broken,Avoid/exit,20,-13.7,-14.5,-18.6,25.5,0,,nan,20539504.0,40095.55
 BGS,B&G Foods Inc,3.9,1,5,2,1,2,0,2,13,-10.0,3.0,Broken,Avoid/exit,15,-4.6,-8.2,-9.1,28.5,1,,Consumer Defensive,320609664.0,2178765.67
-CDZI,Cadiz Inc,4.14,5,8,0,3,0,0,2,18,-15.0,3.0,Broken,Avoid/exit,15,-15.2,-1.2,-8.2,41.3,1,,Utilities,383433472.0,844052.03
 IRD,"Opus Genetics, Inc.",4.03,5,7,1,1,0,2,2,18,-15.0,3.0,Broken,Avoid/exit,45,-7.6,-6.1,-9.3,40.6,1,,Healthcare,341861248.0,693756.23
+CDZI,Cadiz Inc,4.14,5,8,0,3,0,0,2,18,-15.0,3.0,Broken,Avoid/exit,15,-15.2,-1.2,-8.2,41.3,1,,Utilities,383433472.0,844052.03
 AHT-P-G,Ashford Hospitality Trust Inc 7.375% Series G Cumulative Preferred Stock,4.154,0,5,0,6,0,0,2,13,-10.0,3.0,Broken,Avoid/exit,6,-15.6,-21.7,-16.9,29.6,0,,Other,nan,4501.55
 OPHLY,Ono Pharmaceutical Co Ltd,4.55,1,8,0,0,2,0,2,13,-10.0,3.0,Broken,Avoid/exit,20,-7.9,-10.8,-6.4,34.9,0,,Healthcare,6400777728.0,65242.43
 CCCX,Churchill Capital Corp X Class A Ordinary Shares,4.5,3,2,1,6,0,4,2,18,-15.0,3.0,Broken,Avoid/exit,15,-25.0,-15.1,-35.6,36.7,1,,Financial Services,711003008.0,0.0
