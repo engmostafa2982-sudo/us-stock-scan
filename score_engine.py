@@ -1,9 +1,12 @@
 """
-30-Point Full-Spectrum Scoring Engine (v2) — faithful implementation of the
+30-Point Full-Spectrum Scoring Engine (v3) — faithful implementation of the
 anthropic-skills:30-point-scoring rubric for batch market-wide scanning.
 
-Implements all 31 indicators across 7 categories plus adjustment Rules 2-13
-(MCT, CQ, MHM, Distribution gate, Penalty cap) from price/volume data.
+Implements all 31 indicators across 7 categories plus adjustment Rules 2-19:
+v2: MCT (R13), CQ (R5v2), MHM (R6v2), Distribution gate (R9), Penalty cap (R12)
+v3 NEW: Exhaustion Detection (R14), Volume Acceleration (R15),
+        Days-Since-Breakout Decay (R16), Close Position Signal (R17),
+        Momentum Direction Modifier (R18), Coiled Spring Bonus (R19)
 
 Proxied/defaulted (documented): Put/Call -> neutral 2; Sector/breadth -> RS vs SPY;
 Catalyst CQ -> CQ-C; order book (D3), seasonals (D5), institutional (MCT5),
@@ -195,6 +198,180 @@ def pct_rank(s, val):
     s=s.dropna()
     if len(s)<5: return 50.0
     return (s<val).mean()*100
+
+# ------------------------------------------------------------------ v3 new rules (R14–R19)
+def compute_exhaustion(df):
+    """Rule 14 — Exhaustion Detection Penalty (v3). Returns (penalty, signal_count)."""
+    c=df.close; v=df.volume; n=len(df)
+    if n<22: return 0, 0
+    rv=rsi(c); last=-1; px=c.iloc[last]
+
+    # EX1: RSI was >70 within last 3 sessions AND is now falling
+    ex1=0
+    if len(rv)>=4:
+        rsi_now=rv.iloc[last]
+        rsi_prev3=rv.iloc[-4:-1]
+        if rsi_prev3.max()>70 and rsi_now<rv.iloc[-2]:
+            ex1=-3
+
+    # EX2: Price >2σ above 20-day MA
+    ex2=0
+    ma20=c.rolling(20).mean().iloc[last]
+    std20=c.rolling(20).std().iloc[last]
+    if std20>0 and (px-ma20)>2*std20:
+        ex2=-3
+
+    # EX3: Volume >1.5× 20-day avg for 3+ consecutive sessions
+    ex3=0
+    avgv20=v.rolling(20).mean()
+    consec=sum(1 for i in range(-3,0) if avgv20.iloc[i]>0 and v.iloc[i]>1.5*avgv20.iloc[i])
+    if consec>=3: ex3=-3
+
+    # EX4: Closed in bottom 30% of range after opening in top 50% (intraday reversal)
+    ex4=0
+    h_=df.high.iloc[last]; l_=df.low.iloc[last]
+    o_=df.open.iloc[last]; c_=c.iloc[last]
+    rng_=(h_-l_) or 1e-9
+    if (c_-l_)/rng_<=0.30 and (o_-l_)/rng_>=0.50:
+        ex4=-4
+
+    # EX5: MACD histogram shrinking 2+ consecutive bars while price rising
+    ex5=0
+    _,_,mhist=macd(c)
+    if len(mhist)>=4:
+        hv=mhist.iloc[-4:].values
+        if hv[-1]<hv[-2]<hv[-3] and c.iloc[-1]>c.iloc[-2]:
+            ex5=-3
+
+    total=ex1+ex2+ex3+ex4+ex5
+    count=sum(1 for x in [ex1,ex2,ex3,ex4,ex5] if x<0)
+    return total, count
+
+
+def compute_volume_acceleration(df):
+    """Rule 15 — Volume Acceleration Bonus/Penalty (v3, exempt from R12 cap)."""
+    c=df.close; v=df.volume; n=len(df)
+    if n<21: return 0
+    avgv=v.rolling(20).mean().iloc[-1]
+    if avgv<=0: return 0
+    var=v.iloc[-1]/avgv
+    green=c.iloc[-1]>df.open.iloc[-1]
+
+    # Volume compression → acceleration (pre-breakout coiling detection)
+    if n>=7:
+        if all(v.iloc[i]>=v.iloc[i+1] for i in range(-7,-1)) and var>=1.5 and green:
+            return 3  # "coiling spring releasing"
+
+    if var>=4.0 and green:     return 5
+    elif var>=2.5 and green:   return 3
+    elif var>=1.5 and green:   return 1
+    elif var<1.0 and green:    return -2
+    elif var>=2.5 and not green: return -4
+    return 0
+
+
+def compute_breakout_decay(df):
+    """Rule 16 — Days-Since-Breakout Decay multiplier for Category 6 Pattern (v3)."""
+    c=df.close; n=len(df)
+    if n<26: return 1.0
+    decay={0:1.00, 1:0.90, 2:0.80, 3:0.70, 4:0.55}
+    for days_since in range(0,6):
+        k=n-1-days_since  # absolute index of candidate breakout candle
+        if k<22: break
+        prior_high=c.iloc[k-21:k-1].max()
+        if c.iloc[k]>prior_high and c.iloc[k-1]<=prior_high:
+            return decay.get(days_since, 0.40)
+    return 1.0  # No recent breakout — no decay
+
+
+def compute_close_position(df):
+    """Rule 17 — Intraday Close Position Signal (v3). Returns penalty (negative) or bonus."""
+    n=len(df)
+    if n<10: return 0
+    h_=df.high.iloc[-1]; l_=df.low.iloc[-1]
+    o_=df.open.iloc[-1]; c_=df.close.iloc[-1]
+    v=df.volume
+    rng_=(h_-l_) or 1e-9
+    cp=(c_-l_)/rng_*100  # 0-100
+    avgv=v.rolling(20).mean().iloc[-1] if n>=20 else v.mean()
+    vol_up=v.iloc[-1]>v.iloc[-2] if n>=2 else False
+    vol_spike=avgv>0 and v.iloc[-1]>2*avgv
+    at_high=c_>=df.high.iloc[-6:-1].max()*0.97 if n>=6 else False
+    op_pos=(o_-l_)/rng_
+    was_at_highs=op_pos>=0.70
+    up_days=sum(1 for i in range(-5,-1) if df.close.iloc[i]>df.close.iloc[i-1]) if n>=6 else 0
+
+    if cp<=5 and up_days>=3:      return -5  # failed continuation after run
+    if cp<=20 and was_at_highs:   return -4  # intraday reversal / distribution
+    if cp<=20 and not at_high and vol_spike: return 2  # capitulation at lows
+    if cp>=80 and at_high:
+        return 2 if vol_up else -3   # strong close vs exhaustion close
+    return 0
+
+
+def compute_momentum_direction(df):
+    """Rule 18 — Momentum Direction Modifier (v3). Returns adjustment (±5 max)."""
+    c=df.close; n=len(df)
+    if n<20: return 0
+    rv=rsi(c)
+    if len(rv)<5: return 0
+    rsi_now=rv.iloc[-1]; rsi_3ago=rv.iloc[-4]
+    rsi_rising=rsi_now>rsi_3ago
+    mod=0
+
+    # RSI direction modifier
+    if rsi_rising:
+        if 40<=rsi_now<=60:   mod+=2
+        elif 60<rsi_now<=70:  mod+=1
+    else:
+        if 60<=rsi_now<=70:   mod-=2
+        elif rsi_now>70:      mod-=3
+
+    # Stochastic modifier
+    k_,d_=stoch(df)
+    if len(k_)>=5 and len(d_)>=1:
+        kn=k_.iloc[-1]; k3=k_.iloc[-4]; dn=d_.iloc[-1]
+        if kn<k3 and kn>80 and dn>80: mod-=2  # bearish cross from overbought
+        elif kn>k3 and kn<30 and kn>dn: mod+=2  # bullish cross from oversold
+
+    return max(-5, min(5, mod))
+
+
+def compute_coiled_spring(df):
+    """Rule 19 — Coiled Spring Bonus (v3, exempt from cap, mutex with R14)."""
+    c=df.close; v=df.volume; n=len(df)
+    if n<55: return 0
+    px=c.iloc[-1]
+
+    # CS1: BB Width at/near 20-day minimum (bands narrowing)
+    _,_,_,bbsd=bollinger(c,20,2)
+    bbm_=sma(c,20)
+    bb_w=(4*bbsd/bbm_.replace(0,np.nan)).fillna(0)
+    cs1=bool(bb_w.iloc[-1]<=bb_w.iloc[-20:].min()*1.15)
+
+    # CS2: Volume declining for 3+ sessions (participation drying up)
+    cs2=n>=5 and all(v.iloc[i]>=v.iloc[i+1] for i in range(-5,-1))
+
+    # CS3: Price above SMA 50 AND EMA 21 (healthy trend, just resting)
+    s50=sma(c,50).iloc[-1]; e21=ema(c,21).iloc[-1]
+    cs3=bool(px>s50 and px>e21)
+
+    # CS4: RSI in neutral zone 40-55 (not weak, not overbought)
+    rv=rsi(c)
+    cs4=bool(40<=rv.iloc[-1]<=55)
+
+    # CS5: Price near key support (within 5% of SMA 50 or near 20-day low)
+    look=df.iloc[-20:] if n>=20 else df
+    near_sma50=abs(px-s50)/(s50 or 1)<0.05
+    near_low=px<=look.low.min()*1.08
+    cs5=bool(near_sma50 or near_low)
+
+    count=sum([cs1,cs2,cs3,cs4,cs5])
+    if count>=5: return 8
+    elif count>=4: return 5
+    elif count>=3: return 3
+    return 0
+
 
 # ------------------------------------------------------------------ category scoring
 def score_categories(df, spy_ret20=None):
@@ -549,11 +726,41 @@ def adjustments(df, cats, meta, weekly_raw):
     pen+=r10
     items.append(("R10 Fundamentals", r10))
 
-    # R12 penalty cap
+    # R14 Exhaustion Detection (v3 NEW) — compute before R19 for mutex
+    r14_raw, ex_count = compute_exhaustion(df)
+    # R19 Coiled Spring (v3 NEW) — compute early for mutex with R14
+    r19_raw = compute_coiled_spring(df)
+    # Mutex: if both fire, apply only the one with larger absolute value
+    if r14_raw < 0 and r19_raw > 0:
+        if abs(r14_raw) >= r19_raw:
+            r14 = r14_raw; r19 = 0   # exhaustion dominates
+        else:
+            r14 = 0; r19 = r19_raw   # coiled spring dominates
+    else:
+        r14 = r14_raw; r19 = r19_raw
+    if r14 < 0: pen += r14   # only penalties go into capped sum
+    ex_flag = ("🛑 HIGH EXHAUSTION" if ex_count>=4 else
+               ("⚠️ EXHAUSTION RISK" if ex_count>=3 else ""))
+    items.append((f"R14 Exhaustion ({ex_count}/5)", r14))
+
+    # R17 Close Position Signal (v3 NEW) — penalty goes into cap, bonus is post-cap
+    r17 = compute_close_position(df)
+    if r17 < 0: pen += r17
+    items.append(("R17 Close Position", r17))
+
+    # R18 Momentum Direction (v3 NEW) — same split
+    r18 = compute_momentum_direction(df)
+    if r18 < 0: pen += r18
+    items.append(("R18 Mom Direction", r18))
+
+    # R12 penalty cap (v3: covers R3-R6, R8-R10, R14, R17-, R18-)
     cap = -45 if (nf>=5 and r10<0) else -30
     capped = max(pen, cap)
     cap_adj = capped - pen
     items.append((f"R12 Cap ({cap})", round(cap_adj,1)))
+
+    # Post-cap bonuses from R17/R18 (positive values only — exempt from cap)
+    post_bonus = max(0, r17) + max(0, r18)
 
     # R13 MCT (active if base5<=-20)
     mct_active = base5<=-20
@@ -562,7 +769,7 @@ def adjustments(df, cats, meta, weekly_raw):
         mct=compute_mct(df)
         mct_detail=mct
     # MCT offsets penalty (reduces magnitude, doesn't flip positive beyond intent)
-    total = capped + mct
+    total = capped + mct + post_bonus
 
     # R7 MTF bonus
     raw=sum(cats.values())
@@ -570,9 +777,15 @@ def adjustments(df, cats, meta, weekly_raw):
     items.append(("R7 MTF bonus", r7))
     total += r7
 
+    # R15 Volume Acceleration (v3, exempt from cap) — returned separately for score_ticker
+    r15 = compute_volume_acceleration(df)
+    items.append(("R15 Vol Accel", r15))
+    items.append(("R19 Coiled Spring", r19))
+
     return {"items":items,"total":round(total,1),"trend_cap":trend_cap,
             "mct_active":mct_active,"mct":mct,"dist_flags":nf,
-            "g5":round(g5,1),"g10":round(g10,1),"ext":round(ext,1),"rsi":round(r,1)}
+            "g5":round(g5,1),"g10":round(g10,1),"ext":round(ext,1),"rsi":round(r,1),
+            "r15":r15,"r19":r19,"ex_count":ex_count,"ex_flag":ex_flag}
 
 def count_divergences(df):
     c=df.close
@@ -632,6 +845,10 @@ def score_ticker(code, meta, spy_ret20):
     df=df.reset_index(drop=True)
     try:
         cats,det=score_categories(df,spy_ret20)
+        # R16 Days-Since-Breakout Decay: apply to Category 6 Pattern BEFORE raw sum
+        decay=compute_breakout_decay(df)
+        if decay<1.0:
+            cats['pattern']=int(cats['pattern']*decay)
         wk=weekly(df)
         weekly_raw=0
         if wk is not None and len(wk)>=30:
@@ -641,10 +858,16 @@ def score_ticker(code, meta, spy_ret20):
         raw=sum(cats.values())
         final=raw+adj['total']
         if adj['trend_cap']: final=min(final,50)
+        # R15 Volume Acceleration + R19 Coiled Spring (exempt from R12 cap)
+        final+=adj.get('r15',0)+adj.get('r19',0)
         final=max(0,min(100,final))
         zone,action=zone_of(final)
         if adj['mct_active'] and adj['mct']>=15:
             action="MCT: "+action+" (1-level up)"
+        if adj.get('r19',0)>=5:
+            action="🔥 COILED: "+action
+        if adj.get('ex_flag',''):
+            action=adj['ex_flag']+": "+action
         return {"code":code,"name":meta.get('name',''),"price":round(det['price'],3),
                 "trend":cats['trend'],"momentum":cats['momentum'],"volatility":cats['volatility'],
                 "volume":cats['volume'],"sr":cats['sr'],"pattern":cats['pattern'],
