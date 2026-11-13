@@ -1,0 +1,1212 @@
+code,name,price,trend,momentum,volatility,volume,sr,pattern,sentiment,raw,adj,final,zone,action,weekly_raw,g5,g10,ext,rsi,dist_flags,mct,sector,mcap,avgvol
+LGMK,LogicMark Inc,1.3,18,11,11,18,6,5,5,74,-10.0,69.0,Moderate,Enter w/ caution,60,30.0,20.4,17.8,65.9,2,,Healthcare,899759.0,4595.35
+CVPBF,CP ALL Public Company Limited,1.47,20,9,4,13,7,7,5,65,1.0,66.0,Moderate,Enter w/ caution,50,27.8,27.8,12.2,67.4,2,,Consumer Defensive,14551009280.0,0.0
+BRR,"ProCap Financial, Inc.",4.07,14,12,7,16,6,4,5,64,0.0,65.0,Moderate,Enter w/ caution,60,4.1,4.1,8.2,71.9,0,,Financial Services,174806896.0,868816.82
+GPTGF,GPT Group,3.31,17,6,9,9,4,9,5,59,-2.0,62.0,Moderate,🔥 COILED: Enter w/ caution,33,0.0,0.0,0.9,62.1,0,,Real Estate,6589586432.0,0.0
+CAOVF,China Overseas Land & Investment Limited,1.64,16,10,10,8,4,4,4,56,2.0,61.0,Moderate,Enter w/ caution,41,1.9,3.1,1.4,58.8,1,,Real Estate,22437011456.0,250.74
+CMDXF,Computer Modelling Group Ltd,2.9,11,14,6,8,8,2,3,52,4.0,61.0,Moderate,🔥 COILED: Enter w/ caution,48,7.0,0.7,1.2,52.2,1,,Technology,219943072.0,33770.83
+OERLF,OC Oerlikon Corporation AG,7.0,16,4,9,8,6,11,5,59,-3.0,61.0,Moderate,🔥 COILED: Enter w/ caution,57,0.0,0.0,0.5,70.0,1,,Industrials,1437811968.0,0.0
+FRMUF,Firm Capital Property Trust,4.99,15,9,4,9,4,8,5,54,2.0,61.0,Moderate,🔥 COILED: Enter w/ caution,44,0.0,1.6,0.5,56.2,0,,Real Estate,177243264.0,1082.44
+REDLF,Red 5 Limited,4.042,15,10,12,11,3,3,4,58,2.0,60.0,Moderate,Enter w/ caution,49,8.4,8.4,3.9,56.4,2,,Basic Materials,3310610944.0,5557.49
+SBC,SBC Medical Group Holdings Incorporated,5.34,14,14,5,13,6,2,4,58,2.0,60.0,Moderate,Enter w/ caution,60,6.4,-6.2,1.5,53.5,1,,Industrials,314911200.0,69475.86
+GNRV,Grand River Commerce Inc,5.69,16,3,6,14,6,8,5,58,0.0,58.0,Moderate,Enter w/ caution,72,3.5,7.1,3.8,74.6,0,,Financial Services,29915428.0,3200.44
+FSPXX,Fidelity California Municipal Trust II - Fidelity California AMT Tax-Free Money Market Fund,2.09,14,10,6,9,4,4,5,52,2.0,57.0,Moderate,Enter w/ caution,41,0.0,15.5,4.9,54.5,2,,nan,nan,0.0
+WIT,Wipro Limited ADR,2.13,13,7,7,14,5,5,5,56,-2.0,57.0,Moderate,Enter w/ caution,36,-1.4,0.9,2.5,61.9,0,,Technology,21610151936.0,9948261.57
+MGPUF,M&G Plc,4.29,10,5,11,12,3,8,5,54,0.0,57.0,Moderate,Enter w/ caution,41,0.0,0.0,0.3,53.9,0,,Financial Services,10000998400.0,1716.25
+TGMPF,Tantalus Systems Holding Inc.,3.43,15,11,6,14,6,7,5,64,-5.0,57.0,Moderate,Enter w/ caution,51,11.2,5.9,9.3,62.2,1,,Industrials,251017744.0,9970.33
+IRWD,Ironwood Pharmaceuticals Inc,4.85,19,3,7,17,7,2,5,60,-5.0,55.0,Moderate,Enter w/ caution,65,20.3,34.0,18.4,75.9,2,,Healthcare,533347456.0,2893320.39
+TOYWF,TOYWF,0.85,10,11,6,15,4,6,5,57,0.0,55.0,Moderate,Enter w/ caution,38,21.5,66.7,12.2,51.9,2,,nan,nan,0.0
+LUNG,Pulmonx Corp,3.0,19,8,4,14,7,3,5,60,-4.0,54.0,Weak,Watchlist only,70,17.2,-5.2,18.7,66.3,1,,Healthcare,68424272.0,1162899.3
+PTCHF,PureTech Health plc,1.655,16,10,7,10,6,7,5,61,-7.0,54.0,Weak,Watchlist only,42,6.1,6.1,4.2,77.6,2,,Healthcare,453244672.0,5435.5
+DNGYF,Dongyue Group Limited,1.6,13,7,11,7,3,4,4,49,0.0,54.0,Weak,🔥 COILED: Watchlist only,31,0.0,0.0,0.1,58.5,0,,Basic Materials,4916929536.0,190.35
+GXYEF,Galaxy Entertainment Group Ltd,4.51,14,5,6,14,1,4,5,49,0.0,54.0,Weak,Watchlist only,55,11.1,5.4,4.2,55.4,1,,Consumer Cyclical,18436603904.0,0.0
+TWIRF,Tree Island Steel Ltd,1.68,6,5,11,18,2,4,5,51,4.0,53,Weak,Watchlist only,35,1.2,1.2,0.2,48.0,1,,Basic Materials,43471140.0,0.0
+SMGBF,San Miguel Corporation,1.043,16,5,11,10,4,4,5,55,-3.0,52.0,Weak,Watchlist only,39,13.0,13.0,7.6,70.9,2,,Industrials,2700107264.0,0.0
+COPJF,Cooper Energy Limited,1.4,14,7,11,7,6,6,4,55,-8.0,52.0,Weak,🔥 COILED: Watchlist only,54,0.0,0.0,0.3,71.4,1,,Energy,404839136.0,0.0
+HOOK,Hookipa Pharma Inc,1.15,11,5,10,8,4,8,4,50,-3.0,52.0,Weak,🔥 COILED: Watchlist only,53,0.0,0.0,-0.0,48.3,1,,Healthcare,14232977.0,19126.47
+NWARF,Norwegian Air Shuttle ASA,1.358,12,8,5,14,4,4,5,52,-3.0,52.0,Weak,Watchlist only,42,0.7,8.6,4.6,55.8,1,,Industrials,1777387136.0,5168.68
+ESFIX,ASHMORE EMERGING MARKETS SHORT DURATION FUND INSTITUTIONAL CLASS SHARES,4.87,17,4,4,9,6,5,4,49,0.0,52.0,Weak,Watchlist only,57,0.6,1.5,0.9,73.3,0,,nan,0.0,0.0
+GASXF,Ngx Energy International Corp,0.77,12,11,10,14,3,2,5,57,-4.0,51.0,Weak,Watchlist only,22,20.2,6.9,7.2,57.0,0,,Energy,319228576.0,53151.3
+NPPHY,Nippon Paint Holdings Co. Ltd.,4.59,15,12,5,16,6,3,5,62,-11.0,51.0,Weak,Watchlist only,66,-0.9,13.5,7.2,58.3,2,,Basic Materials,13916751872.0,2764.21
+INVE,Identiv Inc,2.67,15,11,5,11,5,4,5,56,-3.0,51.0,Weak,Watchlist only,42,4.7,-0.4,2.3,56.7,1,,Industrials,102986648.0,91540.98
+CPCCX,COMSTOCK CAPITAL VALUE FUND RETAIL CLASS C,4.24,18,5,5,8,6,6,5,53,-5.0,51.0,Weak,Watchlist only,63,1.0,1.2,0.7,70.6,0,,nan,0.0,0.0
+FLTTX,WisdomTree Floating Rate Trsy Dgtl N/A,1.005,12,12,7,6,4,7,4,52,-10.0,50.0,Weak,🔥 COILED: Watchlist only,46,0.5,0.5,0.1,52.5,0,,nan,nan,0.0
+ALBKY,Alpha Bank SA,1.3,16,14,4,10,4,2,5,55,-5.0,50.0,Weak,Watchlist only,55,0.0,7.4,4.3,59.4,0,,Financial Services,9973065728.0,80871.0
+GNCGF,Greencore Group plc,3.99,18,9,5,14,6,10,5,67,-13.0,50.0,Weak,Watchlist only,68,10.8,10.8,10.0,99.9,2,,Consumer Defensive,2116872448.0,272.63
+SPPSX,SHORT PRECIOUS METALS PROFUND SHORT PRECIOUS METALS PROFUND SERVICE CLASS,2.89,9,11,3,9,6,2,5,45,2.0,50.0,Weak,Watchlist only,44,4.0,-2.7,1.8,52.7,0,,nan,0.0,0.0
+TRVG,Trivago NV,4.02,6,13,7,13,3,2,4,48,2.0,50.0,Weak,Watchlist only,39,11.7,5.2,3.9,50.6,0,,Communication Services,303307584.0,51995.12
+NASO,The GNS Group Inc,1.15,14,7,11,7,6,2,4,51,-7.0,49.0,Weak,🔥 COILED: Watchlist only,29,0.0,0.0,0.2,64.4,1,,Consumer Defensive,2248752.0,1193.7
+AMLTF,AMP Ltd,1.46,17,5,7,14,6,8,5,62,-13.0,49.0,Weak,Watchlist only,68,12.3,12.3,9.9,99.2,2,,Financial Services,2225560576.0,0.0
+CLILF,CapitaLand Investment Limited,1.9,9,7,6,11,4,3,4,44,0.0,49.0,Weak,🔥 COILED: Watchlist only,33,-0.7,-0.7,-0.1,48.1,0,,Real Estate,9947114496.0,2620.37
+RLLWF,Reliance Worldwide Corporation Limited,3.178,16,5,8,15,6,6,5,61,-12.0,49.0,Weak,Watchlist only,56,-0.1,-2.2,6.2,57.9,0,,Industrials,1645685376.0,0.0
+BGIN,Bgin Blockchain Limited Class A Ordinary Shares,2.76,17,10,7,18,4,4,5,65,-21,49,Weak,Watchlist only,51,78.1,51.6,45.4,72.2,3,9,Technology,306598400.0,0.0
+ELAMF,Elamex SA de CV,2.85,15,5,5,11,6,2,5,49,-5.0,49.0,Weak,🔥 COILED: Watchlist only,57,0.0,0.0,0.3,50.0,1,,Consumer Defensive,7473704.0,18.5
+NPSCY,Nippon Steel Corp ADR,4.426,14,10,5,14,5,2,5,55,-9.0,49.0,Weak,Watchlist only,63,0.8,4.9,3.3,60.1,0,,Basic Materials,18082975744.0,225425.86
+CVGI,Commercial Vehicle Group Inc,3.45,12,14,4,8,8,4,5,55,-4.0,49.0,Weak,Watchlist only,43,5.5,6.8,9.0,64.0,1,,Consumer Cyclical,185914256.0,516058.52
+ENTX,Entera Bio Ltd,3.22,17,8,7,11,5,4,5,57,-7.0,48.0,Weak,Watchlist only,64,7.7,3.2,5.1,60.1,1,,Healthcare,60134084.0,166791.34
+ECHQF,ECHQF,0.37,6,12,3,15,3,2,5,46,2.0,48.0,Weak,Watchlist only,32,23.3,0.0,10.2,52.0,0,,nan,898773312.0,6741.98
+GZPHF,Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited,2.34,10,6,11,9,3,2,4,45,0.0,48.0,Weak,Watchlist only,46,0.0,0.0,0.0,31.1,0,,Healthcare,3479192832.0,418.8
+GLVHF,Glenveagh Properties PLC,2.91,10,6,10,7,4,2,4,43,0.0,48.0,Weak,🔥 COILED: Watchlist only,45,0.0,0.0,0.0,50.0,0,,Consumer Cyclical,1310544384.0,1428.6
+WMMVF,Wal Mart de Mexico SAB de CV,2.9,15,9,5,10,5,6,5,55,-7.0,48.0,Weak,Watchlist only,43,6.2,12.8,5.5,61.9,2,,Consumer Defensive,52044349440.0,79637.63
+HTWSF,Helios Towers plc,2.96,19,6,5,14,6,2,5,57,-12.0,48.0,Weak,Watchlist only,63,0.0,7.1,2.8,66.8,0,,Communication Services,3065930752.0,5592.19
+RKIGF,Reko International Group Inc,3.0,10,6,11,7,3,2,4,43,0.0,48.0,Weak,🔥 COILED: Watchlist only,51,0.0,0.0,0.0,50.0,0,,Industrials,16452939.0,12.5
+GGGOF,Galane Gold Ltd,2.25,16,7,4,9,5,0,5,46,0.0,47.0,Weak,Watchlist only,57,-4.3,2.7,0.8,52.6,0,,Basic Materials,128522448.0,115336.37
+JBFCF,Jollibee Foods Corporation,2.3,11,6,6,13,1,6,3,46,0.0,47.0,Weak,Watchlist only,32,5.5,4.5,0.6,50.7,0,,Consumer Cyclical,2555197440.0,4858.09
+HLEO,Helio Corporation,4.25,14,11,9,9,6,0,2,51,-5.0,47.0,Weak,Watchlist only,64,3.8,1.2,0.4,52.7,1,,Industrials,69691752.0,32385.99
+CINSF,China Taiping Insurance Holdings Company Limited,3.12,8,6,10,8,4,2,4,42,0.0,47.0,Weak,🔥 COILED: Watchlist only,49,0.0,0.0,0.0,50.0,0,,Financial Services,10099191808.0,47.5
+CLPR,Clipper Realty Inc,3.33,12,8,2,10,5,3,5,45,2.0,47.0,Weak,Watchlist only,57,0.9,5.0,2.6,56.5,1,,Real Estate,134645632.0,72100.32
+PEXUF,PTT Exploration and Production Public Company Limited ,3.48,7,7,11,8,3,2,4,42,0.0,47.0,Weak,🔥 COILED: Watchlist only,45,0.0,0.0,0.0,50.0,0,,Energy,13815548928.0,0.0
+TPLWF,Temple & Webster Group Ltd,4.4,16,5,4,16,7,1,5,54,-7.0,47.0,Weak,Watchlist only,49,2.3,24.3,14.7,72.2,2,,Consumer Cyclical,412542592.0,3024.61
+DIFTY,Daito Trust Construction Co,5.3,11,11,2,14,7,0,5,50,-3.0,47.0,Weak,Watchlist only,50,-6.2,10.0,1.3,53.4,1,,Real Estate,6062416896.0,140233.91
+RANKF,The Rank Group Plc,1.221,15,4,6,12,4,3,5,49,-3.0,46.0,Weak,Watchlist only,0,24.1,24.1,12.5,77.2,2,,Consumer Cyclical,491516672.0,0.0
+NXLLF,Nuix Limited,0.9,8,6,6,9,6,5,5,45,-2.0,46.0,Weak,Watchlist only,40,0.0,0.0,1.5,62.3,0,,Technology,338752096.0,352.73
+BBLG,Bone Biologics Corp,0.4,9,13,3,9,3,2,5,44,-3.0,46.0,Weak,Watchlist only,21,23.5,3.1,5.3,50.6,1,,Healthcare,2241741.0,741180.88
+SKWG,Skywealth Group Inc,1.65,17,5,6,11,6,9,5,59,-13.0,46.0,Weak,Watchlist only,46,9.3,9.3,7.4,97.8,1,,Industrials,330750.0,2.96
+TSRYF,Treasury Wine Estates Ltd,4.0,15,6,12,8,4,5,4,54,-13.0,46.0,Weak,🔥 COILED: Watchlist only,62,0.0,0.0,0.6,82.6,1,,Consumer Defensive,2503964672.0,1781.5
+MIMI,Mint Incorporation Limited Class A Ordinary Shares,0.963,11,16,7,9,3,4,4,54,-6.0,46.0,Weak,Watchlist only,45,11.3,6.8,5.2,50.7,1,,Industrials,8039137.0,526043.06
+FPAFY,First Pacific Company Ltd,3.22,13,9,4,9,5,3,5,48,0.0,46.0,Weak,Watchlist only,32,3.5,7.7,3.7,62.0,0,,Consumer Defensive,2812999168.0,49515.26
+TELFY,"Telefónica, S.A.",3.8,8,8,3,13,3,3,5,43,2.0,46.0,Weak,Watchlist only,28,0.0,3.8,1.3,52.3,2,,Communication Services,25539770368.0,794203.4
+WXIBF,WuXi Biologics,6.21,9,7,7,9,4,4,4,44,2.0,46.0,Weak,Watchlist only,43,2.3,5.3,1.7,51.5,0,,Healthcare,18193782784.0,3877.83
+TBTC,Table Trac Inc,5.4,9,5,6,14,1,3,5,43,0.0,46.0,Weak,Watchlist only,54,-2.0,3.8,-0.1,50.7,0,,Consumer Cyclical,20753704.0,5186.94
+WAAXX,Western Asset Premier Institutional Liquid Reserves Capital Shares,1.0,13,7,11,6,4,2,4,47,-10.0,45.0,Weak,🔥 COILED: Watchlist only,39,0.0,0.0,0.0,49.7,0,,nan,nan,0.0
+HUIZ,Huize Holding Ltd,2.24,13,9,4,14,5,2,5,52,-5.0,45.0,Weak,Watchlist only,51,-1.3,0.4,6.5,61.4,0,,Financial Services,14557803.0,156524.62
+TCYMF,Tingyi (Cayman Islands) Holding Corp,1.5,15,6,11,9,6,2,4,53,-13.0,45.0,Weak,🔥 COILED: Watchlist only,54,0.0,0.0,0.3,99.5,0,,Consumer Defensive,7327471104.0,121.5
+GRNQ,GreenPro Capital Corp,7.33,9,13,8,9,4,2,3,48,-3.0,45.0,Weak,Watchlist only,34,4.7,6.5,0.1,47.5,1,,Industrials,27634970.0,106380.6
+RHEPZ,"Regional Health Properties, Inc.",2.5,10,9,1,14,6,0,3,43,2.0,45.0,Weak,Watchlist only,49,11.6,-7.1,-0.3,49.5,0,,nan,nan,1582.53
+GPFOF,Grupo Financiero Inbursa S.A.B. de C.V,2.415,11,5,9,8,4,1,4,42,0.0,45.0,Weak,Watchlist only,36,-1.3,0.6,0.0,50.6,0,,Financial Services,14867475456.0,0.0
+PLSDF,Pulse Seismic Inc,2.33,12,12,8,4,6,4,5,51,-9.0,45.0,Weak,Watchlist only,41,1.3,2.9,2.3,60.5,0,,Energy,125265696.0,12000.34
+TOP,Zhong Yang Financial Group Limited Ordinary Shares,15.43,19,13,3,12,4,5,5,61,-17.0,44.0,Weak,Watchlist only,48,30.4,7.8,10.1,56.9,1,,Financial Services,40081440.0,515130.4
+SOS,SOS Limited,0.22,6,12,3,11,3,2,5,42,-3.0,44.0,Weak,Watchlist only,18,19.8,2.5,-1.4,43.1,1,,Financial Services,17302244.0,162399.27
+MGLD,Marygold Companies Inc,1.975,15,5,9,13,5,3,4,54,-8.0,44.0,Weak,Watchlist only,55,-0.3,0.3,1.5,69.8,2,,Financial Services,51145084.0,100456.91
+HSTI,High Sierra Technologies Inc,1.4,10,6,11,8,3,2,4,44,-5.0,44.0,Weak,🔥 COILED: Watchlist only,42,0.0,0.0,0.0,50.0,1,,Healthcare,29346446.0,78.75
+TSPCF,Cleanaway Waste Management Limited,2.09,13,5,6,10,4,1,5,44,0.0,44.0,Weak,Watchlist only,46,0.0,-0.5,1.2,57.5,0,,Industrials,3541111552.0,897.92
+SIGGF,Sigma Healthcare Limited,1.9,8,10,5,7,3,4,4,41,0.0,44.0,Weak,Watchlist only,15,0.0,8.6,0.8,52.8,1,,Healthcare,27104614400.0,132.7
+MLCI,Mount Logan Capital Inc. Common Stock,3.47,10,5,6,12,5,1,5,44,0.0,44.0,Weak,Watchlist only,43,-2.0,4.8,1.8,55.9,1,,Financial Services,33006866.0,63786.48
+BKISF,iShares IV Public Limited Company - iShares US Mortgage Backed Securities UCITS ETF,4.07,14,4,5,10,4,2,5,44,0.0,44.0,Weak,Watchlist only,35,-0.6,0.6,0.2,57.3,0,,Other,nan,47580.27
+DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,34.92,12,5,2,14,3,0,5,41,0.0,44.0,Weak,Watchlist only,43,-9.8,15.9,1.9,53.4,2,,nan,nan,16090041.59
+JOAXX,JPMorgan Trust IV - Institutional Tax Free Money Market Fund,1.0,12,7,10,6,4,2,4,45,-10.0,43.0,Weak,🔥 COILED: Watchlist only,34,0.0,0.0,0.0,51.5,0,,nan,nan,0.0
+BRIA,BrilliA Inc,1.5,13,14,5,11,4,4,5,56,-11.0,43.0,Weak,Watchlist only,40,7.1,7.1,5.5,56.9,1,,Consumer Cyclical,40000000.0,192508.8
+MTLRF,Metalore Resources Limited,1.65,10,6,11,7,3,2,4,43,-3.0,43.0,Weak,Watchlist only,39,0.0,0.0,0.0,73.7,0,,Energy,3195063.0,5.0
+MALG,Microalliance Group Inc.,1.5,16,5,6,7,4,6,5,49,-6.0,43.0,Weak,Watchlist only,38,0.0,0.0,5.0,71.5,0,,Consumer Defensive,1072396352.0,23.48
+CBOAF,CBOAF,2.536,7,3,10,8,3,5,4,40,0.0,43.0,Weak,Watchlist only,35,0.0,0.0,-0.0,6.3,0,,Consumer Defensive,1364554880.0,158.93
+BPCGF,Banco Comercial Português S.A,1.3,13,3,11,8,6,5,4,50,-13.0,42.0,Weak,🔥 COILED: Watchlist only,48,0.0,0.0,0.8,80.9,0,,Financial Services,15105166336.0,0.0
+VRHI,VRHI,4.41,8,3,10,7,4,3,4,39,0.0,42.0,Weak,Watchlist only,48,0.0,0.0,-1.8,36.9,0,,Healthcare,20000004.0,486.34
+SDM,Smart Digital Group Limited Ordinary Shares,1.85,7,3,10,9,0,6,4,39,0.0,42.0,Weak,Watchlist only,29,0.0,0.0,-0.0,28.7,0,,Communication Services,58691252.0,403288.0
+RDVIX,ROYCE DIVIDEND VALUE FUND INVESTMENT CLASS,2.72,14,3,3,7,3,6,5,41,-2.0,42.0,Weak,Watchlist only,64,0.7,1.9,1.6,60.4,0,,nan,0.0,0.0
+ICPVF,Incitec Pivot Limited,2.69,4,3,10,8,3,7,4,39,0.0,42.0,Weak,Watchlist only,41,0.0,0.0,-0.1,38.7,0,,Basic Materials,3879871488.0,0.0
+HAIIF,Haitian International Holdings Limited,3.0,10,3,10,9,4,2,4,42,-3.0,42.0,Weak,Watchlist only,41,0.0,0.0,0.0,74.9,0,,Industrials,4468800000.0,9.5
+PDRX,Pd-Rx Pharmaceutical,3.1,9,3,9,9,4,1,4,39,0.0,42.0,Weak,Watchlist only,24,0.0,0.0,-0.0,0.0,0,,Healthcare,5745551.0,121.28
+APYX,Apyx Medical Inc,2.89,14,6,3,14,3,2,5,47,-5.0,42.0,Weak,Watchlist only,28,-5.6,7.4,5.2,57.0,1,,Healthcare,179639248.0,130382.45
+AYAAY,Ayala Land Inc,4.747,13,6,12,8,6,1,4,50,-13.0,42.0,Weak,🔥 COILED: Watchlist only,32,0.0,0.0,1.4,93.3,0,,Real Estate,3577076224.0,5.52
+CICHF,China Construction Bank Corp,1.294,14,7,4,9,5,2,5,46,-1.0,41.0,Weak,Watchlist only,48,-5.5,12.5,1.2,52.1,2,,Financial Services,269448380416.0,80685.16
+MCSXX,BlackRock Liquidity Funds - MuniCash,1.0,11,7,9,6,4,2,4,43,-10.0,41.0,Weak,🔥 COILED: Watchlist only,30,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
+LTAFF,LTAFF,0.99,10,3,5,9,6,0,5,38,0.0,41.0,Weak,Watchlist only,0,0.0,-5.7,2.0,54.3,0,,nan,nan,0.0
+TAIT,Taitron Components Incorporated,1.9,7,5,3,14,3,2,2,36,2.0,41.0,Weak,Watchlist only,43,-1.8,-2.6,-2.2,44.1,1,,Technology,9393040.0,171931.82
+ASTO,Astro Communications Inc,2.0,5,3,9,7,3,7,4,38,0.0,41.0,Weak,Watchlist only,38,0.0,0.0,-2.3,8.6,0,,Industrials,1733532.0,47.65
+KPDCF,Keppel DC REIT,1.92,18,6,5,10,6,4,5,54,-13.0,41.0,Weak,Watchlist only,61,17.1,17.1,10.9,81.0,2,,Real Estate,4403112960.0,755.49
+RAASY,Cloopen Group Holding Ltd - ADR,2.9,18,7,6,11,6,9,5,62,-21.0,41.0,Weak,Watchlist only,68,12.4,14.6,9.8,75.0,3,,Technology,119771456.0,17449.74
+MNSAF,Mineros S.A.,6.625,11,14,3,8,5,0,2,43,0.0,41.0,Weak,Watchlist only,42,-5.4,0.1,0.1,50.1,0,,Basic Materials,1209415296.0,15761.69
+SUSRF,Surgical Science Sweden AB (publ),5.475,15,5,8,10,6,2,5,51,-13.0,41.0,Weak,Watchlist only,52,0.0,0.0,0.9,100.0,0,,Healthcare,280117536.0,525.93
+LANJX,LORD ABBETT NEW JERSEY TAX-FREE INCOME FUND CLASS A,4.57,12,5,4,7,1,2,5,36,0.0,41.0,Weak,🔥 COILED: Watchlist only,32,-0.4,0.7,0.4,59.3,0,,nan,0.0,0.0
+ALKEF,Alkane Resources Limited,1.19,9,8,3,9,1,7,3,40,0.0,40.0,Weak,Watchlist only,47,-1.7,4.4,-0.1,49.4,0,,Basic Materials,1475501184.0,461508.66
+BCWG,BCW Group Holding Inc,1.0,7,3,10,8,3,2,4,37,0.0,40.0,Weak,Watchlist only,32,0.0,0.0,-0.0,20.1,0,,Communication Services,100000000.0,16.5
+CONC,ConectiSys Corporation,1.0,12,6,11,7,3,2,4,45,-8.0,40.0,Weak,Watchlist only,49,0.0,0.0,0.0,79.1,1,,Financial Services,888579.0,4.6
+JOCXX,JPMorgan Trust IV - Institutional Tax Free Money Market Fund,1.0,10,7,9,6,4,2,4,42,-10.0,40.0,Weak,🔥 COILED: Watchlist only,35,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
+JOFXX,JPMorgan Trust IV - Institutional Tax Free Money Market Fund,1.0,10,7,9,6,4,2,4,42,-10.0,40.0,Weak,🔥 COILED: Watchlist only,37,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
+DIIBF,Dorel Industries Inc,0.99,8,11,6,7,3,2,3,40,-3.0,40.0,Weak,Watchlist only,25,6.5,2.1,2.1,51.6,1,,Consumer Defensive,36698736.0,8120.07
+JDDSF,JD Sports Fashion plc,1.28,18,4,5,9,6,6,5,53,-13.0,40.0,Weak,Watchlist only,57,0.0,14.8,6.5,99.9,2,,Consumer Cyclical,5789293056.0,276.0
+BAINF,BASE Inc,1.85,15,6,12,7,3,1,4,48,-13.0,40.0,Weak,🔥 COILED: Watchlist only,47,0.0,0.0,0.4,99.4,0,,Technology,161220320.0,32.0
+MCCRF,Mccoy Global Inc,1.74,11,12,3,6,7,3,5,47,-10.0,40.0,Weak,Watchlist only,52,4.8,-3.3,-0.8,49.3,0,,Energy,43165048.0,10235.23
+SIHBY,Shenzhen Investment Bay Area Co Ltd,2.13,4,3,9,7,3,7,4,37,0.0,40.0,Weak,Watchlist only,24,0.0,0.0,-0.6,32.4,0,,Industrials,822269504.0,81.97
+AIPG,AI Technology Group Inc,2.5,5,5,10,7,3,4,4,38,-3.0,40.0,Weak,🔥 COILED: Watchlist only,44,0.0,0.0,-0.0,42.9,1,,Financial Services,4008782.0,60.66
+UHPIX,ULTRASHORT CHINA PROFUND ULTRASHORT CHINA PROFUND INVESTOR CLASS,3.18,5,4,6,7,6,4,5,37,0.0,40.0,Weak,Watchlist only,47,0.0,-7.8,-2.8,42.4,0,,nan,0.0,0.0
+LTNCX,Oppenheimer Rochester LtdTerm NY MunisC,2.73,14,5,4,7,1,1,5,37,-2.0,40.0,Weak,🔥 COILED: Watchlist only,38,-0.4,0.4,0.3,60.8,0,,nan,0.0,0.0
+PGENY,Pigeon Corp ADR,3.55,18,5,8,10,6,5,5,57,-13.0,40.0,Weak,Watchlist only,71,6.3,6.3,5.3,90.1,0,,Consumer Defensive,1450095488.0,0.0
+WZZZY,Wizz Air Holdings PLC,3.475,4,8,3,10,4,6,2,37,0.0,40.0,Weak,Watchlist only,29,0.0,10.0,-0.7,45.7,1,,Industrials,1365687552.0,266.94
+IVA,Inventiva Sa,3.88,13,6,3,13,3,7,5,50,-10.0,40.0,Weak,Watchlist only,41,6.9,4.0,4.0,55.5,1,,Healthcare,883849728.0,340807.98
+AHT-P-G,Ashford Hospitality Trust Inc 7.375% Series G Cumulative Preferred Stock,4.98,11,12,5,14,5,1,5,53,-11.0,40.0,Weak,Watchlist only,41,43.5,40.3,18.5,58.5,2,,Other,nan,4501.55
+MYGN,Myriad Genetics Inc,5.68,13,5,4,11,5,2,5,45,-5.0,40.0,Weak,Watchlist only,55,-9.7,-14.8,0.7,54.4,1,,Healthcare,436350720.0,1431509.4
+FRNWF,Future plc,4.16,7,6,8,7,3,2,4,37,0.0,40.0,Weak,Watchlist only,29,0.0,0.0,-0.0,17.9,0,,Communication Services,452146272.0,56.18
+GENVR,Gen Digital Inc. Contingent Value Rights,3.15,15,4,4,11,1,2,5,42,-2.5,39.5,Poor,Stay away,45,-14.4,80.0,24.0,58.9,2,,nan,nan,38001.29
+HOJI,House of Jane Inc,1.0,5,3,10,9,3,2,4,36,0.0,39.0,Poor,Stay away,32,0.0,0.0,-0.0,0.0,0,,Consumer Defensive,11031895.0,12.0
+CILXX,Western Asset Institutional Liquid Reserves Ltd.,1.0,12,8,5,6,4,2,4,41,-10.0,39.0,Poor,🔥 COILED: Stay away,52,0.0,0.0,0.0,53.8,0,,nan,nan,0.0
+MTPOF,Metropolitan Bank & Trust Company,0.946,3,12,6,9,3,0,4,37,2.0,39.0,Poor,Stay away,20,2.5,-0.8,-2.1,47.2,0,,Financial Services,5127053824.0,4930.97
+SNDL,SNDL Inc.,1.39,14,5,4,13,1,2,5,44,-5.0,39.0,Poor,Stay away,46,0.7,6.9,3.7,58.4,1,,Consumer Defensive,372228992.0,2646305.36
+OPESF,Otello Corporation ASA,1.8,7,3,10,7,3,2,4,36,0.0,39.0,Poor,Stay away,40,0.0,0.0,-0.0,0.4,0,,Communication Services,130534648.0,18.54
+KNIT,Kinetic Group Inc,2,7,3,10,7,3,2,4,36,0.0,39.0,Poor,Stay away,33,0.0,0.0,-0.0,0.0,0,,Communication Services,52840400.0,10.0
+WIEMX,WASATCH EMERGING MARKETS SMALL CAP FUND INSTITUTIONAL CLASS SHARES,1.91,8,10,1,9,3,3,3,37,-3.0,39.0,Poor,🔥 COILED: Stay away,22,6.1,-1.0,-0.0,46.8,0,,nan,0.0,0.0
+QKIE,QKIE,1.94,5,8,0,15,5,2,2,37,2.0,39.0,Poor,Stay away,34,3.2,-1.0,-4.1,47.0,1,,Financial Services,1189168256.0,633.69
+ESPR,Esperion Therapeutics Inc,3.18,16,3,9,12,5,4,4,53,-14.0,39.0,Poor,Stay away,57,1.0,0.3,0.8,64.8,0,,Healthcare,805761984.0,7901981.69
+EDAP,EDAP TMS SA,5.435,18,4,8,15,5,9,5,64,-25.0,39.0,Poor,Stay away,63,5.6,10.9,9.0,78.1,3,,Healthcare,161922176.0,67703.78
+BGKKF,Bangkok Bank Public Company Limited,6.6,11,6,11,9,6,2,4,49,-13.0,39.0,Poor,Stay away,0,0.0,0.0,0.2,82.8,0,,Financial Services,8398908928.0,0.0
+ELOG,Eastern International Ltd.,1.03,13,13,3,8,9,2,2,50,-11.5,38.5,Poor,Stay away,49,47.4,27.8,26.0,60.5,2,,Industrials,11548800.0,0.0
+DGNX,Diginex Limited Ordinary Shares,1.27,5,10,6,10,3,2,5,41,-3.0,38.0,Poor,Stay away,31,10.4,-13.0,-0.8,48.8,1,,Industrials,32011034.0,397721.5
+BBOE,Black Box Entertainment Ltd,0.58,4,3,10,8,3,3,4,35,0.0,38.0,Poor,Stay away,20,0.0,0.0,-0.2,28.5,0,,Financial Services,13822455.0,335.31
+LSRCX,SMALL-CAP VALUE SERIES CLASS C,1.07,12,3,3,7,1,8,4,38,-5.0,38.0,Poor,🔥 COILED: Stay away,45,2.9,-0.9,0.3,51.6,0,,nan,0.0,0.0
+RAPH,Raphael Pharmaceutical Inc.,1.51,15,5,6,10,6,6,5,53,-18.0,38.0,Poor,Stay away,61,0.0,0.0,1.1,100.0,1,,Healthcare,28246984.0,14.69
+UTKN,"Universal Token, Inc.",1.51,3,4,6,10,4,2,4,33,2.0,38.0,Poor,Stay away,38,0.0,0.0,-2.0,41.3,0,,Industrials,163310096.0,797.87
+THCH,TH International Limited,1.24,9,9,2,10,5,0,5,40,-3.0,38.0,Poor,Stay away,18,-11.4,2.1,1.6,51.8,1,,Consumer Cyclical,57345384.0,10021.73
+CRMZ,CreditRiskMonitor.Com Inc,2.08,2,6,8,8,6,1,4,35,0.0,38.0,Poor,Stay away,20,-0.5,0.0,-0.5,41.1,0,,Technology,24334552.0,0.0
+FHNGY,The Foschini Group Limited,3.4,16,4,9,9,6,5,5,54,-16.0,38.0,Poor,Stay away,32,8.6,8.6,6.7,80.8,1,,Consumer Cyclical,1067730880.0,250.7
+HNGZY,Hangzhou Tigermed Consulting Co. Ltd,4.45,10,6,11,6,4,2,4,43,-10.0,38.0,Poor,🔥 COILED: Stay away,49,0.0,0.0,0.0,50.0,0,,Healthcare,3444104192.0,30.6
+BIREF,Birchcliff Energy Ltd.,4.82,7,12,3,7,8,4,5,46,-11.0,38.0,Poor,🔥 COILED: Stay away,58,3.4,-5.3,0.4,51.6,0,,Energy,1341471744.0,96578.43
+SMSKF,Sumiseki HoldingsInc.,3.298,7,3,10,7,3,1,4,35,0.0,38.0,Poor,Stay away,28,0.0,0.0,-0.0,0.0,0,,Energy,276981184.0,1.5
+TRSNF,TRSNF,1.0,5,3,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,32,0.0,0.0,-0.0,0.0,0,,Utilities,444673792.0,5.0
+EMTRF,Element 29 Resources Inc,1.36,13,8,4,9,6,0,5,45,-8.0,37.0,Poor,Stay away,53,-0.8,-4.9,1.6,54.6,1,,Basic Materials,188697568.0,72066.88
+HWH,HWH International Inc,2.57,18,7,3,14,7,4,5,58,-19.0,37.0,Poor,Stay away,57,-4.1,22.4,15.8,64.7,3,,Consumer Cyclical,7625928.0,2054590.8
+SMDRF,Sierra Madre Gold and Silver Ltd,0.904,2,8,7,11,2,2,2,34,0.0,37.0,Poor,Stay away,22,-1.4,-3.0,-3.9,43.2,0,,Basic Materials,249189616.0,93279.43
+AUHEF,Anhui Expressway Company Limited,1.27,4,4,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,36,0.0,0.0,-0.0,0.0,0,,Industrials,2169911552.0,0.0
+ZZHGF,ZhongAn Online P & C Insurance Co. Ltd,1.5,5,3,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,34,0.0,0.0,-0.0,0.0,0,,Financial Services,2527219456.0,0.88
+MAYNF,Mayne Pharma Group Limited,2.29,19,9,7,16,6,3,5,65,-28.0,37.0,Poor,Stay away,58,22.5,22.5,13.1,75.3,3,,Healthcare,129993320.0,0.0
+HYHHF,Hygeia Healthcare Holdings Co Ltd,1.68,5,3,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,35,0.0,0.0,-0.0,0.0,0,,Healthcare,1025346624.0,4.5
+VNTEF,VNTEF,1.7,5,3,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,35,0.0,0.0,-0.0,0.0,0,,Real Estate,466556000.0,0.0
+FKKEF,Charter Hall Social Infrastructure REIT,1.705,7,3,9,7,3,1,4,34,0.0,37.0,Poor,Stay away,32,0.0,0.0,-0.0,0.0,0,,Real Estate,719951040.0,0.0
+KGGNF,Kogan.com Ltd,2.16,5,3,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,30,0.0,0.0,-0.0,0.0,1,,Consumer Cyclical,206542304.0,5.15
+CMCAU,Capitalworks Emerging Markets Acquisition Corp Unit,2.0,5,3,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,32,0.0,0.0,-0.0,0.0,0,,Financial Services,nan,4.0
+TLGUF,TLGUF,2.0,5,3,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,32,0.0,0.0,-0.0,0.0,0,,Financial Services,nan,1.0
+MOPLF,Molinos Rio de la Plata S.A.,2.35,10,6,11,6,3,2,4,42,-10.0,37.0,Poor,🔥 COILED: Stay away,46,0.0,0.0,0.0,50.0,1,,Consumer Defensive,473325504.0,46.97
+EVO,Evotec SE ADR,1.66,11,5,3,13,3,1,5,41,-5.0,37.0,Poor,Stay away,24,-6.7,5.1,2.8,53.8,1,,Healthcare,1022906112.0,108848.66
+TUSK,Mammoth Energy Services Inc,3.26,16,7,5,15,7,7,5,62,-25.0,37.0,Poor,Stay away,63,9.4,12.0,7.8,63.5,4,,Industrials,159926544.0,240174.56
+WIFMX,WASATCH FRONTIER EMERGING SMALL COUNTRIES FUND INSTITUTIONAL CLASS SHARES,3.42,6,8,4,8,3,3,3,35,-3.0,37.0,Poor,🔥 COILED: Stay away,23,2.4,0.3,0.0,47.0,0,,nan,0.0,0.0
+CAEN,California-Engels Mining Company,4.0,10,6,11,6,3,2,4,42,-10.0,37.0,Poor,🔥 COILED: Stay away,42,0.0,0.0,0.0,50.0,0,,Basic Materials,2783560.0,5.23
+APPIF,Appier Group Inc.,8.4,10,6,11,8,6,2,4,47,-13.0,37.0,Poor,Stay away,52,0.0,0.0,0.1,99.8,0,,Technology,507294624.0,57.89
+GGROU,Golden Growers Cooperative,5.0,5,3,10,7,3,2,4,34,0.0,37.0,Poor,Stay away,39,0.0,0.0,-0.0,2.6,0,,Consumer Defensive,77452496.0,1245.0
+CGXYF,China Galaxy Securities Co. Ltd,1.0,9,6,11,6,3,2,4,41,-10.0,36.0,Poor,🔥 COILED: Stay away,35,0.0,0.0,0.0,50.0,0,,Financial Services,10934402048.0,0.0
+DHSBF,Dah Sing Banking Group Ltd,1.0,9,6,11,6,3,2,4,41,-10.0,36.0,Poor,🔥 COILED: Stay away,43,0.0,0.0,0.0,50.0,0,,Financial Services,1405752192.0,3.2
+BQSSF,Boss Resources Ltd,1.025,9,8,4,9,0,6,5,41,-5.0,36.0,Poor,Stay away,36,9.0,-1.0,2.6,52.1,1,,Energy,394416544.0,48891.11
+UCL,Ucloudlink Group Inc,0.224,3,9,3,11,4,2,2,34,2.0,36.0,Poor,Stay away,18,3.7,6.2,-3.3,43.5,0,,Communication Services,38854092.0,25850.38
+GRAN,Grande Group Limited Class A Ordinary Shares,1.17,8,14,5,6,7,0,2,42,-11.0,36.0,Poor,🔥 COILED: Stay away,53,2.6,2.6,1.6,51.3,2,,Financial Services,24388200.0,162701.83
+CNENF,Claren Energy Corp,0.398,9,3,10,7,4,1,4,38,-5.0,36.0,Poor,Stay away,20,0.0,0.0,-0.2,0.0,1,,Energy,11162271.0,53.42
+MPFXX,Morgan Stanley Institutional Liquidity Funds - Prime Portfolio,1.0,8,7,11,6,3,2,4,41,-10.0,36.0,Poor,🔥 COILED: Stay away,37,0.0,0.0,0.0,54.3,0,,nan,nan,0.0
+MBAI,Check-Cap Ltd.,2.09,3,11,2,10,2,6,2,36,0.0,36.0,Poor,Stay away,16,-14.0,0.0,-11.8,39.4,0,,Healthcare,12909699.0,1813609.31
+EMNSF,Elementis plc,2.34,5,4,6,8,3,3,4,33,0.0,36.0,Poor,Stay away,46,0.0,0.0,-0.6,13.2,0,,Basic Materials,1282643968.0,0.0
+SHTDF,Sinopharm Group Co. Ltd,2.08,12,6,2,8,5,3,5,41,-10.0,36.0,Poor,🔥 COILED: Stay away,36,-3.3,0.0,0.1,50.7,0,,Healthcare,7146302464.0,1022.78
+FGGBX,Templeton Global Balanced Fund6,3.16,6,6,7,7,0,1,4,31,0.0,36.0,Poor,🔥 COILED: Stay away,55,-0.3,0.0,-0.3,47.1,0,,nan,nan,0.0
+SERKF,Serko Limited,0.755,7,3,9,8,3,3,4,37,-5.0,35.0,Poor,Stay away,23,0.0,0.0,-0.0,4.7,1,,Technology,128520792.0,79.01
+DFORF,D4t4 Solutions Plc,0.729,3,3,9,7,3,3,4,32,0.0,35.0,Poor,Stay away,13,0.0,0.0,-2.5,0.0,0,,Technology,38201184.0,240.38
+PRSXX,PRSXX,1.0,13,5,6,6,4,2,4,40,-10.0,35.0,Poor,🔥 COILED: Stay away,39,0.0,0.0,0.0,59.7,0,,nan,nan,0.0
+LNGPF,Longfor Group Holdings Limited,0.649,3,3,9,7,3,3,4,32,0.0,35.0,Poor,Stay away,12,0.0,0.0,-2.8,1.3,0,,Real Estate,9264275456.0,1.9
+VNTXF,VNTXF,0.6,5,3,9,8,3,5,4,37,-5.0,35.0,Poor,Stay away,26,0.0,0.0,-0.4,0.0,1,,Consumer Defensive,7582417.0,11.63
+KHDHF,KHD Humboldt Wedag International AG,2.12,3,3,7,9,3,3,4,32,0.0,35.0,Poor,Stay away,28,0.0,0.5,-56.0,26.2,0,,Industrials,109531816.0,66.0
+SCTQ,Spectra Systems Corporation,2.41,6,5,3,8,5,1,2,30,0.0,35.0,Poor,🔥 COILED: Stay away,47,0.0,0.0,-0.7,45.4,0,,Technology,106003120.0,26.17
+GDRX,Goodrx Holdings Inc,3.51,11,5,5,12,3,0,4,40,-10.0,35.0,Poor,🔥 COILED: Stay away,45,0.6,-0.8,-0.5,50.0,0,,Healthcare,965224768.0,2873906.5
+WARFF,Wharf (Holdings) Limited,2.55,12,9,9,10,3,4,5,52,-13.0,35.0,Poor,Stay away,30,3.2,3.2,3.0,83.3,0,,Real Estate,9137521664.0,0.0
+AANNF,Aroundtown SA,1.63,6,4,4,7,3,3,5,32,0.0,35.0,Poor,Stay away,15,0.0,0.0,-1.9,23.8,0,,Real Estate,2971973888.0,906.06
+KIERF,Kier Group plc,4.085,10,5,10,6,6,1,4,42,-12.0,35.0,Poor,🔥 COILED: Stay away,46,0.0,0.0,0.2,68.4,0,,Industrials,1198368768.0,11.63
+GROY,Gold Royalty Corp.,2.94,8,6,1,13,2,0,4,34,0.0,35.0,Poor,Stay away,37,-5.5,4.3,-0.5,49.0,0,,Basic Materials,717816576.0,3027763.97
+WHLM,Wilhelmina,1.55,15,4,7,14,6,2,5,53,-18.0,35.0,Poor,Stay away,40,0.0,19.2,24.9,99.5,2,,Industrials,13529574.0,424.76
+IORMX,AIM TaxExempt Funds Invesco TaxExempt Funds Invesco Oppenheimer Rochester Ltd Term NY Mun Fd Cl R6,2.75,15,5,5,7,1,2,5,40,-5.0,35.0,Poor,Stay away,35,-0.4,0.7,0.4,63.8,0,,nan,nan,0.0
+UVRBF,Universal Robina Corporation,0.91,4,6,3,7,3,3,5,31,0.0,34.0,Poor,Stay away,17,0.0,0.0,-0.6,34.9,0,,Consumer Defensive,2136426112.0,0.0
+ITGDF,Integral Diagnostics Limited,2.612,10,6,11,7,4,2,4,44,-13.0,34.0,Poor,Stay away,42,0.0,0.0,0.0,100.0,0,,Healthcare,373066528.0,6.6
+INCR,InterCure Ltd.,3.98,7,10,1,10,7,2,2,39,-3.0,34.0,Poor,Stay away,50,20.8,-3.4,-2.2,45.1,2,,Healthcare,55780432.0,59489.59
+LFT,Lument Finance Trust Inc,4.43,10,13,5,10,8,2,4,52,-18.0,34.0,Poor,Stay away,51,9.4,13.6,3.5,54.8,4,,Real Estate,55585828.0,182897.12
+PGWFF,PGG Wrightson Limited,1.35,10,6,11,6,0,2,4,39,-10.0,34.0,Poor,🔥 COILED: Stay away,48,0.0,0.0,0.0,50.0,0,,Industrials,190219888.0,0.0
+BSKZF,Bambuser AB (publ),1.39,7,4,11,7,3,2,4,38,-7.0,34.0,Poor,Stay away,48,0.0,0.0,0.0,64.5,1,,Technology,11192210.0,50.48
+CGCTW,Cartesian Growth Corporation III Warrant,1.4,11,14,2,14,8,2,5,56,-20,34,Poor,Stay away,53,100.3,100.3,33.7,57.8,2,8,nan,nan,69534.04
+KDCXF,Kudelski SA,1.62,12,6,11,6,3,2,4,44,-15.0,34.0,Poor,🔥 COILED: Stay away,48,0.0,0.0,0.0,50.0,1,,Technology,158513568.0,12.98
+FEEXY,Ferrexpo plc,1.65,5,3,10,9,3,2,4,36,-5.0,34.0,Poor,Stay away,37,0.0,0.0,-0.0,5.2,1,,Basic Materials,242713328.0,133.14
+FHQRX,FRANKLIN HIGH INCOME FUND CLASS A,1.68,7,7,8,6,3,4,4,39,-10.0,34.0,Poor,🔥 COILED: Stay away,27,0.0,0.0,0.1,48.8,0,,nan,nan,0.0
+CIK,Credit Suisse Asset Management IF,2.34,9,5,3,11,1,0,5,34,0.0,34.0,Poor,Stay away,23,0.4,0.4,0.0,50.1,0,,Financial Services,156493600.0,473514.08
+HGPI,Horizon Group Properties Inc,2.6,15,2,4,12,3,1,5,42,-8.0,34.0,Poor,Stay away,54,-3.7,4.0,0.8,58.5,1,,Real Estate,22635690.0,329.66
+DEWY,The Dewey Electronics Corporation,3.05,17,4,5,11,6,4,5,52,-18.0,34.0,Poor,Stay away,63,0.0,0.0,8.3,100.0,1,,Industrials,3211817.0,45.01
+DGQTF,DGQTF,1.3,1,7,5,12,3,2,2,32,2.0,34.0,Poor,Stay away,16,0.0,-10.7,-9.7,27.8,0,,nan,nan,0.0
+MGHL,Morgan Group Holding Co,2.2,5,3,10,9,3,2,4,36,-5.0,34.0,Poor,Stay away,45,0.0,0.0,-0.0,6.9,1,,Financial Services,1500225.0,61.51
+VIMGF,Vimian Group AB (publ),4.158,17,4,4,9,6,2,5,47,-13.0,34.0,Poor,Stay away,64,0.0,50.1,19.9,100.0,2,,Healthcare,1466058496.0,392.85
+IPFPF,International Personal Finance plc,2.83,5,1,8,16,4,2,4,40,-11.0,34.0,Poor,Stay away,39,0.0,0.0,0.0,94.9,0,,Financial Services,628432704.0,15.0
+WGRX,"Wellgistics Health, Inc. Common Stock",3.03,14,5,4,12,3,2,3,43,-9.0,34.0,Poor,Stay away,50,-15.4,6.6,-2.5,49.7,1,,Healthcare,11033935.0,340484.16
+LINJX,LORD ABBETT NEW JERSEY TAX-FREE INCOME FUND CLASS I,4.58,15,5,4,7,1,2,5,39,-5.0,34.0,Poor,Stay away,36,-0.2,0.9,0.5,61.9,0,,nan,0.0,0.0
+ONCO,Onconetix Inc,3.03,14,3,2,14,3,0,5,41,-8.0,33.0,Poor,Stay away,47,-44.8,417.1,2.2,52.6,2,,Healthcare,1215244.0,379468.93
+CLNXX,Columbia Funds Series Trust II - Columbia Money Market Fund,1.0,13,5,4,6,4,2,4,38,-10.0,33.0,Poor,🔥 COILED: Stay away,43,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
+IDSXX,Columbia Funds Series Trust II  - Columbia Government Money Market Fund,1.0,13,5,4,6,4,2,4,38,-10.0,33.0,Poor,🔥 COILED: Stay away,43,0.0,0.0,0.0,51.9,0,,nan,nan,0.0
+JOIXX,JPMorgan Trust IV - Institutional Tax Free Money Market Fund,1.0,6,7,7,6,4,4,4,38,-10.0,33.0,Poor,🔥 COILED: Stay away,28,0.0,0.0,-0.0,40.2,0,,nan,nan,0.0
+PVTRF,Pivotree Inc.,1.29,8,6,11,7,3,4,4,43,-13.0,33.0,Poor,Stay away,54,0.0,0.0,0.0,100.0,0,,Technology,33779236.0,91.25
+MCHVF,MGM China Holdings Limited,1.23,19,5,6,5,4,2,5,46,-13.0,33.0,Poor,Stay away,22,10.8,10.8,6.2,79.6,2,,Consumer Cyclical,8160572416.0,0.0
+REED,"Reed's, Inc.",2.03,16,7,7,5,7,7,5,54,-19,33,Poor,Stay away,49,109.3,194.2,95.2,88.1,3,11,Consumer Defensive,21105612.0,27132.96
+AURE,Prestige Wealth Inc.,1.03,6,11,4,9,4,4,5,43,-8.0,33.0,Poor,Stay away,28,8.4,-3.3,0.4,48.3,1,,Financial Services,88320000.0,86913.02
+PPT,Putnam Premier Income Trust,3.3,6,6,1,12,2,0,4,31,2.0,33.0,Poor,Stay away,26,-2.4,0.3,-0.4,48.0,0,,Financial Services,328274496.0,189450.38
+HWGG,HWGG Entertainment Limited,3.99,17,13,6,5,4,5,5,55,-20,33,Poor,Stay away,39,411.5,99.5,65.4,60.8,4,10,Consumer Cyclical,101107112.0,0.0
+IRLTF,Intralot S.A. Integrated Lottery Systems and Services,1.0,5,3,10,7,3,2,4,34,-5.0,32.0,Poor,Stay away,0,0.0,0.0,-0.0,0.0,1,,Consumer Cyclical,1846765056.0,13.78
+YSXT,"YSX Tech. Co., Ltd Class A Ordinary Shares",1.25,4,4,5,12,5,0,2,32,0.0,32.0,Poor,Stay away,38,-0.8,-4.9,-5.9,44.5,0,,Industrials,28440150.0,452002.89
+QNCX,"Quince Therapeutics, Inc.",39.78,18,10,3,17,5,3,5,61,-29.0,32.0,Poor,Stay away,69,35.7,25.8,17.4,63.9,3,,Healthcare,21515182.0,3539245.86
+NWTG,Newton Golf Company,0.967,7,12,2,12,5,2,3,43,-11.0,32.0,Poor,Stay away,22,29.0,-9.6,4.9,50.8,2,,Consumer Cyclical,4847513.0,76705.72
+SWSSU,Springwater Special Situations Corp Unit,1.065,5,3,10,7,3,2,4,34,-5.0,32.0,Poor,Stay away,31,0.0,0.0,-0.0,0.0,1,,Financial Services,nan,1.0
+KBSX,FST Corp. Ordinary Shares,1.24,6,6,2,9,3,4,2,32,0.0,32.0,Poor,Stay away,37,-9.5,-5.3,-9.2,42.6,0,,Consumer Cyclical,57349728.0,68320.14
+FVHIX,FRANKLIN HIGH INCOME FUND ADVISOR CLASS,1.7,7,7,8,6,3,4,4,39,-10.0,32.0,Poor,Stay away,27,0.0,0.0,0.0,48.0,0,,nan,0.0,0.0
+SKYC,Qualis Innovations Inc,4.16,5,3,10,8,3,1,4,34,-5.0,32.0,Poor,Stay away,39,0.0,0.0,-0.0,39.4,1,,Financial Services,535975968.0,235.38
+GGR,Gogoro Inc,2.8,3,13,3,7,4,2,2,34,-3.0,32.0,Poor,Stay away,34,1.8,-4.1,-2.9,45.9,1,,Consumer Cyclical,79290640.0,17163.18
+CREX,Creative Realities Inc,2.15,9,13,5,6,2,2,4,41,-14.0,32.0,Poor,Stay away,24,5.9,2.4,-0.6,45.3,1,,Technology,42480416.0,56581.59
+UVIX,2x Long VIX Futures ETF,34.38,7,7,1,12,4,0,4,35,-3.0,32.0,Poor,Stay away,36,-35.6,-1.5,-11.2,45.7,0,,nan,nan,39131693.68
+CAIXY,Caixabank SA ADR,4.49,13,6,1,14,0,2,4,40,-8.0,32.0,Poor,Stay away,49,-0.2,8.1,1.2,51.3,1,,Financial Services,90562822144.0,409381.21
+CFEIY,China Feihe Limited,3.43,3,6,3,10,3,3,4,32,0.0,32.0,Poor,Stay away,17,0.9,0.3,-1.3,27.8,0,,Consumer Defensive,3866564608.0,50.85
+BCOMF,B Communications Ltd,4.3,8,6,10,6,3,2,4,39,-10.0,32.0,Poor,Stay away,32,0.0,0.0,-0.0,34.3,0,,Communication Services,451979904.0,0.0
+MCSIX,MFS COMMODITY STRATEGY FUND I,4.44,3,6,2,7,3,7,2,30,2.0,32.0,Poor,Stay away,35,-0.9,-5.5,-2.8,29.1,0,,nan,0.0,0.0
+PRTHU,Priority Technology Holdings Inc Unit,5.0,5,3,10,7,3,2,4,34,-5.0,32.0,Poor,Stay away,34,0.0,0.0,-0.0,0.0,1,,Technology,302850496.0,5.0
+PSSMF,PSSMF,1,2,4,10,7,3,2,4,32,0.0,31.0,Poor,Stay away,32,0.0,0.0,0.0,50.0,0,,Basic Materials,8239617536.0,20.0
+SOSAF,SosTravel.com S.P.A.,1.01,2,4,10,7,3,2,4,32,0.0,31.0,Poor,Stay away,32,0.0,0.0,0.0,50.0,0,,Consumer Cyclical,13216139.0,0.72
+BFDXX,BlackRock Liquidity Funds - Federal Trust Fund,1.0,18,9,5,9,6,7,5,59,-28,31,Poor,Stay away,63,290.9,290.9,206.1,100.0,2,2,nan,nan,0.0
+FIUXX,First American Funds Inc. - First American Institutional Prime Obligations Fund,1.0,15,6,10,6,6,2,4,49,-23.0,31.0,Poor,🔥 COILED: Stay away,51,0.0,0.0,0.0,100.0,0,,nan,nan,0.0
+NWWDF,New World Development Company Limited,0.675,3,6,3,10,0,7,4,33,-5.0,31.0,Poor,Stay away,10,0.0,0.0,-1.7,7.4,1,,Real Estate,3070252032.0,63.5
+GSTK,GSTK,1.45,13,3,6,7,6,4,5,44,-13.0,31.0,Poor,Stay away,40,0.0,-0.7,3.6,82.9,0,,Healthcare,46036276.0,28.35
+VSTKF,VNV Global AB (publ),1.97,8,7,11,6,3,2,4,41,-15.0,31.0,Poor,🔥 COILED: Stay away,36,0.0,0.0,0.0,54.4,1,,Financial Services,254093104.0,467.68
+CABI,Cabbacis Inc.,2.0,12,5,5,4,4,2,4,36,-10.0,31.0,Poor,🔥 COILED: Stay away,39,0.0,0.0,0.1,51.7,0,,Consumer Defensive,15584014.0,0.0
+GRI,GRI Bio Inc.,1.82,13,6,2,6,2,5,5,39,-8.0,31.0,Poor,Stay away,37,17.4,15.9,9.2,56.3,2,,Healthcare,3559384.0,161921.26
+KRNGY,Karoon Energy Ltd,2.2,4,4,10,6,3,5,4,36,-10.0,31.0,Poor,🔥 COILED: Stay away,38,0.0,0.0,-0.0,42.0,0,,Energy,1014977024.0,100.1
+PEVM,Phoenix Motor Inc.,0.001,3,3,9,8,3,3,4,33,-5.0,31.0,Poor,Stay away,13,0.0,0.0,-64.6,10.1,1,,nan,102010424.0,965.29
+NWSZF,NWS Holdings Limited,0.991,9,3,9,6,4,2,4,37,-10.0,30.0,Poor,Stay away,25,0.0,0.0,-0.0,0.0,0,,Industrials,4565157376.0,6.33
+YQAI,YouneeqAI Technical Services Inc.,0.21,3,3,9,7,3,3,4,32,-5.0,30.0,Poor,Stay away,10,0.0,0.0,-29.4,0.1,1,,Technology,10511393.0,77.32
+ESHSF,Eddy Smart Home Solutions Ltd.,1,2,4,10,7,3,2,4,32,-5.0,30.0,Poor,Stay away,32,0.0,0.0,0.0,50.0,1,,Technology,6128623.0,400.0
+TSYHF,TravelSky Technology Limited,1.2,12,5,6,9,5,7,5,49,-19.0,30.0,Poor,Stay away,61,0.4,2.7,0.8,53.0,1,,Technology,3452926976.0,27890.79
+FLNT,Fluent Inc,3.32,11,5,2,12,3,1,5,39,-9.0,30.0,Poor,Stay away,43,-8.3,1.5,0.5,52.2,1,,Communication Services,71259552.0,227439.57
+CIBEY,Commercial International Bank,2.36,12,10,3,6,5,2,5,43,-13.0,30.0,Poor,Stay away,35,0.9,7.3,3.0,56.0,1,,Financial Services,8050238464.0,13047.64
+HHS,Harte Hanks Inc,4.03,8,11,5,2,8,7,2,43,-11.0,30.0,Poor,Stay away,59,0.5,4.4,-0.1,47.9,2,,Industrials,18845454.0,38612.09
+CLAR,Clarus Corp,5.17,19,2,4,15,5,3,5,53,-23.0,30.0,Poor,Stay away,73,21.6,15.1,15.3,75.7,3,,Consumer Cyclical,110327064.0,176941.95
+TONX,TON Strategy Co,3.65,18,6,4,11,3,6,5,53,-23.0,30.0,Poor,Stay away,57,27.2,10.6,15.0,60.5,3,,Technology,212555120.0,574112.99
+SABS,SAB Biotherapeutics Inc,3.08,5,6,3,7,3,7,5,36,-5.0,30.0,Poor,Stay away,23,4.8,-4.6,0.6,50.4,1,,Healthcare,259970272.0,466001.61
+AHT-P-H,Ashford Hospitality Trust Inc 7.50% Series H Cumulative Preferred Stock,4.76,9,9,2,7,5,1,5,38,-8.0,30.0,Poor,Stay away,33,49.7,19.0,14.5,55.5,2,,Other,nan,5587.9
+CMAKY,China Minsh,4.16,10,11,5,4,4,2,2,38,-8.0,30.0,Poor,Stay away,29,9.8,4.5,2.5,52.2,1,,Financial Services,24663656448.0,0.0
+CGMLF,Chalice Mining Limited,0.73,12,5,9,12,3,3,5,49,-20.0,29.0,Poor,Stay away,29,5.8,15.9,4.1,57.9,3,,Basic Materials,346654752.0,4332.68
+PDSB,PDS Biotechnology Corp,0.98,6,5,1,12,3,2,2,31,-5.0,29.0,Poor,Stay away,44,-16.2,-36.8,-15.8,43.7,1,,Healthcare,68095096.0,786911.33
+JIMXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.0,6,4,10,6,3,1,4,34,-10.0,29.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,-0.0,49.6,0,,nan,nan,0.0
+LTFXX,LeggMason Partners Institutional Trust - Western Asset Institutional Tax Free Reserves,1.0,5,4,10,6,3,2,4,34,-10.0,29.0,Poor,🔥 COILED: Stay away,32,0.0,0.0,-0.0,48.1,0,,nan,nan,0.0
+VMIXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.001,8,4,6,6,4,2,4,34,-10.0,29.0,Poor,🔥 COILED: Stay away,27,-0.0,0.0,-0.0,49.0,0,,nan,nan,0.0
+EXSPF,Expert.ai S.p.A,1.83,7,6,10,6,3,5,4,41,-15.0,29.0,Poor,Stay away,49,0.0,0.0,-0.0,23.3,1,,Technology,227302176.0,422.85
+KLXE,KLX Energy Services Holdings Inc,1.16,6,15,5,6,4,2,2,40,-11.0,29.0,Poor,Stay away,20,20.8,0.0,1.7,48.3,2,,Energy,59666608.0,220674.82
+ZDAI,Primega Group Holdings Limited,1.45,13,6,4,11,3,7,5,49,-23.0,29.0,Poor,Stay away,27,5.1,13.3,7.7,54.5,4,,Industrials,22039876.0,100935.16
+RMDCX,ALLIANZGI MID-CAP FUND C,2.39,6,9,1,9,0,2,2,29,-3.0,29.0,Poor,Stay away,22,6.7,-6.3,-2.1,43.2,0,,nan,0.0,0.0
+HRST,Harvest Oil & Gas Corp,3.13,12,8,11,6,0,2,4,43,-17.0,29.0,Poor,Stay away,46,0.0,0.0,0.0,67.7,1,,Energy,3172011.0,43.13
+EKHAX,WELLS FARGO HIGH YIELD BOND FUND CLASS A,2.93,10,6,3,6,3,4,4,36,-10.0,29.0,Poor,Stay away,28,0.0,0.0,0.1,50.4,0,,nan,0.0,0.0
+DSWL,Deswell Industries Inc,3.02,13,13,4,4,3,3,4,44,-13.0,29.0,Poor,Stay away,25,2.0,2.4,0.3,50.2,1,,Technology,52745640.0,15490.46
+XVVRX,Invesco Senior Income Trust,3.26,7,10,2,6,3,4,4,36,-10.0,29.0,Poor,Stay away,21,-0.3,-0.3,-0.4,31.9,0,,Other,0.0,0.0
+RKUNF,Rakuten Group Inc,4.134,9,7,8,4,3,3,5,39,-13.0,29.0,Poor,Stay away,23,4.9,4.7,1.9,52.5,1,,Consumer Cyclical,10238080000.0,0.0
+OMSE,OMS Energy Technologies Inc.,3.94,4,13,3,1,4,2,4,31,-6.0,29.0,Poor,Stay away,25,-0.5,-2.5,-1.7,44.4,1,,Energy,198659920.0,49380.73
+GCV,Gabelli Convertible and Income Securities Mutual Fund,3.83,3,6,2,8,2,6,2,29,0.0,29.0,Poor,Stay away,18,0.5,-3.0,-2.2,37.0,1,,Financial Services,119904700.0,72382.76
+AMTD,AMTD IDEA Group,12.31,12,10,1,3,7,0,5,38,-10.0,28.0,Poor,Stay away,54,-14.9,-40.5,-13.3,48.1,1,,Financial Services,94910008.0,125968.1
+SSZXX,State Street Institutional Liquid Reserves Fund,1.0,4,5,10,6,3,2,4,34,-9.0,28.0,Poor,Stay away,34,0.0,0.0,-0.0,67.6,0,,nan,nan,0.0
+VSLXX,JPMorgan Trust IV - JPMorgan Securities Lending Money Market Fund,1.0,4,4,10,6,3,2,4,33,-10.0,28.0,Poor,🔥 COILED: Stay away,34,0.0,0.0,-0.0,48.1,0,,nan,nan,0.0
+PIHG,Plural Industry Holding Group Co. Limited,3.0,10,6,11,7,3,2,4,43,-18.0,28.0,Poor,Stay away,60,0.0,0.0,0.0,96.5,1,,Financial Services,10786939.0,20.5
+BTBD,Bt Brands Inc,1.55,4,9,0,10,7,0,2,32,-5.0,28.0,Poor,Stay away,39,-2.5,-15.3,-6.8,42.8,1,,Consumer Cyclical,7297974.0,972586.25
+TEUTF,Teuton Resources Corp,0.98,9,7,2,11,0,2,4,35,-5.0,28.0,Poor,Stay away,25,7.7,6.5,0.2,48.1,2,,Basic Materials,72830536.0,29410.6
+ALMMF,Aluminum Corporation of China Limited,0.91,8,10,6,6,3,0,3,36,-8.0,28.0,Poor,Stay away,20,-3.2,4.6,-0.2,48.0,0,,Basic Materials,22987663360.0,9632.09
+SURRY,Sun Art Retail Group Ltd ADR,1.57,19,4,5,10,6,7,5,56,-28.0,28.0,Poor,Stay away,57,12.1,24.2,11.8,74.3,3,,Consumer Cyclical,1510668800.0,0.0
+ACCL,Acco Group Holdings Limited Ordinary Shares,2.4,3,8,3,8,4,0,2,28,0.0,28.0,Poor,Stay away,30,-5.0,-7.3,-5.1,40.9,0,,Industrials,20645852.0,0.0
+TDTH,Trident Digital Tech Holdings Ltd American Depository Shares,0.79,8,12,7,11,3,4,3,48,-18.0,28.0,Poor,Stay away,19,22.9,14.2,1.3,46.3,3,,Technology,15619416.0,50801.82
+ADTGBX,ADTGBX,2.648,12,5,3,6,1,1,5,33,-10.0,28.0,Poor,🔥 COILED: Stay away,29,-0.4,-0.0,0.1,53.0,0,,nan,nan,0.0
+AJMPF,Ashmore Group Plc,2.86,5,7,9,2,6,1,3,33,-10.0,28.0,Poor,🔥 COILED: Stay away,29,0.0,-6.2,-1.8,47.7,0,,Financial Services,1787912320.0,0.0
+MCRUF,Morgan Advanced Materials plc,3.45,4,3,2,9,3,5,2,28,0.0,28.0,Poor,Stay away,53,0.0,-6.0,-2.1,30.9,1,,Industrials,815423616.0,191.53
+MCSFX,MFS Commodity Strategy Fund Class B,4.43,3,6,2,7,3,3,2,26,2.0,28.0,Poor,Stay away,35,-0.9,-5.5,-2.8,29.3,0,,nan,nan,0.0
+COMVX,COMSTOCK CAPITAL VALUE FUND CLASS AAA,4.68,17,5,3,6,3,6,4,44,-19.0,28.0,Poor,Stay away,56,0.9,0.9,0.5,63.2,0,,nan,0.0,0.0
+ISLMF,ISLMF,4.97,3,14,8,2,4,2,5,38,-8.0,28.0,Poor,Stay away,26,1.8,5.5,-2.1,44.2,1,,nan,nan,0.0
+GEOUF,Golden Energy Offshore Services AS,1.16,10,3,11,8,4,2,4,42,-18.0,27.0,Poor,Stay away,44,0.0,0.0,0.0,89.0,1,,Industrials,73410592.0,110.17
+AHMA,Ambitions Enterprise Management Co. L.L.C Class A Ordinary Shares,1.17,8,6,9,6,2,2,2,35,-8.0,27.0,Poor,Stay away,36,2.6,8.3,0.8,49.2,2,,Consumer Cyclical,31508498.0,0.0
+BONL,Bonal International Inc,0.95,5,3,8,3,6,5,4,34,-10.0,27.0,Poor,Stay away,39,0.0,0.0,-0.5,39.5,0,,Industrials,1747922.0,209.63
+SYNX,Silynxcom Ltd.,0.825,4,8,1,11,3,0,5,32,-5.0,27.0,Poor,Stay away,17,-13.2,1.2,-4.2,46.3,1,,Technology,7629606.0,502883.84
+WCT,Wellchange Holdings Company Limited,3.26,18,5,5,11,2,2,5,48,-21,27,Poor,Stay away,52,1269.7,947.9,82.8,63.1,3,9,Technology,7466693.0,501469.51
+ALLR,Allarity Therapeutics Inc,0.914,4,6,3,8,2,4,5,32,-5.0,27.0,Poor,Stay away,16,-6.4,2.7,-4.0,45.2,1,,Healthcare,26252694.0,2360106.3
+ESGH,ESG Inc.,2.78,11,5,4,6,6,5,5,42,-18.0,27.0,Poor,Stay away,45,0.0,0.0,11.3,71.6,1,,Consumer Defensive,27701088.0,1500.16
+LFEV,Life Electric Vehicles Holdings Inc.,0.99,3,8,3,11,3,2,2,32,-5.0,27.0,Poor,Stay away,18,0.0,8.9,-7.3,21.8,2,,Consumer Cyclical,19734908.0,734.66
+HCTI,Healthcare Triangle Inc,3.74,12,3,3,7,3,3,5,36,-9.0,27.0,Poor,Stay away,48,4.2,-40.6,3.2,54.2,0,,Healthcare,4882699.0,289557.54
+TAGBX,TEMPLETON GLOBAL BALANCED FUND CLASS A,3.15,7,8,6,6,0,1,4,32,-10.0,27.0,Poor,🔥 COILED: Stay away,50,-0.3,0.0,-0.4,46.7,0,,nan,0.0,0.0
+ADTGPX,ADTGPX,3.735,11,5,3,6,1,1,5,32,-10.0,27.0,Poor,🔥 COILED: Stay away,30,-0.4,0.0,0.0,52.5,0,,nan,nan,0.0
+XHGIX,Western Assets High Income Fund II,3.77,7,7,4,6,3,3,4,34,-10.0,27.0,Poor,Stay away,18,0.0,-0.3,-0.5,39.1,0,,Other,0.0,0.0
+BJCHY,Beijing Capital International Airport Co Ltd ADR,0.904,14,6,5,10,4,1,5,45,-22.0,26.0,Poor,Stay away,35,0.0,11.3,5.0,69.5,3,,Industrials,923162496.0,258.78
+CSWYF,China Shineway Pharmaceutical Group Limited,1.004,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Healthcare,758421568.0,1.0
+GLCP,GLCP,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Industrials,154394752.0,45.0
+PSPX,PSPX,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Consumer Cyclical,14375000.0,4.5
+BMMCX,Blackrock Multi-Manager Alt Fund Cl C,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Other,0.0,0.0
+BMMAX,Blackrock Multi-Manager Alt Fund Cl A,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Other,0.0,0.0
+CPVPX,Columbia Leg Captl Preservation Port A,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Other,0.0,0.0
+VUSXX,Vanguard Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IUGXX,Invesco Treasurers Series Trust - Invesco Premier U.S. Government Money Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Other,nan,0.0
+FDRXX,Fidelity Govt Cash Rsrvs,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SPAXX,Fidelity® Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TFDXX,BlackRock Liquidity Funds FedFund Institutional Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+VMFXX,Vanguard Federal Money Market Fund Investor Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGTXX,Goldman Sachs Financial Square Government Fund Institutional Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTIXX,Goldman Sachs Financial Square Treasury Instruments Fund Institutional Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AALXX,Thrivent Money Market Fund Class S,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AGPXX,Invesco Short-Term Investments Trust Government & Agency Portfolio Institutional,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DAPXX,Dreyfus Government Securities Cash Management Administrative Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGXXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MVRXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FXFXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MISXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSIXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GVMXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTRXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FRAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TPIXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TTTXX,BlackRock Liquidity Funds - Treasury Trust Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FIGXX,Fidelity Colchester Street Trust - Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMJXX,Goldman Sachs Investor Money Market Fund Class I,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SWVXX,Schwab Value Advantage Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SWGXX,Schwab Government Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MUSXX,MainStay U.S. Government Liquidity Fund Class I,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TSCXX,T. Rowe Price Cash Reserves Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGCXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SAHXX,State Street Institutional U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TSTXX,BlackRock Liquidity Funds - T-Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+INFXX,Institutional Fiduciary Trust Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ABZXX,American Funds U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AAOXX,American Beacon U.S. Government Money Market Select Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ACAXX,American Century Investment Trust - Prime Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ACNXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ACZXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ACXXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ADAXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AEAXX,AB Government Exchange Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AEYXX,AB Government Exchange Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AECXX,AB Fixed-Income Shares Inc. - AB Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AGQXX,American Century Investment Trust - Premium Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AGCXX,Short-Term Investment Trust - Invesco Government & Agency Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AGHXX,American Century Investment Trust - Premium Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AGRXX,AllianceBernstein Bond Fund - Government Reserves Portfolio Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AIEXX,AB Government Exchange Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AIMXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AIYXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AMMXX,Thrivent Mutual Funds - Thrivent Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AMGXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+AMAXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+APCXX,Cavanal Hill Funds - Government Securities Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+APGXX,Cavanal Hill Funds - U.S. Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+APHXX,Cavanal Hill Funds - Government Securities Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+APKXX,Cavanal Hill Funds - U.S. Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+APNXX,Cavanal Hill Funds - U.S. Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+APSXX,Cavanal Hill Funds - Government Securities Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+APPXX,Cavanal Hill Funds - Government Securities Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ARCXX,American Century Investment Trust - Prime Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BBSXX,BBH Trust - BBH U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BCHXX,BlackRock Liquidity Funds - T-Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BCTXX,American Century California Tax-Free and Municipal Funds - California Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BECXX,BlackRock Liquidity Funds - Federal Trust Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BFFXX,BlackRock Liquidity Funds - FedFund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BFTXX,BlackRock Liquidity Funds - Federal Trust Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BFMXX,BlackRock Liquidity Funds - Federal Trust Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BFRXX,BlackRock Liquidity Funds - FedFund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BGSXX,Northern Institutional Funds - U.S. Government Select Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BMMIX,CollegeAdvantage 529 Savings Plan - BlackRock Money Market Option,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BNGXX,Northern Institutional Funds - U.S. Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BNTXX,American Century Municipal Trust - Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BPRXX,American Century Investment Trust - Prime Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BRIXX,Blackrock Funds III - Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BSCXX,Northern Institutional Funds - U.S. Government Select Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BTCXX,BlackRock Liquidity Funds - Treasury Trust Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+BTRXX,BlackRock Liquidity Funds - T-Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CACPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CACXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CAGXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CAIXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CALXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CBDAX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CBDCX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CBDEX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CBDPX,Future Scholar 529 College Savings Plan - Columbia Bank Deposit 529 Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CCCPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CCSXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CCCXX,Money Market Obligations Trust - Federated Hermes California Municipal Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CEAXX,Citizensselect Funds - Dreyfus Institutional Preferred Treasury Securities Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CEIXX,Citizensselect Funds - Dreyfus Institutional Preferred Treasury Securities Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CIFXX,LeggMason Partners Institutional Trust - Western Asset Institutional Tax Free Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CECPX,Future Scholar 529 College Savings Plan - Conservative Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CIIXX,Legg Mason Partners Institutional Trust - Western Asset Institutional U.S. Treasury Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CNFXX,City National Rochdale Funds - City National Rochdale Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CNGXX,City National Rochdale Funds - City National Rochdale Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CNIXX,City National Rochdale Funds - City National Rochdale Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CPFXX,American Century Government Income Trust - Capital Preservation Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+COSXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CRHXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CRMXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CRKXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CRJXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CRRXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CRVXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CVGXX,BofA Funds Series Trust - BofA Money Market Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+CVTXX,Short-Term Investment Trust - Invesco Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DAGXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DARXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DBBXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DCMXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGEXX,Morgan Stanley U.S Government Money Market Trust Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGQXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGPXX,Dreyfus Government Cash Management Funds - Dreyfus Government Prime Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DHLXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Treasury and Agency Cash Advantage Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGUXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DGVXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DIRXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DIPXX,Dreyfus Government Cash Management Funds - Dreyfus Government Prime Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DNSXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Treasury and Agency Cash Advantage Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DOAXX,DWS Money Market Prime Series - DWS Cash Investment Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DOCXX,DWS Money Market Prime Series - DWS Cash Investment Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DPRXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DOSXX,DWS Money Market Prime Series - DWS Cash Investment Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DPGXX,Dreyfus Government Cash Management Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DSVXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Preferred Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DSHXX,Dreyfus Institutional Reserves Funds - Dreyfus Institutional Preferred Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTBXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTAXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTCXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTDXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTGXX,Cash Account Trust - Government & Agency Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTHXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTKXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTPXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTNXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTLXX,Dreyfus Institutional Liquidity Funds - Dreyfus Treasury and Agency Liquidity Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DTVXX,Dreyfus Treasury Obligations Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DVPXX,Dreyfus Government Cash Management Funds - Dreyfus Government Prime Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DVRXX,Dreyfus Treasury Securities Cash Management,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+DWGXX,Morgan Stanley U.S Government Money Market Trust Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ELMXX,Elfun Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FAAXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FATXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCEXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCGXX,Fidelity Colchester Street Trust - Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FAPXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCIXX,Fidelity Colchester Street Trust - Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCOXX,Fidelity Colchester Street Trust - Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCSXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCVXX,Fidelity Colchester Street Trust - Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FDCXX,Fidelity Newbury Street Trust - Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FCYXX,Goldman Sachs Trust - Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FDLXX,Fidelity Hereford Street Trust - Fidelity Treasury Only Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FDUXX,Fidelity Newbury Street Trust - Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FEAXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FERXX,Fidelity Newbury Street Trust - Tax-Exempt Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FEDXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FEIXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FESXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FEXXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FETXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FFTXX,Money Market Obligations Trust - Federated Institutional Tax-Free Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FFCXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGEXX,Fidelity Colchester Street Trust - Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGDXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGNXX,Fidelity Salem Street Trust - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGUXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGZXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FGVXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FHMXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FHIXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FHSXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FIHXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FIOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FILXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FIKXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FIRXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FIWXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FKIXX,Goldman Sachs Trust - Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMAXX,Fidelity Massachusetts Municipal Trust - Fidelity Massachusetts AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FLIXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FLPXX,Meeder Funds - Institutional Prime Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMFXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMEXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMGXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMKXX,Goldman Sachs Trust - Investor Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMOXX,Fidelity Newbury Street Trust - Tax-Exempt Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMPXX,Fidelity Colchester Street Trust - Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMQXX,Fidelity Salem Street Trust - Fidelity SAI Municipal Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMSXX,Fidelity Massachusetts Municipal Trust - Fidelity Massachusetts AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FNCXX,Money Market Obligations Trust - Federated New York Municipal Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FMYXX,Fidelity Colchester Street Trust - Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FNDXX,Federated Private Liquidity Funds-Prime Private Liquidity Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FNKXX,Fidelity New York Municipal Trust II - Fidelity New York AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FNTXX,Money Market Obligations Trust - Federated New York Municipal Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOCXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FODXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOEXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOPXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOIXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOSXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOYXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOXXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FPUXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FOZXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FPPXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FRBXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FRQXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FRFXX,Money Market Obligations Trust - Federated Hermes Capital Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FRRXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FRSXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSJXX,Fidelity Court Street Trust II - Fidelity New Jersey AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSBXX,Fidelity California Municipal Trust II - Fidelity California AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSNXX,Fidelity New York Municipal Trust II - Fidelity New York AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSKXX,Fidelity Court Street Trust II - Fidelity New Jersey AMT Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSRXX,Fidelity Newbury Street Trust - Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FSXXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTCXX,Fidelity Colchester Street Trust - Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTAXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTDXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTFXX,Money Market Obligations Trust - Federated Institutional Tax-Free Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTJXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTKXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTGXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTQXX,Franklin U.S. Government Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTTXX,Fifth Third Funds - Fifth Third US Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTVXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTUXX,Fidelity Colchester Street Trust - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTYXX,Fidelity Colchester Street Trust - Treasury Only Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTXXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FUGXX,Invesco Treasurers Series Trust - Invesco Premier U.S. Government Money Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FTZXX,First American Funds Inc. - Retail Tax Free Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FUPXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FUIXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FUZXX,First American Funds Inc. - Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FVIXX,First American Funds Inc. - Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FVAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FVSXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FXRXX,First American Funds Inc. - U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FYAXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FYSXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FYRXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FZBXX,Fidelity Hereford Street Trust - Fidelity Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FZAXX,Fidelity Hereford Street Trust - Fidelity Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FZGXX,Fidelity Hereford Street Trust - Fidelity Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FZFXX,Fidelity Newbury Street Trust - Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GABXX,The Gabelli Money Market Funds - The Gabelli U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+FZRXX,First American Funds Inc. - Retail Prime Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GBAXX,The Gabelli Money Market Funds - The Gabelli U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GCFXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GBCXX,The Gabelli Money Market Funds - The Gabelli U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GCGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GCIXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GCTXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GFAXX,SEI Daily Income Trust - Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GFCXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GFPXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GICXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GIPXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GGPXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMBXX,General Money Market Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMCXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMGXX,General Money Market Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMIXX,Nationwide Mutual Funds - Nationwide Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMMXX,General Money Market Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMLXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMQXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMOXX,AB Fixed-Income Shares Inc. - AB Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMRXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMYXX,GuideStone Funds - Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GOAXX,Money Market Obligations Trust - Federated Hermes Government Obligations Tax-Managed Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GMZXX,GuideStone Funds - Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GOFXX,Money Market Obligations Trust - Federated Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GOIXX,Federated Hermes Govt Obl IS,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GOTXX,Money Market Obligations Trust - Federated Hermes Government Obligations Tax-Managed Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPFXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GOVXX,Money Market Obligations Trust - Federated Government Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPIXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPTXX,Goldman Sachs Trust - Goldman Sachs Investor Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPVXX,Short-Term Investment Trust - Invesco Government & Agency Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GRAXX,Money Market Obligations Trust - Federated Hermes Government Reserves Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GRCXX,Money Market Obligations Trust - Federated Hermes Government Reserves Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GRGXX,Money Market Obligations Trust - Federated Hermes Government Reserves Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GRFXX,Money Market Obligations Trust - Federated Hermes Government Reserves Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GSGXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GSFXX,Goldman Sachs Trust - Goldman Sachs Financial Square Federal Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GSIXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Instruments Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GSOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GTOXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GTRXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GTPXX,Goldman Sachs Trust - Goldman Sachs Financial Square Treasury Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GTSXX,Money Market Obligations Trust - Federated Hermes Government Obligations Tax-Managed Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GVIXX,Allspring Funds Trust - Allspring Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GVCXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GVRXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GVSXX,State Street Insti U.S. Government Money Market Fd Service Class,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GVVXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HBIXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HDIXX,Homestead Funds Inc. - Daily Income Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HGDXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HGFXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HGGXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HTFXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HGIXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HTYXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HTDXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+HTGXX,HSBC Funds - HSBC U.S. Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IATXX,Transamerica Funds - Transamerica Government Money Market,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ICTXX,Investors Cash Trust - DWS Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ICAXX,DWS Government Money Market Series - Institutional,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IMLXX,Transamerica Funds - Transamerica Government Money Market,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IMRXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+INAXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+INVXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+INGXX,Legg Mason Partners Institutional Trust - Western Asset Institutional Government Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IPPXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IPTXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IRCXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IRVXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IPVXX,AIM Treasurer's Series Trust (Invesco Treasurer's Series Trust) - Invesco Premier Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ISSXX,Federated Private Liquidity Funds-Prime Private Liquidity Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+ITVXX,Investors Cash Trust - DWS Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JMCXX,John Hancock Money Market Fund Class C,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IVMXX,Voya Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JHOXX,John Hancock Variable Insurance Trust - Money Market Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+IUSXX,Treasury Portfolio - Deutsche U.S. Treasury Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JAMXX,Janus Investment Fund - Janus Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JNMXX,Janus Investment Fund - Janus Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JNSXX,Edward Jones Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JRSXX,ftse-kicks-2011-off-boosted-by-oil-manufacturing.aspx,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,0,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+JRVXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.0,7,4,4,6,4,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,26,-0.0,0.0,-0.0,47.2,0,,nan,nan,0.0
+KMMXX,DWS Money Market Prime Series - DWS Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LACXX,Lord Abbett U.S. Govt & Govt Sponsored Enterprises Money Mkt Fd Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LAIXX,Legg Mason Partners Institutional Trust - U.S. Treasury Obligations Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LAOXX,Legg Mason Partners Institutional Trust - U.S. Treasury Obligations Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LCCXX,Lord Abbett U.S. Government & Government Sponsored Enterprises Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LGRXX,Legg Mason Partners Institutional Trust - Western Asset Institutional Government Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LAYXX,Lord Abbett U.S. Govt & Govt Sponsored Entpr MMkt Fd Cl I,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LTRXX,Legg Mason Partners Institutional Trust - Western Asset Institutional U.S. Treasury Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LUIXX,Legg Mason Partners Institutional Trust - U.S. Treasury Obligations Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MAAXX,Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+LWPXX,Legg Mason Partners Institutional Trust - Western Asset Institutional Government Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MAOXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MAMXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MAYXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MCBXX,BlackRock Financial Institutions Series Trust - BlackRock Summit Cash Reserves Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MCHXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MCCXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MCDXX,BlackRock Liquidity Funds - MuniCash,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MCMXX,MFS Series Trust IV - MFS U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MCPXX,BlackRock Liquidity Funds MuniCash - Capital,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MCRXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MFCXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MFSXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MGAXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MGPXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MGOXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MIFXX,Nationwide Mutual Funds - Nationwide Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MGSXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MHSXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MIPXX,The MainStay Funds - MainStay Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MJAXX,Prudential Government Money Market Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MJLXX,JPMorgan Trust II - JPMorgan Liquid Assets Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MJCXX,Prudential Government Money Market Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MMIXX,Wells Fargo Funds Trust - National Tax-Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MODXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MNVXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MOSXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MOFXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MOIXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MOTXX,Money Market Obligations Trust - Federated Municipal Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPCXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPIXX,ProFunds - Money Market ProFund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPMXX,Morgan Stanley Institutional Liquidity Funds - Prime Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPSXX,ProFunds - Money Market ProFund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPRXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPNXX,Morgan Stanley Institutional Liquidity Funds - Prime Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MPVXX,Morgan Stanley Institutional Liquidity Funds - Prime Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSAXX,BlackRock Summit Cash Reserves Fund Cl A,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MREXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSCXX,The MainStay Funds - MainStay Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSDXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSEXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSIXX,MainStay Funds Trust - Cash Reserves Sweeps Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSSXX,Morgan Stanley Institutional Liquidity Funds - Treasury Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSGXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSRXX,MFS Series Trust I - MFS U.S. Government Cash Reserve Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSTXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSUXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MSVXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MTCXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MTNXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MTSXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MTTXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MUIXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MVAXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MVVXX,Morgan Stanley Institutional Liquidity Funds -  Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MVIXX,Morgan Stanley Institutional Liquidity Funds - Government Securities Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MYMXX,AB Fixed-Income Shares Inc. - AB Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+MVYXX,Morgan Stanley Institutional Liquidity Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NCGXX,North Capital Funds Trust - Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NISXX,Money Market Obligations Trust - Federated New York Municipal Cash Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NITXX,Northern Institutional Funds - Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NOSXX,Northern Funds - U.S. Government Select Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NOGXX,Northern Funds - U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NWGXX,Allspring Funds Trust - Allspring Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NWSXX,Nationwide Mutual Funds - Nationwide Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NWTXX,Wells Fargo Funds Trust - 100% Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+NYCXX,Money Market Obligations Trust - New York Cash II Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+OMBXX,AIM Investment Secs Fds (Invesco Invt Secs Fds) - Invesco U.S. Government Money Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PBMXX,Prudential Government Money Market Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PCEXX,PACE Select Advisors Trust - PACE Money Market Investments,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PBHXX,The Payden & Rygel Investment Group - Payden Cash Reserves Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PCSXX,Principal Fds Inc. Money Market Fd A Cl,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PCOXX,Money Market Obligations Trust - Federated Prime Cash Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PCUXX,Fundvantage Trust - Pac Capital US Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PCVXX,Money Market Obligations Trust - Federated Prime Cash Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGDXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PFCXX,Putnam Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGFXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGEXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGLXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGKXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGOXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGRXX,Putnam Investment Funds - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGPXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PGYXX,PIMCO Funds - PIMCO Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PISXX,Wells Fargo Funds Trust - Treasury Plus Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PIFXX,Plan Investment Fund Inc. - Government Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PINXX,BlackRock Funds - BlackRock Wealth Liquid Environmentally Aware Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PIVXX,Wells Fargo Funds Trust - Treasury Plus Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PMTXX,Pioneer Money Market Trust - Pioneer U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PMJXX,Principal Fds Inc. Money Market Fd J Cl,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PMZXX,Prudential Government Money Market Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PRMXX,Federated Private Liquidity Funds-Prime Private Liquidity Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PRTXX,T. Rowe Price U.S. Treasury Funds Inc. - T. Rowe Price U.S. Treasury Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PRRXX,T. Rowe Price Government Money Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PTBXX,Putnam Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PRYXX,Pioneer Money Market Trust - Pioneer U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PRVXX,Wells Fargo Funds Trust - Treasury Plus Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PTEXX,T. Rowe Price Tax-Exempt Money Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+PURXX,Putnam Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+RBEXX,American Funds U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+RGYXX,HSBC Funds - HSBC U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+RMGXX,Ubs Money Series - RMA Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SAEXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+RPGXX,Davis Series Inc. - Davis Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+RYFXX,Rydex Series Funds - U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SAJXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SALXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SAMXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SCAXX,Schwab California Municipal Money Fund Ultra Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SCIXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SCPXX,SEI Daily Income Trust - Treasury II Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SCTXX,Schwab AMT Tax-Free Money Fund Ultra Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SCOXX,Schwab Treasury Obligations Money Fund Ultra Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SEGXX,UBS Series Funds - UBS Select Government Preferred Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SETXX,UBS (Cayman) Select Treasury Institutional Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SEOXX,SEI Daily Income Trust - Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SGAXX,The Saratoga Advantage Trust - U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SGMXX,The Saratoga Advantage Trust - U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SGUXX,Schwab Government Money Fund Ultra Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SGPXX,UBS Series Funds - UBS Select Government Preferred Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SMGXX,Legg Mason Partners Money Market Trust - Western Asset Government Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SNOXX,Charles Schwab Family of Funds - Schwab Treasury Obligations Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SNAXX,The Charles Schwab Family of Funds - Schwab Value Advantage Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SNRXX,Schwab Charles Family Funds - Retirment Government Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SNVXX,Schwab Government Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SNSXX,The Charles Schwab Family of Funds - Schwab U.S. Treasury Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SNYXX,Schwab New York Municipal Money Fund Ultra Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SPRXX,Fidelity Hereford Street Trust - Fidelity Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SSJXX,State Street Institutional Investment Trust- Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SSKXX,State Street Institutional Investment Trust - State Street Institutional Tax Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SSNXX,State Street Institutional Investment Trust - State Street Institutional Tax Free Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SSOXX,State Street Master Funds - State Street U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SSQXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+STGXX,Wells Fargo Funds Trust - Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+STPXX,UBS Money Series - UBS Select Treasury Preferred Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SWKXX,The Charles Schwab Family of Funds - Schwab California Municipal Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SWTXX,The Charles Schwab Family of Funds - Schwab Municipal Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SWOXX,Schwab Municipal Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SWWXX,The Charles Schwab Family of Funds - Schwab AMT Tax-Free Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SWYXX,The Charles Schwab Family of Funds - Schwab New York Municipal Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SUTXX,Schwab U.S. Treasury Money Fund Ultra Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TACXX,Short-Term Investment Trust - Invesco Treasury Obligations Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+SZCXX,The Saratoga Advantage Trust - U.S. Government Money Market Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TAMXX,Transamerica Funds - Transamerica Government Money Market,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TAQXX,State Street Institutional Investment Trust -Treasury Obligations Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TBSXX,Money Market Obligations Trust - Federated Tax-Free Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TBVXX,Money Market Obligations Trust - Federated Tax-Free Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TBIXX,Money Market Obligations Trust - Federated Tax-Free Obligations Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TCGXX,SEI Daily Income Trust - Government II Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TCIXX,TIAA-CREF Funds - TIAA-CREF Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TCRXX,American Century Investment Trust - Premium Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TERXX,T. Rowe Price Tax-Exempt Money Fund Inc.,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TGRXX,Transamerica Funds - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TFFXX,BlackRock Liquidity Funds - Federal Trust Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TFGXX,Transamerica Funds - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TGTXX,Transamerica Funds - Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TIEXX,TIAA-CREF Funds - TIAA-CREF Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TIMXX,RBC Funds Trust - U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TILXX,State Street Institutional Investment Trust - International Liquid Reserves Fund,1.0,4,4,10,6,3,2,4,33,-10.0,26.0,Poor,Stay away,33,0.0,0.0,-0.0,0.0,0,,nan,nan,0.0
+TIRXX,TIAA-CREF Funds - TIAA-CREF Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TMDXX,T. Rowe Price State Tax-Free Income Trust - T. Rowe Price Maryland Tax-Free Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TISXX,Money Market Obligations Trust - Federated Hermes U.S. Treasury Cash Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TLMXX,TIAA-CREF Life Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TMHXX,TIAA-CREF Life Funds - Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TPLXX,State Street Institutional Investment Trust - International Treasure Plus Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TPFXX,Short-Term Investment Trust - Invesco Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TPPXX,TIAA-CREF Funds - TIAA-CREF Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TPVXX,State Street Institutional Investment Trust - State Street Institutional Treasury Plus Money Market,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TRIXX,State Street Institutional Investment Trust - Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TRGXX,T. Rowe Price U.S. Treasury Funds Inc. - T. Rowe Price U.S. Treasury Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TRPXX,Short-Term Investment Trust - Invesco Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TRVXX,State Street Institutional Investment Trust - Treasury Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TSPXX,Short-Term Investment Trust - Invesco Treasury Obligations Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TRZXX,T. Rowe Price U.S. Treasury Funds Inc. - T. Rowe Price U.S. Treasury Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TTOXX,Money Market Obligations Trust - Federated Trust for U.S. Treasury Obligations,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TUIXX,RBC Funds Trust - U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TUGXX,RBC Funds Trust - U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TTGXX,T Rowe Price Government Money Funds Inc - Government Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TWNXX,T. Rowe Price State Tax-Free Income Trust - T. Rowe Price Maryland Tax-Free Money Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TXPXX,Short-Term Investment Trust - Invesco Treasury Obligations Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TXMXX,Cash Account Trust - DWS Tax-Exempt Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+TYCXX,Short-Term Investment Trust - Invesco Treasury Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+UATXX,USAA Mutual Funds Trust - USAA Treasury Money Market Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+UPPXX,UBS Select Prime Preferred Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+UPRXX,Ubs Money Series - Prime Reserve  Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+USAXX,USAA Mutual Funds Trust - USAA Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+USEXX,USAA Mutual Funds Trust - USAA Tax Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+UTSXX,Shelton Funds - The United States Treasury Trust,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+UTIXX,Money Market Obligations Trust - Federated Hermes U.S. Treasury Cash Reserves,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+VETXX,Goldman Sachs Trust - Goldman Sachs Financial Square Government Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+VMRXX,Vanguard Money Market Reserves - Vanguard Cash Reserves Federal Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+VYFXX,Vanguard New York Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+WADXX,Western Asset Premier Institutional U.S. Treasury Reserves Capital Shares,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+WCGXX,Northern Institutional Funds - U.S. Government Select Portfolio,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+WGAXX,Allspring Funds Trust - Allspring Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+WGOXX,Wilmington Funds - Wilmington U.S. Government Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+WOTXX,Wells Fargo Funds Trust - 100% Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+WTRXX,Wells Fargo Funds Trust - 100% Treasury Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+WTSXX,WT Mutual Fund - Wilmington Tax-Exempt Money Market Fund,1,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,nan,0.0
+GPSAF,GPSAF,1.23,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,nan,609934848.0,50.0
+HRZCF,HRZCF,1.3,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Industrials,4156417024.0,4.5
+ICDX,ICDX,1.3,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Consumer Cyclical,8384999.0,9.0
+STCPF,Sella Capital Real Estate Ltd,1.5,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Real Estate,384328800.0,0.0
+MTPTF,Motorpoint Group plc,1.78,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,1,,Consumer Cyclical,141745376.0,88.75
+PKCPY,AKR Corporindo Tbk PT ADR,1.63,5,3,10,6,3,2,4,33,-10.0,26.0,Poor,Stay away,37,0.0,0.0,-0.0,38.7,0,,Energy,1409743616.0,20.9
+KCDMF,Kimberly-Clark de México S. A. B. de C. V,2.05,5,9,8,1,3,3,2,31,-8.0,26.0,Poor,Stay away,21,2.5,2.5,-0.4,44.3,1,,Consumer Defensive,6721901056.0,0.0
+HWGLF,Harworth Group plc,2.07,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Real Estate,673164672.0,3.0
+CMCUF,CMCUF,2,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Financial Services,nan,0.0
+CLVT,CLARIVATE PLC,2.3,16,8,5,14,5,5,5,58,-30,26,Poor,Stay away,39,-1.3,33.7,12.5,69.1,3,,Technology,1591649152.0,5463686.86
+RSDEF,Ramsdens Holdings PLC,2.392,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Consumer Cyclical,77411208.0,456.25
+FRFBF,ForFarmers N.V.,3.17,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,1,,Consumer Defensive,280641024.0,1.0
+JHHBX,JOHN HANCOCK FOCUSED HIGH YIELD FUND CLASS A,2.9,6,8,0,6,3,4,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,22,0.0,0.0,-0.1,46.7,0,,nan,0.0,0.0
+AFCG,AFC Gamma Inc,3.34,19,6,2,14,1,3,5,50,-24.0,26.0,Poor,Stay away,51,11.7,10.6,4.1,56.3,3,,Financial Services,86115568.0,289167.35
+XPIMX,Putnam Master Intermediate Income Trust,3.26,6,7,5,6,3,2,4,33,-10.0,26.0,Poor,Stay away,22,-0.3,0.0,-0.1,46.6,0,,Other,0.0,0.0
+GMYYF,MONETA Money Bank a.s,4.15,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Financial Services,2120650112.0,0.15
+CAAS,China Automotive Systems Inc,4.27,9,11,3,5,0,3,3,34,-8.0,26.0,Poor,Stay away,32,3.4,-1.2,-1.4,44.6,1,,Consumer Cyclical,134259616.0,36681.97
+CING,Cingulate Inc,4.49,1,4,3,12,2,2,5,29,-3.0,26.0,Poor,Stay away,19,5.9,-13.5,-4.3,43.4,2,,Healthcare,61257172.0,366239.45
+JPPPF,JPPPF,4.64,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,0,,Basic Materials,517092224.0,0.15
+PYPD,PolyPid,6.4,17,7,3,16,5,3,5,56,-30,26,Poor,Stay away,69,12.9,14.5,11.1,67.7,3,,Healthcare,93377760.0,76251.29
+ALEDY,Allied Group Ltd ADR,5,2,4,10,6,3,2,4,31,-10.0,26.0,Poor,🔥 COILED: Stay away,31,0.0,0.0,0.0,50.0,1,,Financial Services,702736896.0,0.0
+IGDFF,IG Design Group plc,1.05,6,3,10,6,3,5,4,37,-15.0,25.0,Poor,Stay away,42,0.0,0.0,-0.4,7.5,1,,Consumer Cyclical,95308144.0,2260.5
+SSIXX,State Street Institutional Liquid Reserves Fund,1.0,4,3,10,6,3,2,4,32,-10.0,25.0,Poor,Stay away,34,0.0,0.0,-0.0,0.0,0,,nan,nan,0.0
+FPIXX,First American Funds Inc. - First American Institutional Prime Obligations Fund,1.0,4,3,10,6,3,2,4,32,-10.0,25.0,Poor,Stay away,33,0.0,0.0,-0.0,0.0,0,,nan,nan,0.0
+SSHXX,State Street Institutional Liquid Reserves Fund,1.0,4,3,10,6,3,2,4,32,-10.0,25.0,Poor,Stay away,34,0.0,0.0,-0.0,0.0,0,,nan,nan,0.0
+SSYXX,State Street Institutional Liquid Reserves Fund,1.0,4,3,10,6,3,2,4,32,-10.0,25.0,Poor,Stay away,33,0.0,0.0,-0.0,0.0,0,,nan,nan,0.0
+SSVXX,State Street Institutional Liquid Reserves Fund,1.0,4,3,10,6,3,2,4,32,-10.0,25.0,Poor,Stay away,33,0.0,0.0,-0.0,0.0,0,,nan,nan,0.0
+PTRUF,Petrus Resources Ltd,1.22,4,12,7,3,4,7,4,41,-16.0,25.0,Poor,Stay away,41,1.7,-1.6,0.2,48.9,0,,Energy,189193456.0,13359.56
+PLBY,Plby Group Inc,1.22,10,3,3,10,3,0,5,34,-9.0,25.0,Poor,Stay away,33,-1.6,4.3,2.0,54.2,1,,Consumer Cyclical,153076528.0,838380.97
+KUST,"Kustom Entertainment, Inc.",3.17,11,10,6,6,7,0,2,42,-15.0,25.0,Poor,Stay away,52,-0.6,-1.2,-1.5,50.8,2,,Communication Services,1134616.0,204444.64
+NUFMF,Nufarm Limited,2.3,18,5,3,9,6,2,5,48,-23.0,25.0,Poor,Stay away,63,0.0,15.0,6.5,79.5,3,,Basic Materials,756294912.0,882.0
+HMDCF,HUTCHMED (China) Limited,2.16,7,3,9,5,3,1,4,32,-10.0,25.0,Poor,Stay away,26,0.0,0.0,-0.0,0.0,0,,Healthcare,1857063936.0,87.05
+ENHA,Enhanced Group Inc.,7.2,10,3,4,11,3,2,5,38,-13.0,25.0,Poor,Stay away,47,-11.9,-44.2,7.4,55.8,1,,Consumer Defensive,341022976.0,0.0
+HTSUY,Hisamitsu Pharmaceutical Company Inc Unsponsored ADR,2.94,5,3,9,6,3,2,4,32,-10.0,25.0,Poor,Stay away,14,0.0,0.0,-0.3,0.0,0,,Healthcare,nan,10.93
+SOLLY,Shui On Land Ltd ADR,3.1,7,6,10,5,3,2,4,37,-15.0,25.0,Poor,Stay away,0,0.0,0.0,-0.0,26.3,1,,Real Estate,542905088.0,29.79
+FDMIF,Founders Metals Inc.,5.25,15,16,3,5,6,4,3,52,-30.0,25.0,Poor,🔥 COILED: Stay away,62,7.1,8.2,3.9,54.3,3,,Basic Materials,390035744.0,33373.94
+MHIJX,MFS HIGH INCOME FUND R4,3.0,9,7,1,6,3,2,4,32,-10.0,25.0,Poor,Stay away,25,0.0,0.0,0.0,49.6,0,,nan,0.0,0.0
+PPAAY,Perusahaan Gas Negara Persero Tbk PT ADR,3.72,6,7,5,4,3,2,3,30,-8.0,25.0,Poor,Stay away,19,0.0,16.3,-2.5,43.5,2,,Utilities,2507887872.0,397.83
+ETHIX,EATON VANCE HIGH INCOME OPPORTUNITIES FUND EATON VANCE HIGH INCOME OPPORTUNITIES FUND CLASS A,4.13,9,6,2,6,3,2,4,32,-10.0,25.0,Poor,Stay away,27,0.0,0.2,0.1,52.6,0,,nan,0.0,0.0
+RBSTF,ROBOSENSE TECHNOLOGY CO,1.92,8,11,7,0,3,2,2,33,-8.0,25.0,Poor,Stay away,17,8.9,8.9,3.8,53.4,2,,nan,nan,349.32
+LGBOF,Lingbao Gold Group Company Ltd.,1.9,4,1,1,8,6,2,2,24,0.0,24.0,Broken,Avoid/exit,39,0.0,-27.5,-14.4,4.9,0,,Basic Materials,1379396992.0,0.0
+VTXXF,Vertex Minerals Limited,0.11,7,6,10,5,3,1,4,36,-15.0,24.0,Broken,Avoid/exit,27,0.0,0.0,-0.0,7.3,1,,Basic Materials,286577472.0,120.23
+ABVN,ABV Consulting Inc,1.02,5,3,10,4,4,6,4,36,-15.0,24.0,Broken,Avoid/exit,28,0.0,0.0,-0.1,24.1,1,,Financial Services,100783000.0,76.84
+RAFX,Rafex Gold Corp.,0.26,4,3,10,4,3,3,4,31,-10.0,24.0,Broken,Avoid/exit,19,0.0,0.0,-0.4,0.0,0,,Financial Services,53427968.0,45.76
+FAIXX,First American Funds Inc. - First American Institutional Prime Obligations Fund,1.0,12,6,11,6,3,2,4,44,-23.0,24.0,Broken,Avoid/exit,47,0.0,0.0,0.0,99.9,0,,nan,nan,0.0
+TCDXX,BlackRock Liquidity Funds - TempCash,1.0,4,5,4,6,4,2,4,29,-10.0,24.0,Broken,🔥 COILED: Avoid/exit,25,-0.0,-0.0,-0.0,42.4,0,,nan,nan,0.0
+ZHJD,ZHJD,1.78,12,6,11,6,3,2,4,44,-23.0,24.0,Broken,Avoid/exit,53,0.0,0.0,0.0,99.9,0,,Consumer Cyclical,159198000.0,0.0
+PRT,PermRock Royalty Trust,1.42,6,12,2,7,2,2,2,33,-9.0,24.0,Broken,Avoid/exit,15,5.2,-0.7,-5.1,33.3,0,,Energy,25426378.0,53898.22
+TZINX,TEMPLETON GLOBAL BALANCED FUND ADVISOR CLASS,3.17,6,6,6,6,0,1,4,29,-10.0,24.0,Broken,🔥 COILED: Avoid/exit,52,-0.3,0.0,-0.5,46.8,0,,nan,0.0,0.0
+OPSIX,Oppenheimer Strat Income Fund,2.99,7,6,5,6,0,1,4,29,-10.0,24.0,Broken,🔥 COILED: Avoid/exit,23,-0.3,0.0,-0.3,44.3,0,,nan,0.0,0.0
+ABUS,Arbutus Biopharma Corp,4.03,6,13,1,2,3,2,2,29,-6.0,24.0,Broken,Avoid/exit,19,9.8,-5.8,-0.5,46.2,1,,Healthcare,839535296.0,1630167.49
+MCSOX,MFS Commodity Strategy Fund Class R2,4.38,3,5,2,7,0,3,2,22,2.0,24.0,Broken,Avoid/exit,36,-0.9,-5.6,-2.9,29.4,0,,nan,nan,0.0
+VMVXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.001,5,4,9,6,1,1,4,30,-10.0,23.0,Broken,Avoid/exit,27,-0.0,-0.0,-0.0,45.2,0,,nan,nan,0.0
+REI,Ring Energy Inc,1.2,1,10,1,8,4,2,2,28,-3.0,23.0,Broken,Avoid/exit,31,7.1,-15.5,-4.7,41.4,1,,Energy,342702400.0,3584060.22
+ASCLF,Ascletis Pharma Inc,0.625,2,6,5,7,4,0,2,26,-3.0,23.0,Broken,Avoid/exit,11,-13.2,-13.2,-16.9,12.4,1,,Healthcare,1393108096.0,1193.72
+VODPF,Vodafone Group PLC,1.512,2,1,7,11,0,0,2,23,0.0,23.0,Broken,Avoid/exit,41,-4.9,-7.8,-6.1,25.4,1,,Communication Services,35921715200.0,0.0
+ACMDY,Atlas Consolidated Mining and Development Corporation,1.35,2,4,10,6,0,2,4,28,-10.0,23.0,Broken,🔥 COILED: Avoid/exit,29,0.0,0.0,0.0,50.0,0,,Basic Materials,398445888.0,5.07
+VICP,Vicapsys Life Sciences Inc,0.5,6,6,2,14,3,4,5,40,-20.0,23.0,Broken,Avoid/exit,22,0.0,11.1,1.9,47.8,3,,Healthcare,47262100.0,16.3
+CTPCF,CITIC Limited,1.54,10,4,2,5,6,1,2,30,-10.0,23.0,Broken,Avoid/exit,44,0.0,-6.7,-1.4,42.1,0,,Industrials,50326155264.0,0.0
+STCK,Grayscale Stacks Trust (STX),2.7,13,13,4,6,9,2,2,49,-26.0,23.0,Broken,Avoid/exit,50,26.2,22.7,6.9,54.1,3,,nan,nan,0.0
+WLSS,Welsis Corp.,0.6,5,3,10,4,3,6,4,35,-15.0,23.0,Broken,Avoid/exit,23,0.0,0.0,-0.1,0.1,1,,Healthcare,6854141.0,62.4
+FSCO,FS Credit Opportunities Corp.,5.09,6,5,4,8,0,4,4,31,-8.0,23.0,Broken,Avoid/exit,47,1.2,0.8,-0.2,49.6,0,,Financial Services,993143936.0,1592433.38
+SGTSY,Singulus Technologies AG ADR,1.0,5,4,10,6,3,2,4,34,-15.0,22.0,Broken,Avoid/exit,33,0.0,0.0,-0.0,0.0,1,,Industrials,17793054.0,4.0
+EJPXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.0,4,5,5,6,3,2,4,29,-10.0,22.0,Broken,Avoid/exit,26,-0.0,0.0,-0.0,41.3,0,,nan,nan,0.0
+IPLXX,Voya Investors Trust - Voya Liquid Assets Portfolio,1.0,4,3,8,6,0,4,4,29,-10.0,22.0,Broken,Avoid/exit,23,0.0,0.0,-0.0,14.3,0,,nan,nan,0.0
+ISPXX,Voya Investors Trust - Voya Liquid Assets Portfolio,1.0,4,3,8,6,0,4,4,29,-10.0,22.0,Broken,Avoid/exit,23,0.0,0.0,-0.0,14.3,0,,nan,nan,0.0
+ITLXX,Voya Investors Trust - Voya Liquid Assets Portfolio,1.0,4,3,8,6,0,4,4,29,-10.0,22.0,Broken,Avoid/exit,23,0.0,0.0,-0.0,14.3,0,,nan,nan,0.0
+JPAXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.0,4,4,6,6,3,2,4,29,-10.0,22.0,Broken,Avoid/exit,34,-0.0,0.0,-0.0,46.6,0,,nan,nan,0.0
+NOWGD,Nowigence Inc,1.24,5,3,8,6,3,5,4,34,-15.0,22.0,Broken,Avoid/exit,29,0.0,0.0,-1.6,42.9,1,,Technology,25731354.0,407.11
+NIOBW,NioCorp Developments Ltd. Warrant,0.345,2,6,1,10,0,0,2,21,0.0,22.0,Broken,Avoid/exit,14,-18.0,-25.0,-29.3,37.0,0,,Basic Materials,nan,56834.84
+IPM,Intelligent Protection Management Corp,1.75,7,12,2,6,3,2,5,37,-13.0,22.0,Broken,Avoid/exit,31,4.8,1.7,3.1,54.0,1,,Technology,25550030.0,366868.57
+HOUR,Hour Loop Inc,1.618,7,9,5,3,4,2,2,32,-8.0,22.0,Broken,Avoid/exit,24,6.8,2.4,1.8,50.2,1,,Consumer Cyclical,67216504.0,1529140.2
+SBNYL,Signature Bank,1.26,5,4,1,11,5,1,5,32,-8.0,22.0,Broken,Avoid/exit,31,-31.9,-16.0,-10.1,45.6,0,,Financial Services,nan,61443.51
+EMBC,Embecta Corp,6.43,10,4,7,4,5,2,4,36,-14.0,22.0,Broken,Avoid/exit,59,1.6,-2.0,1.5,54.3,1,,Healthcare,201174208.0,1008358.58
+ADVB,Advanced Biomed Inc. Common Stock,3.31,9,12,4,6,3,2,2,38,-21,22,Broken,Avoid/exit,30,74.2,25.4,8.9,47.6,3,7,Healthcare,7175613.0,207362.59
+TMLL,Third Millennium Industries Inc,1,2,4,10,6,3,2,4,31,-15.0,21.0,Broken,🔥 COILED: Avoid/exit,31,0.0,0.0,0.0,50.0,1,,Financial Services,62403024.0,4.5
+CHND,China Media Inc,1,2,4,10,6,3,2,4,31,-15.0,21.0,Broken,🔥 COILED: Avoid/exit,31,0.0,0.0,0.0,50.0,1,,Communication Services,39750000.0,6.77
+GPAIF,Grounded People Apparel Inc.,1.03,2,4,10,6,3,2,4,31,-15.0,21.0,Broken,🔥 COILED: Avoid/exit,31,0.0,0.0,0.0,50.0,1,,Consumer Cyclical,28299496.0,14.75
+GLNS,Golden Star Resource Corp ,0.802,7,3,9,6,3,1,4,33,-15.0,21.0,Broken,Avoid/exit,20,0.0,0.0,-0.0,0.3,1,,Basic Materials,7070000.0,27.85
+MBHCF,MBH Corporation PLC,1,2,4,10,6,3,2,4,31,-15.0,21.0,Broken,🔥 COILED: Avoid/exit,31,0.0,0.0,0.0,50.0,1,,Real Estate,6667460.0,4.5
+CJPXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.0,6,4,2,6,6,0,4,28,-10.0,21.0,Broken,Avoid/exit,38,-0.0,0.0,-0.0,47.7,0,,nan,nan,0.0
+DURCF,DURCF,1.56,4,3,9,4,3,1,4,28,-10.0,21.0,Broken,Avoid/exit,22,0.0,0.0,-0.3,0.0,0,,Industrials,503412512.0,355.38
+MOGU,MOGU Inc,1.9,5,12,4,5,4,4,4,38,-18.0,21.0,Broken,Avoid/exit,48,-1.6,0.5,1.8,51.4,1,,Consumer Cyclical,16837700.0,382380.88
+OQLGF,Olympique Lyonnais Groupe SA,2.3,2,4,10,6,3,2,4,31,-15.0,21.0,Broken,🔥 COILED: Avoid/exit,32,0.0,0.0,0.0,50.0,1,,Communication Services,376590208.0,0.83
+SDRMF,SiteMinder Limited,2.42,18,7,4,11,4,2,5,51,-30,21,Broken,Avoid/exit,50,38.3,38.3,18.1,75.5,3,,Technology,808326464.0,1802.48
+SLUNF,Solutions 30 SE,2.84,2,4,10,6,3,2,4,31,-15.0,21.0,Broken,🔥 COILED: Avoid/exit,31,0.0,0.0,0.0,50.0,1,,Technology,304077536.0,425.3
+WTF,Waton Financial Limited Ordinary Shares,2.0,3,7,2,8,0,2,2,24,-3.0,21.0,Broken,Avoid/exit,19,2.0,-2.0,-6.9,40.3,2,,Financial Services,148571408.0,106347.95
+HURRY,HÃ¼rriyet Gazetecilik ve Matbaacilik A.S.,3,2,4,10,6,3,2,4,31,-15.0,21.0,Broken,🔥 COILED: Avoid/exit,31,0.0,0.0,0.0,50.0,1,,Communication Services,88800000.0,16.8
+SHJBF,Shanghai Junshi Biosciences Co. Ltd,3.35,12,6,11,6,3,4,4,46,-28.0,21.0,Broken,Avoid/exit,47,0.0,0.0,0.0,99.7,1,,Healthcare,4841863680.0,59.45
+SSP,E. W. Scripps Co Class A,3.62,15,6,4,15,5,1,5,51,-30,21,Broken,Avoid/exit,60,22.7,43.7,20.5,69.7,3,,Communication Services,305746336.0,921536.38
+GLOH,Glow Holdings Inc,0.02,3,3,8,5,3,7,4,33,-15.0,21.0,Broken,Avoid/exit,11,0.0,0.0,-91.9,0.0,1,,Financial Services,7964186.0,287.5
+FIP,FTAI Infrastructure Inc.,4.23,16,3,5,15,5,2,5,51,-30,21,Broken,⚠️ EXHAUSTION RISK: Avoid/exit,48,43.9,47.4,31.8,75.7,3,,Industrials,510466560.0,1384257.37
+HCHL,Happy City Holdings Limited Class A Ordinary shares,3.96,2,4,10,6,3,2,4,31,-15.0,21.0,Broken,🔥 COILED: Avoid/exit,0,0.0,0.0,0.0,50.0,1,,Consumer Cyclical,105649176.0,441362.91
+BKYI,BIO-Key International Inc,2.58,8,11,4,3,3,3,2,34,-16.0,21.0,Broken,🔥 COILED: Avoid/exit,36,8.9,-11.9,2.6,51.1,1,,Industrials,4633855.0,521573.5
+CNROX,City National Rochdale Strategic Credit Fund,3.96,4,6,2,6,3,3,4,28,-10.0,21.0,Broken,Avoid/exit,16,-1.0,-0.3,-1.1,28.9,0,,nan,nan,0.0
+LEXLF,Lexington Gold Ltd,0.001,3,3,8,5,3,1,4,27,-10.0,20.0,Broken,Avoid/exit,10,0.0,0.0,-94.4,0.0,0,,Basic Materials,473861056.0,0.0
+APM,Aptorum Group Ltd Class A,0.0,6,6,10,4,3,2,4,35,-15.0,20.0,Broken,Avoid/exit,34,0.0,0.0,-0.0,39.4,1,,Healthcare,8876695.0,2219235.03
+FBLG,"FibroBiologics, Inc. Common Stock",0.968,6,9,7,2,2,4,3,33,-13.0,20.0,Broken,Avoid/exit,35,1.1,4.3,-2.2,44.7,2,,Healthcare,5573539.0,1187423.74
+RDI,Reading International Inc,1.87,14,14,5,2,3,3,5,46,-26.0,20.0,Broken,Avoid/exit,60,13.3,14.7,5.9,58.3,3,,Communication Services,40920488.0,79205.41
+XHLD,"TEN Holdings, Inc. Common Stock",0.83,5,4,3,15,2,2,5,36,-16.0,20.0,Broken,Avoid/exit,29,66.0,-17.0,-22.4,38.0,1,9,Communication Services,6089322.0,1305084.25
+ECNLF,Aquafil S.p.A,1.47,4,3,9,6,3,3,4,32,-15.0,20.0,Broken,Avoid/exit,30,0.0,0.0,-0.2,17.0,1,,Consumer Cyclical,136965744.0,66.0
+MDBH,"MDB Capital Holdings, LLC Class A common",1.9,10,12,2,3,4,2,5,38,-16.0,20.0,Broken,Avoid/exit,12,26.7,5.0,10.7,53.3,2,,Financial Services,34216792.0,10955.97
+NJDCY,Nidec Corporation,2.7,10,13,0,1,4,0,4,32,-10.0,20.0,Broken,Avoid/exit,21,-32.7,5.9,-5.5,47.4,1,,Industrials,17872109568.0,178652.69
+ADCT,ADC Therapeutics SA,1.41,9,4,7,7,3,0,2,32,-13.0,19.0,Broken,Avoid/exit,34,-14.0,-5.4,-8.1,45.9,1,,Healthcare,139274320.0,1087136.63
+BRN,Barnwell Industries Inc,0.855,3,10,6,0,4,2,2,27,-11.0,19.0,Broken,Avoid/exit,15,0.6,-2.3,-2.6,40.9,1,,Energy,15691161.0,301499.42
+RKDA,Arcadia Biosciences Inc,0.222,10,5,5,14,2,5,5,46,-28,19,Broken,Avoid/exit,22,32.9,29.8,15.7,53.8,4,,Consumer Defensive,2200866.0,502551.06
+HPURF,Hexagon Purus ASA,1.2,12,6,11,6,3,2,4,44,-28.0,19.0,Broken,Avoid/exit,53,0.0,0.0,0.0,99.6,1,,Industrials,51418336.0,233.72
+AWRE,Aware Inc,0.935,6,10,2,5,2,4,5,34,-13.0,19.0,Broken,Avoid/exit,18,-2.6,8.7,-0.5,47.7,2,,Technology,31170350.0,40228.37
+LINRF,Liontown Resources Limited,0.477,5,6,6,10,0,2,3,32,-13.0,19.0,Broken,Avoid/exit,13,-3.2,-6.8,-4.4,39.7,1,,Basic Materials,5118368768.0,14658.84
+ADTGLX,ADTGLX,1.706,4,6,1,6,1,2,4,24,-10.0,19.0,Broken,🔥 COILED: Avoid/exit,28,-0.3,-0.1,-0.1,48.0,0,,nan,nan,0.0
+ARTW,Arts-Way Manufacturing Co Inc,2.868,3,12,2,0,5,4,2,28,-10.0,19.0,Broken,Avoid/exit,40,4.7,-5.0,-2.0,46.6,0,,Industrials,13575231.0,36991.42
+PRKWF,Parkway Life Real Estate Investment Trust,2.96,4,3,7,4,3,5,3,29,-10.0,19.0,Broken,Avoid/exit,30,-4.5,-4.5,-2.4,28.1,0,,Real Estate,2088489984.0,0.0
+TXXD,21Shares 2x Long Dogecoin ETF,21.172,2,3,1,7,3,0,2,18,0.0,19.0,Broken,Avoid/exit,32,-17.9,-33.2,-25.5,31.8,0,,nan,nan,0.0
+JBLU,JetBlue Airways Corp,3.81,14,5,2,10,1,4,5,41,-22.0,19.0,Broken,Avoid/exit,24,9.2,24.9,9.0,57.0,3,,Industrials,1800571392.0,22178391.6
+ITIPF,iShares II Public Limited Company - iShares $ Tips 0-5 UCITS ETF,4.884,6,4,4,5,0,6,4,29,-10.0,19.0,Broken,Avoid/exit,28,0.4,0.3,-0.1,47.2,0,,nan,nan,32186.64
+TOMZ,TOMI Environmental Solutions Inc,2.3,16,4,2,15,3,2,5,47,-29.0,18.0,Broken,Avoid/exit,70,5.5,35.3,13.7,63.4,3,,Industrials,23436502.0,299839.54
+ATER,Aterian Inc,0.869,15,4,5,14,3,1,5,47,-29.0,18.0,Broken,Avoid/exit,44,2.7,13.7,11.0,64.9,3,,Consumer Cyclical,11684423.0,1489277.54
+SOBR,Sobr Safe Inc,0.035,6,3,3,9,0,0,2,23,-5.0,18.0,Broken,Avoid/exit,13,-26.9,-46.8,-38.1,34.2,1,,Technology,3143349.0,2962633.11
+LRVTF,LRVTF,0.55,2,10,1,6,3,4,2,28,-10.0,18.0,Broken,Avoid/exit,0,-11.6,-16.3,-11.7,38.4,0,,nan,nan,0.0
+ZDGE,Zedge Inc,2.8,10,9,1,6,7,3,5,41,-23.0,18.0,Broken,Avoid/exit,35,21.7,12.0,9.1,57.2,3,,Communication Services,41342812.0,339728.29
+MHIBX,MFS HIGH INCOME FUND B,2.99,5,6,3,6,0,1,4,25,-10.0,18.0,Broken,Avoid/exit,19,-0.3,-0.3,-0.2,43.3,0,,nan,0.0,0.0
+SHIAX,WESTERN ASSET SHORT DURATION HIGH INCOME FUND CLASS A,4.59,3,5,4,6,0,3,4,25,-10.0,18.0,Broken,Avoid/exit,14,-0.2,-0.4,-0.4,37.1,0,,nan,0.0,0.0
+PDVMX,PUTNAM DIVERSIFIED INCOME TRUST CLASS M SHARES,4.69,3,8,3,6,0,1,4,25,-10.0,18.0,Broken,Avoid/exit,23,-0.4,0.0,-0.1,46.2,0,,nan,0.0,0.0
+DUO,Fangdd Network Group Ltd,0.54,0,5,8,10,2,0,2,27,-8.0,17.0,Broken,Avoid/exit,29,-1.1,-11.5,-4.0,45.1,2,,Real Estate,41632288.0,808450.22
+TRLC,TriLinc Global Impact Fund LLC,3.0,15,4,7,10,4,2,5,47,-30,17,Broken,Avoid/exit,52,0.0,380.0,76.6,99.6,3,,Financial Services,48732956.0,387.1
+AIRXX,AIM Investment Securities Funds (Invesco Investment Securities Funds) - Government Money Market Fund,1.0,4,6,0,5,0,3,4,22,-10.0,17.0,Broken,🔥 COILED: Avoid/exit,19,0.0,0.0,-51.4,45.7,0,,nan,nan,0.0
+JINXX,JPMorgan Trust I - JPMorgan Prime Money Market Fund,1.0,4,4,4,6,3,2,4,27,-10.0,17.0,Broken,Avoid/exit,25,-0.0,0.0,-0.0,39.1,0,,nan,nan,0.0
+DLPN,Dolphin Entertainment Inc,1.01,8,12,2,4,4,4,4,38,-17.0,17.0,Broken,Avoid/exit,31,12.2,5.2,3.3,52.1,2,,Communication Services,14969861.0,42648.45
+ECX,ECARX Holdings Inc. Class A Ordinary shares,0.824,3,16,1,3,3,2,2,30,-13.0,17.0,Broken,Avoid/exit,19,3.0,2.5,-1.6,47.2,1,,Consumer Cyclical,506809760.0,3512137.57
+WAFU,Wah Fu Education Group Ltd,1.4,4,11,3,2,4,2,2,28,-11.0,17.0,Broken,Avoid/exit,22,-1.4,-2.1,-1.9,43.3,2,,Consumer Defensive,7321528.0,122546.02
+FHIRX,FRANKLIN HIGH INCOME FUND CLASS R,1.75,3,6,1,6,0,4,4,24,-10.0,17.0,Broken,Avoid/exit,19,0.0,0.0,-0.3,43.1,0,,nan,0.0,0.0
+GNTA,Genenta Science SpA ADR,0.65,3,5,1,10,2,2,2,25,-8.0,17.0,Broken,Avoid/exit,20,4.8,3.1,-7.7,45.6,1,,Healthcare,49541140.0,973108.32
+PLYX,"Polaryx Therapeutics, Inc. Common Stock",1.88,8,7,7,2,0,2,3,29,-15.0,17.0,Broken,Avoid/exit,35,8.0,1.1,0.2,48.9,2,,Healthcare,119305104.0,0.0
+HNNMY,H & M Hennes & Mauritz AB ADR,3.47,5,4,3,13,1,0,5,31,-14.0,17.0,Broken,Avoid/exit,39,-4.4,-2.0,-1.1,48.7,0,,Consumer Cyclical,27936526336.0,107083.26
+TIGR,Up Fintech Holding Ltd,3.92,6,7,5,1,2,2,2,25,-8.0,17.0,Broken,Avoid/exit,27,4.5,-3.7,-2.8,42.6,1,,Financial Services,850615168.0,4341213.09
+AVIR,Atea Pharmaceuticals Inc,4.21,5,8,4,6,4,2,2,31,-15.0,17.0,Broken,Avoid/exit,18,-0.2,-2.3,-3.2,42.1,1,,Healthcare,353719776.0,415587.13
+VCNX,Vaccinex Inc,0.752,3,5,2,9,0,0,2,21,-5.0,16.0,Broken,Avoid/exit,21,-18.3,0.3,-15.0,40.7,1,,Healthcare,2676637.0,2603.64
+WTO,UTime Limited,14.5,15,2,4,15,3,2,5,46,-30,16,Broken,Avoid/exit,54,-25.8,133.5,47.5,63.0,3,,Technology,2112049.0,321835.27
+IRIX,IRIDEX Corporation,0.71,5,11,3,0,5,0,2,26,-13.0,16.0,Broken,Avoid/exit,38,4.3,-2.0,-1.0,48.1,2,,Healthcare,18973106.0,139457.1
+LLDTF,Lloyds Banking Group plc,1.3,6,9,5,2,0,2,2,26,-10.0,16.0,Broken,Avoid/exit,31,4.0,4.0,-1.7,47.4,0,,Financial Services,81572052992.0,0.0
+GLXZ,Galaxy Gaming Inc,1.57,2,8,7,4,2,1,4,28,-12.0,16.0,Broken,Avoid/exit,26,-3.1,-3.4,-1.6,43.1,0,,Consumer Cyclical,40212432.0,63811.05
+BAER,"Bridger Aerospace Group Holdings, Inc. Common Stock",0.255,6,13,0,2,4,4,2,31,-13.0,16.0,Broken,Avoid/exit,15,25.6,-37.0,-30.1,27.6,2,,Industrials,118157160.0,660631.7
+LFS,"LEIFRAS Co., Ltd. American Depositary Shares",2.0,3,10,3,1,3,2,2,24,-8.0,16.0,Broken,Avoid/exit,27,4.2,-4.8,-1.5,45.3,1,,Communication Services,54675692.0,0.0
+AFMMX,API SHORT TERM BOND FUND CLASS L SHARES,3.39,1,4,4,6,0,2,4,21,-10.0,16.0,Broken,🔥 COILED: Avoid/exit,24,-0.6,-0.3,-0.3,40.6,0,,nan,0.0,0.0
+WHWK,"Whitehawk Therapeutics, Inc.",3.07,2,7,5,6,0,4,4,28,-15.0,16.0,Broken,Avoid/exit,15,1.7,-7.0,-4.6,42.6,1,,Healthcare,214623696.0,698405.51
+PHK,PIMCO High Income Fund,4.02,3,6,1,7,0,3,4,24,-8.0,16.0,Broken,Avoid/exit,6,-1.7,-2.7,-2.2,40.8,0,,Financial Services,763023300.0,717239.82
+UGP,Ultrapar Participacoes SA ADR,5.63,1,8,1,1,3,6,2,22,-6.0,16.0,Broken,Avoid/exit,42,1.3,-5.7,-8.6,29.4,1,,Energy,5204761088.0,2385744.51
+SUMMF,Summit Royalties Ltd.,0.896,6,6,4,3,0,4,2,25,-10.0,15.0,Broken,Avoid/exit,12,-2.5,-3.6,-4.5,38.3,0,,Basic Materials,76119480.0,0.0
+LU,Lufax Holding Ltd,6.58,14,3,2,7,3,4,5,38,-23.0,15.0,Broken,Avoid/exit,47,-23.8,-17.0,3.5,57.4,1,,Financial Services,1343367808.0,1819336.85
+GOTU,Gaotu Techedu Inc DRC,2.46,12,6,3,4,7,6,2,40,-28.0,15.0,Broken,Avoid/exit,60,8.4,8.4,1.5,52.4,3,,Consumer Defensive,400602304.0,518693.31
+XJNGF,Xinjiang Goldwind Science & Technology Co. Ltd,0.95,3,4,4,6,3,3,2,25,-10.0,15.0,Broken,Avoid/exit,20,0.0,0.0,-5.3,2.6,0,,Industrials,7264916480.0,819.0
+SYHMY,Synthomer plc,1.75,3,4,3,5,6,7,2,30,-15.0,15.0,Broken,Avoid/exit,45,0.0,0.0,-1.8,30.3,1,,Basic Materials,286901440.0,1661.86
+ADTGMX,ADTGMX,2.117,4,5,1,6,1,1,4,22,-10.0,15.0,Broken,Avoid/exit,28,-0.3,-0.0,-0.1,48.9,0,,nan,nan,0.0
+ANIX,Anixa Biosciences Inc,2.68,1,4,0,8,2,2,3,20,-5.0,15.0,Broken,Avoid/exit,14,-11.6,-18.8,-10.2,40.8,1,,Healthcare,87842984.0,195246.08
+PHCHX,VIRTUS HIGH YIELD FUND CLASS A,3.67,3,5,2,6,0,2,4,22,-10.0,15.0,Broken,Avoid/exit,22,-0.3,0.0,-0.1,46.1,0,,nan,0.0,0.0
+SKK,SKK Holdings Limited,4.87,16,8,2,7,3,1,5,42,-27.0,15.0,Broken,Avoid/exit,40,28.2,17.1,13.3,60.2,4,,Industrials,9770229.0,265186.94
+MTHRY,M3 Inc,5.67,11,4,0,3,3,2,2,25,-10.0,15.0,Broken,Avoid/exit,48,-3.7,-1.7,-2.0,47.1,0,,Healthcare,6393971712.0,435528.98
+TRIFX,CATALYST/SMH TOTAL RETURN INCOME FUND,4.54,3,6,1,6,0,3,3,22,-10.0,15.0,Broken,Avoid/exit,18,0.2,-2.6,-1.2,39.5,0,,nan,0.0,0.0
+BBOP,Bebop Channel Corp,1.0,3,4,2,3,3,7,2,24,-10.0,14.0,Broken,Avoid/exit,19,0.0,0.0,-15.4,3.0,0,,Communication Services,8733041.0,5.0
+EFGD,Eurobank Ergasias Services And Holdings SA,1.0,3,4,1,5,3,1,4,21,-10.0,14.0,Broken,Avoid/exit,35,0.0,-4.8,-0.7,42.5,0,,nan,nan,0.0
+AURX,Nuo Therapeutics Inc,1.09,2,5,3,6,5,4,2,27,-13.0,14.0,Broken,Avoid/exit,34,-13.3,-16.2,-9.1,26.0,2,,Healthcare,56154124.0,5053.0
+LXEH,Lixiang Education Holding Co Ltd,1.3,3,10,5,5,4,2,2,31,-15.0,14.0,Broken,Avoid/exit,34,-3.0,-7.1,-6.5,38.4,1,,Consumer Defensive,2606667.0,168352.63
+TETOF,Tectonic Metals Inc,1.16,7,12,3,7,3,6,3,41,-25.0,14.0,Broken,Avoid/exit,22,7.4,13.7,0.9,48.4,4,,Basic Materials,238990512.0,106798.95
+RMSG,Real Messenger Corporation Ordinary Shares,0.18,6,9,3,5,2,2,2,29,-13.0,14.0,Broken,Avoid/exit,27,1.3,-14.1,-13.0,35.9,2,,Technology,9878278.0,5816471.26
+RIOFF,Rio2 Limited,1.85,4,7,3,6,2,2,2,26,-10.0,14.0,Broken,Avoid/exit,23,-3.6,-3.1,-6.0,39.4,0,,Basic Materials,1190204928.0,646850.27
+IDAI,Trust Stamp Inc,2.51,3,11,1,6,2,2,2,27,-13.0,14.0,Broken,Avoid/exit,31,15.1,-12.2,-2.9,46.1,1,,Technology,13215914.0,253586.82
+ECSNF,EcoSynthetix Inc,1.12,6,11,2,0,3,3,2,27,-13.0,14.0,Broken,Avoid/exit,16,0.0,4.7,-13.7,27.9,1,,Basic Materials,143585264.0,201.1
+JAEMX,John Hancock Variable Insurance Trust - High Yield Trust,4.35,3,9,1,6,0,3,2,24,-10.0,14.0,Broken,Avoid/exit,16,0.0,0.2,-1.6,25.5,0,,nan,nan,0.0
+BJDX,Bluejay Diagnostics Inc,2.605,16,3,7,9,3,1,5,44,-30,14,Broken,Avoid/exit,55,18.9,382.4,48.7,78.3,3,,Healthcare,5988620.0,678236.1
+JDYRX,PRUDENTIAL HIGH YIELD FUND CLASS R,4.59,3,5,2,6,0,1,4,21,-10.0,14.0,Broken,Avoid/exit,18,-0.4,-0.4,-0.3,39.7,0,,nan,0.0,0.0
+TRIIX,CATALYST/SMH TOTAL RETURN INCOME FUND CATALYST/SMH TOTAL RETURN INCOME FUND CLASS I,4.52,3,5,1,6,0,3,3,21,-10.0,14.0,Broken,Avoid/exit,18,0.2,-2.6,-1.3,38.2,0,,nan,0.0,0.0
+EDTXF,Spectral Med Inc,0.74,9,9,1,8,0,6,2,35,-20.0,13.0,Broken,Avoid/exit,23,5.7,12.0,-0.4,48.4,3,,Healthcare,297820256.0,10643.46
+VTAK,Catheter Precision Inc.,0.53,6,4,3,6,4,0,2,25,-15.0,13.0,Broken,Avoid/exit,47,-7.0,-18.5,-13.3,44.6,1,,Healthcare,2665548.0,437084.49
+LANV,Lanvin Group Holdings Limited,0.72,1,10,3,6,4,2,2,28,-15.0,13.0,Broken,Avoid/exit,13,-3.1,-10.6,-8.5,33.9,2,,Consumer Cyclical,213856976.0,52216.0
+EVGO,Evgo Inc,1.75,15,5,5,6,3,4,5,43,-30,13,Broken,Avoid/exit,46,0.0,41.1,12.4,64.9,3,,Consumer Cyclical,781509824.0,4002601.88
+MOBX,Mobix Labs Inc,0.596,3,7,3,6,4,2,2,27,-15.0,13.0,Broken,Avoid/exit,18,6.2,-20.6,-11.3,39.8,2,,Technology,35541512.0,3472536.01
+FISRX,FRANKLIN INCOME FUND CLASS R,2.45,2,4,0,6,0,2,4,18,-10.0,13.0,Broken,🔥 COILED: Avoid/exit,33,0.0,-1.2,-0.3,46.2,0,,nan,0.0,0.0
+TRSBF,3SBio Inc,1.72,3,3,3,3,3,3,2,20,-10.0,13.0,Broken,Avoid/exit,15,0.0,-0.3,-3.3,0.5,0,,Healthcare,6251630592.0,792.52
+LRAXF,Lara Exploration Ltd,2.5,1,7,5,6,3,4,2,28,-15.0,13.0,Broken,Avoid/exit,29,-2.3,-5.7,-3.3,42.6,1,,Basic Materials,154373424.0,6474.36
+FNCFX,FRANKLIN INCOME FUND CLASS R6,2.51,2,4,0,6,0,2,4,18,-10.0,13.0,Broken,🔥 COILED: Avoid/exit,32,0.4,-1.2,-0.2,47.2,0,,nan,0.0,0.0
+PTXKY,XL Axiata Tbk PT ADR,1.6,3,7,2,5,0,2,2,21,-8.0,13.0,Broken,Avoid/exit,10,-1.2,-11.6,-15.1,18.3,1,,Communication Services,2839178496.0,7653.83
+BVHMF,Vistry Group PLC,3.34,5,3,3,4,0,0,5,20,-10.0,13.0,Broken,Avoid/exit,32,-12.1,-4.6,-3.0,45.2,0,,Consumer Cyclical,1111569920.0,14411.58
+LLDYX,LORD ABBETT SHORT DURATION INCOME FUND CLASS I,3.78,1,5,1,6,3,0,4,20,-10.0,13.0,Broken,Avoid/exit,27,-0.5,-0.3,-0.2,41.2,0,,nan,0.0,0.0
+GAMDX,GOLDMAN SACHS LOCAL EMERGING MARKETS DEBT FUND CLASS A,3.91,3,4,6,6,0,0,4,23,-10.0,13.0,Broken,Avoid/exit,21,-0.5,-0.3,-0.3,35.0,0,,nan,0.0,0.0
+CSHR,CoinShares PLC Ordinary Shares,3.59,2,4,8,4,0,2,2,22,-10.0,13.0,Broken,Avoid/exit,22,-4.5,-16.5,-9.4,34.1,0,,Financial Services,603553344.0,0.0
+NVNI,Nvni Group Limited Ordinary Shares,0.531,9,13,1,3,4,2,2,34,-18,12,Broken,Avoid/exit,22,693.0,0.0,28.2,51.3,2,10,Technology,12276739.0,351166.8
+RDHL,Redhill Biopharma Ltd,0.381,1,10,3,3,3,0,2,22,-8.0,12.0,Broken,Avoid/exit,12,-10.5,-8.6,-10.7,38.1,0,,Healthcare,4999702.0,755030.11
+TCPXX,SEI Daily Income Trust - Prime Obligation Fund,1.0,3,2,3,6,3,1,4,22,-10.0,12.0,Broken,Avoid/exit,23,-0.0,-0.0,-0.0,39.2,0,,nan,nan,0.0
+STSS,Sharps Technology Inc,1.15,6,6,4,3,2,2,2,25,-13.0,12.0,Broken,Avoid/exit,18,2.7,6.5,-4.3,43.1,1,,Technology,77872792.0,743620.93
+ACMIF,ACMIF,0.726,9,11,1,0,3,2,2,28,-16.0,12.0,Broken,Avoid/exit,17,3.7,-15.9,-12.9,36.2,1,,nan,nan,19022.95
+OMGGF,Omai Gold Mines Corp,1.07,2,5,0,8,2,0,2,19,-5.0,12.0,Broken,Avoid/exit,6,-13.7,-9.3,-15.3,32.9,1,,Basic Materials,1254915712.0,187149.87
+PALI,Palisade Bio Inc,1.14,3,9,1,5,2,4,2,26,-14.0,12.0,Broken,Avoid/exit,14,-1.7,-4.2,-8.6,38.1,0,,Healthcare,335394752.0,5322832.89
+XDHYX,Credit Suisse High Yield Bond Fund,18.72,15,3,4,7,3,1,4,37,-30.0,12.0,Broken,🔥 COILED: Avoid/exit,48,0.3,0.6,4.2,92.7,0,,Other,0.0,0.0
+PRPS,Propellus Inc,3.0,6,8,0,4,4,4,3,29,-13.0,12.0,Broken,Avoid/exit,49,-3.7,-3.7,-2.4,42.0,1,,Financial Services,17542234.0,761.0
+NCEL,NewcelX Ltd.,2.69,5,5,2,7,2,2,2,25,-13.0,12.0,Broken,Avoid/exit,24,-6.9,-0.1,-1.9,47.5,1,,Healthcare,17013032.0,111558.62
+LDLVX,LORD ABBETT SHORT DURATION INCOME FUND CLASS R6,3.78,1,4,2,6,3,2,4,22,-10.0,12.0,Broken,Avoid/exit,23,-0.5,-0.3,-0.3,35.4,0,,nan,0.0,0.0
+RGRNF,Regis Resources Ltd,4.5,6,6,5,1,0,2,2,22,-10.0,12.0,Broken,Avoid/exit,22,-4.9,-1.7,-4.0,41.8,0,,Basic Materials,3521222912.0,0.0
+MSGM,Motorsport Gaming Us LLC,4.28,1,4,3,5,3,2,2,20,-8.0,12.0,Broken,Avoid/exit,47,0.2,-8.2,-6.8,40.5,1,,Communication Services,16946664.0,725642.96
+HOIBX,Homestead Intermediate Bond Fund,4.41,2,4,1,6,0,2,4,19,-10.0,12.0,Broken,Avoid/exit,28,-1.3,-0.7,-0.6,41.3,0,,nan,nan,0.0
+WGMVX,Wasatch Micro Cap Value Fund Institutional Class Shares,4.53,5,6,0,6,0,3,4,24,-15.0,12.0,Broken,Avoid/exit,37,2.5,-3.8,-1.1,46.2,0,,nan,nan,0.0
+IVVD,Invivyd Inc.,0.567,3,9,7,0,0,2,2,23,-15.0,11.0,Broken,Avoid/exit,18,-3.0,-5.8,-7.8,40.6,1,,Healthcare,324068224.0,5656500.35
+REVFF,REVFF,1.0,6,10,0,0,4,2,2,24,-13.0,11.0,Broken,Avoid/exit,37,3.1,-7.9,-5.0,44.7,1,,Basic Materials,52208216.0,5609.28
+FIDXX,FIDXX,1.0,2,5,0,4,3,0,4,18,-10.0,11.0,Broken,Avoid/exit,25,0.0,-73.8,-30.9,46.2,0,,nan,nan,0.0
+SES,SES AI Corp,0.578,1,3,0,12,0,7,2,25,-14.0,11.0,Broken,Avoid/exit,21,-14.7,-36.2,-25.2,41.1,1,,Consumer Cyclical,441293632.0,10310841.84
+TAOP,Taoping Inc,0.298,3,6,5,6,2,6,2,30,-15.0,11.0,Broken,Avoid/exit,16,2.9,-14.8,-12.4,38.1,1,,Technology,12196065.0,199776.48
+ALDX,Aldeyra The,0.63,5,8,2,5,2,2,2,26,-15.0,11.0,Broken,Avoid/exit,14,2.3,-4.4,-9.2,36.3,1,,Healthcare,97418528.0,1578400.69
+GSKRF,Goldsky Resources Corp.,1.9,4,9,4,1,0,6,2,26,-15.0,11.0,Broken,Avoid/exit,25,-0.5,1.6,-3.1,44.6,1,,Basic Materials,496943264.0,58451.82
+GIG,GigCapital7 Corp. Class A Ordinary Share,1.83,6,13,4,3,3,2,2,33,-23.0,11.0,Broken,Avoid/exit,21,24.5,11.2,1.9,44.4,3,,Financial Services,171999984.0,275045.5
+GNLX,Genelux Corporation Common Stock,1.9,6,12,1,3,2,2,2,28,-15.0,11.0,Broken,Avoid/exit,11,4.4,-9.5,-8.0,40.0,1,,Healthcare,134521248.0,211479.1
+IOTR,iOThree Limited Ordinary Shares,1.89,2,8,6,3,4,0,2,25,-15.0,11.0,Broken,Avoid/exit,21,-4.5,-14.5,-5.6,44.6,1,,Communication Services,9362254.0,725737.57
+HAIVF,Haivision Systems Inc,2.484,4,4,4,3,0,4,2,21,-10.0,11.0,Broken,Avoid/exit,20,0.2,-3.7,-4.6,39.4,0,,Technology,118791104.0,16897.61
+SITIF,SITC International Holdings Company Limited,5.26,2,1,0,7,0,4,2,16,-1.0,11.0,Broken,Avoid/exit,39,-22.8,-22.8,-20.0,11.3,0,,Industrials,11636963328.0,6273.59
+NCTY,The9 Ltd ADR,2.73,6,10,4,0,2,2,2,26,-15.0,11.0,Broken,Avoid/exit,18,6.2,-13.1,-7.5,37.1,2,,Financial Services,71629624.0,49297.96
+OIBNX,Oppenheimer International Bond R,4.34,3,5,3,6,0,1,3,21,-10.0,11.0,Broken,Avoid/exit,13,-0.9,-0.5,-1.1,38.8,0,,nan,0.0,0.0
+EMDAX,PRUDENTIAL EMERGING MARKETS DEBT LOCAL CURRENCY FUND CLASS A,4.71,3,5,3,6,0,1,3,21,-10.0,11.0,Broken,Avoid/exit,16,-1.1,-0.2,-0.9,36.1,0,,nan,0.0,0.0
+EMDQX,PRUDENTIAL EMERGING MARKETS DEBT LOCAL CURRENCY FUND CLASS Q,4.75,3,5,3,6,0,1,3,21,-10.0,11.0,Broken,Avoid/exit,16,-1.0,-0.2,-0.9,35.0,0,,nan,0.0,0.0
+EMDZX,PRUDENTIAL EMERGING MARKETS DEBT LOCAL CURRENCY FUND CLASS Z,4.76,3,5,3,6,0,1,3,21,-10.0,11.0,Broken,Avoid/exit,16,-0.8,-0.2,-0.8,37.6,0,,nan,0.0,0.0
+AEHL,Antelope Enterprise Holdings Ltd,10.07,15,4,4,13,2,0,2,40,-30,10,Broken,Avoid/exit,51,-42.3,29.4,1.4,51.1,3,,Industrials,19423116.0,3382782.66
+AZI,Autozi Internet Technology (Global) Ltd. Class A Ordinary Shares,0.646,1,11,3,0,4,2,2,23,-13.0,10.0,Broken,Avoid/exit,21,0.2,-22.3,-17.4,26.8,1,,Consumer Cyclical,3280622.0,512297.58
+MAVXX,Morgan Stanley Institutional Liquidity Funds - Prime Portfolio,1.0,1,3,2,6,0,1,4,17,-10.0,10.0,Broken,Avoid/exit,23,-0.0,-0.0,-0.0,42.5,0,,nan,nan,0.0
+POIXX,Money Market Obligations Trust - Federated Institutional Prime Obligations Fund,1.0,1,4,2,6,3,0,4,20,-10.0,10.0,Broken,Avoid/exit,24,-0.0,-0.0,-0.0,37.4,0,,nan,nan,0.0
+SVIVW,Spring Valley Acquisition Corp. IV Warrants,0.45,0,9,2,3,2,2,2,20,-10.0,10.0,Broken,Avoid/exit,11,-24.6,-10.0,-21.2,42.1,0,,nan,nan,0.0
+AGIG,AGIG,0.82,1,7,2,6,4,2,3,25,-13.0,10.0,Broken,Avoid/exit,24,-1.2,-13.7,-7.5,39.0,1,,Utilities,49745788.0,530225.08
+CHWRF,China Tower Corporation Limited,1.09,3,1,7,2,4,1,2,20,-10.0,10.0,Broken,Avoid/exit,20,-6.0,-6.0,-4.1,33.2,0,,Communication Services,20103378944.0,0.0
+MXCT,MaxCyte Inc,1.19,4,12,0,5,6,4,2,33,-23.0,10.0,Broken,Avoid/exit,47,-9.2,-31.2,-9.5,43.1,1,,Healthcare,131759656.0,980682.87
+MMTLF,Madison Metals Inc.,0.561,4,6,5,0,3,0,2,20,-13.0,10.0,Broken,Avoid/exit,24,-6.0,-12.2,-6.3,40.3,1,,Energy,69444312.0,8230.43
+SDEV,Stablecoin Development Corporation,0.784,6,10,2,3,0,0,2,23,-13.0,10.0,Broken,Avoid/exit,18,-12.8,-27.4,-26.2,42.0,1,,Financial Services,31454148.0,724157.14
+CAPTF,Capitan Mining Inc,1.302,6,6,5,6,0,0,2,25,-15.0,10.0,Broken,Avoid/exit,30,-5.7,2.1,-4.7,43.2,1,,Basic Materials,219861472.0,101266.99
+IMSIX,IMS STRATEGIC INCOME FUND INSTITUTIONAL CLASS SHARES,1.85,1,2,6,6,0,1,4,20,-10.0,10.0,Broken,Avoid/exit,16,-1.6,-1.1,-0.9,31.1,0,,nan,0.0,0.0
+RLX,RLX Technology Inc,1.56,1,9,4,0,4,0,2,20,-8.0,10.0,Broken,Avoid/exit,6,-3.7,-1.9,-3.6,36.6,0,,Consumer Defensive,2468954368.0,2552317.3
+BGLC,BioNexus Gene Lab Corp Common stock,0.906,4,11,2,0,4,2,2,25,-13.0,10.0,Broken,Avoid/exit,14,5.8,-7.5,-9.8,38.0,2,,Basic Materials,5547736.0,73379.84
+LAURX,LORD ABBETT INCOME FUND CLASS R3,2.32,1,4,1,6,0,1,4,17,-10.0,10.0,Broken,Avoid/exit,22,-1.3,-0.9,-0.6,40.7,0,,nan,0.0,0.0
+INDO,Indonesia Energy,2.43,1,11,2,2,3,2,2,23,-13.0,10.0,Broken,Avoid/exit,17,1.3,-12.3,-4.3,42.5,1,,Energy,45237312.0,1307735.37
+UNTCW,Unit Corporation,1.83,0,3,2,1,5,4,2,17,-10.0,10.0,Broken,Avoid/exit,27,-12.4,-12.2,-12.4,41.7,0,,nan,nan,4396.73
+TVRD,"Tvardi Therapeutics, Inc.",1.155,14,5,3,11,0,2,5,40,-30,10,Broken,Avoid/exit,28,33.5,33.8,7.4,52.8,3,,Healthcare,27674968.0,140332.09
+HIIIX,CATALYST/SMH HIGH INCOME FUND CATALYST/SMH HIGH INCOME FUND CLASS I,3.69,3,6,1,6,0,3,3,22,-15.0,10.0,Broken,Avoid/exit,18,0.3,-1.3,-1.3,33.9,0,,nan,0.0,0.0
+GSNR,Grayscale Near Trust,4.891,3,9,2,0,0,2,2,18,-8.0,10.0,Broken,Avoid/exit,34,-4.3,-21.1,-19.9,37.2,0,,nan,nan,0.0
+PRELX,T. ROWE PRICE EMERGING MARKETS LOCAL CURRENCY BOND FUND T. ROWE PRICE EMERGING MARKETS LOCAL CURRENCY BOND FUND,4.8,3,5,2,6,0,1,3,20,-10.0,10.0,Broken,Avoid/exit,15,-1.2,-0.4,-1.1,33.5,0,,nan,0.0,0.0
+HLDFX,THE HARTFORD EMERGING MARKETS LOCAL DEBT FUND CLASS F,4.72,3,5,2,6,0,1,3,20,-10.0,10.0,Broken,Avoid/exit,14,-1.0,-0.2,-0.9,37.9,0,,nan,0.0,0.0
+NWPIF,ClearStream Energy Services Inc,0.833,2,6,1,5,3,0,2,19,-10.0,9.0,Broken,Avoid/exit,10,-9.3,-0.1,-6.5,30.2,0,,Energy,133101504.0,0.0
+MIRA,"MIRA Pharmaceuticals, Inc. Common Stock",0.648,7,14,4,5,3,2,4,39,-28,9,Broken,Avoid/exit,21,20.1,13.3,5.9,53.1,4,,Healthcare,42442308.0,1121545.68
+VINO,Gaucho Group Holdings Inc,1.44,7,7,6,5,3,2,2,32,-23.0,9.0,Broken,Avoid/exit,41,30.9,-4.0,7.2,51.1,1,,Real Estate,1890232.0,0.0
+IMRN,Immuron Ltd ADR,0.907,7,11,6,1,2,2,2,31,-22.0,9.0,Broken,Avoid/exit,29,6.7,-1.6,-2.3,43.2,2,,Healthcare,10207925.0,268697.84
+FUFU,BitFuFu Inc. Class A Ordinary Shares,0.909,1,11,2,3,3,2,2,24,-13.0,9.0,Broken,Avoid/exit,11,1.2,-17.7,-11.8,40.3,1,,Financial Services,336640256.0,204825.0
+PBMLF,Pacific Booker Minerals Inc,2.55,8,3,1,3,3,0,3,21,-15.0,9.0,Broken,Avoid/exit,53,-5.2,-13.0,-4.2,47.7,1,,Basic Materials,28084336.0,1696.98
+CPAMF,CapitaLand Integrated Commercial Trust,1.62,1,1,3,3,3,6,2,19,-10.0,9.0,Broken,Avoid/exit,16,0.0,-10.0,-4.8,34.4,0,,Real Estate,14498737152.0,0.0
+TUYA,Tuya Inc ADR,1.61,4,6,8,1,0,2,2,23,-14.0,9.0,Broken,Avoid/exit,24,-1.2,-3.0,-2.0,43.1,1,,Technology,1232352384.0,1373194.97
+IPSC,Century Therapeutics Inc,1.63,10,7,1,10,1,3,5,37,-28.0,9.0,Broken,Avoid/exit,34,7.9,11.6,2.1,51.4,3,,Healthcare,396780608.0,1274923.1
+JVTSF,Juventus Football Club S.p.A,1.695,2,3,9,3,0,5,2,24,-15.0,9.0,Broken,Avoid/exit,3,-5.8,-0.3,-6.3,35.7,1,,Communication Services,1015477696.0,0.0
+NTRP,NextTrip Inc,1.08,1,9,2,4,4,2,2,24,-15.0,9.0,Broken,Avoid/exit,20,0.0,-15.0,-14.4,37.6,1,,Consumer Cyclical,33334976.0,55475.38
+WBDSF,WBDSF,2.09,1,4,3,3,3,3,2,19,-10.0,9.0,Broken,Avoid/exit,10,0.0,0.0,-4.2,0.0,0,,Industrials,2966396416.0,7.87
+SDSAX,WESTERN ASSET GLOBAL STRATEGIC INCOME FUND CLASS A,4.75,3,5,0,6,0,1,4,19,-10.0,9.0,Broken,Avoid/exit,17,-0.8,-0.4,-0.5,36.3,0,,nan,0.0,0.0
+SDSYX,WESTERN ASSET GLOBAL STRATEGIC INCOME FUND CLASS I,4.77,3,5,0,6,0,1,4,19,-10.0,9.0,Broken,Avoid/exit,18,-0.8,-0.4,-0.5,39.4,0,,nan,0.0,0.0
+PRKIX,U.S. TREASURY INTERMEDIATE FUND U.S. TREASURY INTERMEDIATE FUND- I CLASS,4.85,2,4,0,6,0,0,4,16,-10.0,9.0,Broken,Avoid/exit,28,-1.6,-0.8,-0.7,41.9,0,,nan,0.0,0.0
+EXFY,Expensify Inc,1.86,3,7,0,6,3,0,2,21,-13.0,8.0,Broken,Avoid/exit,32,-16.6,-23.5,-14.5,33.7,1,,Technology,111386024.0,629567.35
+MYO,Myomo Inc,1.21,8,7,7,1,0,2,2,27,-19.0,8.0,Broken,Avoid/exit,42,1.7,-6.9,-5.2,44.6,1,,Healthcare,49457472.0,882628.8
+BYSI,BeyondSpring Inc,0.601,8,5,1,9,2,0,5,30,-20.0,8.0,Broken,Avoid/exit,14,-4.9,16.2,-1.3,48.8,3,,Healthcare,70314896.0,99011.27
+YSHLF,Yangzijiang Shipbuilding (Holdings) Ltd,3.59,4,1,3,1,3,4,2,18,-10.0,8.0,Broken,Avoid/exit,48,0.0,-8.2,-4.0,18.5,0,,Industrials,11547103232.0,0.0
+GUKYF,Gulf Keystone Petroleum Ltd,2.5,1,1,3,4,3,4,2,18,-10.0,8.0,Broken,Avoid/exit,39,-3.8,-11.3,-6.4,30.2,0,,Energy,543608448.0,0.0
+COYA,"Coya Therapeutics, Inc. Common Stock",3.27,4,12,1,0,4,2,2,25,-15.0,8.0,Broken,Avoid/exit,13,16.4,-17.8,-9.1,37.1,2,,Healthcare,108841328.0,183081.59
+AHT-P-F,Ashford Hospitality Trust Inc 7.375% Series F Cumulative Preferred Stock,4.84,11,14,2,2,3,2,2,36,-28,8,Broken,Avoid/exit,27,24.1,35.2,11.1,53.4,3,,Other,nan,6172.87
+HLDTX,THE HARTFORD EMERGING MARKETS LOCAL DEBT FUND CLASS R5,4.46,3,4,1,6,0,1,3,18,-10.0,8.0,Broken,Avoid/exit,14,-1.1,-0.2,-0.9,37.9,0,,nan,0.0,0.0
+VMSSX,VIRTUS MULTI-SECTOR SHORT TERM BOND FUND CLASS R6,4.49,1,4,0,6,0,0,4,15,-10.0,8.0,Broken,Avoid/exit,18,-0.7,-0.2,-0.3,41.2,0,,nan,0.0,0.0
+TMCXX,BlackRock Liquidity Funds - TempCash,1.0,1,2,2,6,0,2,4,17,-10.0,7.0,Broken,Avoid/exit,18,-0.0,-0.0,-0.0,20.6,0,,nan,nan,0.0
+BKHAR,Black Hawk Acquisition Corporation Rights,1.215,2,4,0,0,5,2,2,15,-8.0,7.0,Broken,Avoid/exit,19,-12.6,-10.0,-13.9,43.0,0,,nan,1766400.0,0.0
+IBIO,"iBio, Inc. Common Stock",0.762,5,8,5,4,0,6,3,31,-24.0,7.0,Broken,Avoid/exit,15,4.4,-5.9,-6.3,41.1,2,,Healthcare,95879616.0,3248317.12
+POSC,Positron Corp,1.69,6,5,6,2,1,6,5,31,-24.0,7.0,Broken,Avoid/exit,38,2.4,-0.6,-0.6,49.0,1,,Healthcare,61486916.0,38009.21
+HTLM,HomesToLife Ltd,1.05,1,4,2,0,2,6,2,17,-10.0,7.0,Broken,Avoid/exit,10,-6.2,-29.5,-19.1,21.7,0,,Consumer Cyclical,172648448.0,133777.91
+PSNYW,Polestar Automotive Holding UK PLC Class C-1 ADS (ADW),2.99,3,12,4,0,3,0,2,24,-15.0,7.0,Broken,Avoid/exit,38,-3.2,-4.5,-7.1,39.4,1,,Consumer Cyclical,27928928256.0,61489.31
+AGMRF,Silver Mountain Resources Inc.,1.98,5,5,6,4,0,0,2,22,-15.0,7.0,Broken,Avoid/exit,18,-6.6,-6.2,-7.7,39.8,1,,Basic Materials,208509216.0,92873.06
+OCSAW,Oculis Holding AG Warrants,1.9,2,3,4,0,2,4,2,17,-10.0,7.0,Broken,Avoid/exit,12,-30.4,-31.7,-27.8,38.2,0,,Healthcare,nan,0.0
+VCIGF,Vitreous Glass Inc,4.4,1,1,3,0,6,4,2,17,-10.0,7.0,Broken,Avoid/exit,39,-9.3,-9.3,-6.1,28.5,0,,Industrials,29310290.0,0.0
+RBNE,Robin Energy Ltd.,0.12,3,4,2,3,2,2,2,18,-10.0,6.0,Broken,Avoid/exit,10,-13.6,-25.3,-73.1,12.6,0,,Energy,6900758.0,1999763.21
+CYN,Cyngn Inc,0.265,3,10,2,1,3,2,2,23,-13.0,6.0,Broken,Avoid/exit,14,-1.8,-27.6,-25.8,25.3,1,,Technology,20769526.0,1504777.41
+RENX,RenX Enterprises Corp.,1.14,9,12,2,0,2,2,2,29,-23.0,6.0,Broken,Avoid/exit,19,33.0,5.6,-5.6,42.6,2,,Real Estate,4312897.0,1134139.93
+LOGVX,Lord Abbett Income Cl F3,2.31,1,3,1,6,0,1,4,16,-10.0,6.0,Broken,Avoid/exit,21,-1.3,-0.9,-0.7,38.8,0,,nan,0.0,0.0
+STG,Sunlands Technology Group,2.175,1,6,4,0,3,0,2,16,-10.0,6.0,Broken,Avoid/exit,15,-2.5,-10.9,-6.0,39.7,1,,Consumer Defensive,45781284.0,137828.31
+CMCM,Cheetah Mobile Inc,2.245,1,7,5,3,4,0,3,23,-15.0,6.0,Broken,Avoid/exit,18,-1.1,-8.0,-5.1,39.1,1,,Communication Services,127879144.0,35326.88
+CFWFF,Calfrac Well Services Ltd,4.54,2,2,0,8,2,2,2,18,-10.0,6.0,Broken,Avoid/exit,36,-3.4,-20.2,-8.9,38.4,0,,Energy,486282560.0,10627.97
+FRSPF,First Phosphate Corp.,1.17,6,7,5,2,0,6,2,28,-23.0,5.0,Broken,Avoid/exit,41,4.5,-7.9,-5.3,44.1,1,,Basic Materials,237531312.0,228658.93
+NNUP,Nocopi Technologies Inc,1.5,1,3,3,6,3,2,2,20,-15.0,5.0,Broken,Avoid/exit,19,1.0,-6.2,-5.0,33.2,1,,Basic Materials,20883220.0,2902.64
+CAPFF,Capital Limited,1.49,1,5,1,1,3,2,2,15,-10.0,5.0,Broken,Avoid/exit,34,-2.0,-7.5,-4.8,28.8,0,,Basic Materials,406262848.0,71.42
+RUBLF,Rubellite Energy Inc,2.357,1,5,0,1,4,0,2,13,-8.0,5.0,Broken,Avoid/exit,18,-13.0,-26.1,-16.1,24.4,0,,Energy,229746304.0,13800.49
+SFHG,Samfine Creation Holdings Group Limited,1.99,6,6,6,0,4,4,2,28,-23.0,5.0,Broken,Avoid/exit,36,-0.5,-2.5,-2.0,39.1,1,,Industrials,9419200.0,28430.4
+JSHIX,JANUS SHORT-TERM BOND FUND CLASS I,2.83,1,2,0,6,0,2,4,15,-10.0,5.0,Broken,Avoid/exit,18,-0.7,-0.4,-0.4,38.0,0,,nan,0.0,0.0
+CATO,Cato Corporation,2.27,2,7,9,0,2,1,3,24,-19.0,5.0,Broken,Avoid/exit,11,-1.3,-4.6,-2.6,39.7,1,,Consumer Cyclical,65465052.0,77986.55
+BAK,Braskem SA Class A,1.13,1,8,1,5,3,2,2,22,-15.0,5.0,Broken,Avoid/exit,18,6.6,-2.6,-11.0,37.4,2,,Basic Materials,1394694656.0,1758272.43
+WEICF,Weichai Power Co. Ltd,2.9,3,8,5,5,0,0,2,23,-18.0,5.0,Broken,Avoid/exit,19,-4.0,-7.9,-7.0,38.7,1,,Consumer Cyclical,44176936960.0,0.0
+COPR,Idaho Copper Corporation,1.21,4,7,0,1,2,2,2,18,-13.0,5.0,Broken,Avoid/exit,20,-1.6,-30.9,-30.2,20.7,1,,nan,1439870080.0,182.09
+KOOYF,Kootenay Silver Inc,0.566,3,8,2,0,2,2,2,19,-15.0,4.0,Broken,Avoid/exit,11,2.9,-2.0,-7.9,39.2,2,,Basic Materials,117722456.0,246364.29
+DJTU,T-Rex 2X Long DJT Daily Target ETF,2.63,6,12,1,5,2,2,2,30,-26.0,4.0,Broken,Avoid/exit,21,44.5,-38.8,-36.9,30.9,1,,nan,nan,831406.93
+SLNH,Soluna Holdings Inc,0.534,3,6,3,3,0,2,2,19,-15.0,4.0,Broken,Avoid/exit,15,16.0,-23.7,-14.4,38.0,2,,Financial Services,260283136.0,12112932.94
+FTEK,Fuel Tech Inc,1.36,1,4,6,0,2,2,3,18,-15.0,4.0,Broken,Avoid/exit,25,2.3,-8.1,-4.7,40.8,2,,Industrials,45501264.0,217579.61
+WPRT,Westport Fuel Systems Inc,1.9,2,3,2,5,5,0,4,21,-15.0,4.0,Broken,Avoid/exit,34,-15.2,5.6,-2.9,46.8,1,,Consumer Cyclical,33921684.0,59540.58
+XTLB,XTL Biopharmaceuticals Ltd ADR,1.64,6,8,0,5,2,2,2,25,-21.0,4.0,Broken,Avoid/exit,22,-4.1,-6.8,-7.4,40.6,2,,Healthcare,4802184.0,714385.05
+ACH,Accendra Health Inc,0.146,3,10,2,3,4,0,2,24,-18.0,4.0,Broken,Avoid/exit,9,-51.3,-36.5,-43.6,24.1,1,,Healthcare,197585952.0,1536210.31
+JSHAX,JANUS SHORT-TERM BOND FUND CLASS A,2.83,1,2,2,6,0,2,4,17,-13.0,4.0,Broken,Avoid/exit,20,-0.7,-0.7,-0.5,22.7,0,,nan,0.0,0.0
+GOAI,Eva Live Inc. Common Stock,0.51,1,9,0,2,3,0,2,17,-13.0,4.0,Broken,Avoid/exit,19,-15.0,-48.5,-44.7,23.6,1,,Technology,111798288.0,128843.53
+LTCN,Grayscale Litecoin Trust,3.57,1,5,1,3,0,2,2,14,-8.0,4.0,Broken,Avoid/exit,28,-5.9,-14.8,-11.3,31.5,0,,nan,66925280.0,147084.94
+CLRO,ClearOne Inc,3.48,4,3,2,4,3,2,5,23,-19.0,4.0,Broken,Avoid/exit,17,-23.3,-30.4,-17.5,44.9,1,,Technology,8444135.0,22462.05
+LDLRX,LORD ABBETT SHORT DURATION INCOME FUND CLASS R3,3.78,1,2,1,6,0,0,4,14,-10.0,4.0,Broken,Avoid/exit,18,-0.8,-0.5,-0.4,32.5,0,,nan,0.0,0.0
+GEMI,"Gemini Space Station, Inc. Class A Common Stock",2.62,3,8,1,3,0,2,2,19,-15.0,4.0,Broken,Avoid/exit,23,9.6,-14.9,-13.2,34.8,2,,Financial Services,625842304.0,0.0
+NHPEF,New Hope Corporation Ltd,3.62,1,2,3,1,3,2,2,14,-10.0,4.0,Broken,Avoid/exit,23,-6.9,-13.8,-8.6,30.6,1,,Energy,3766784256.0,0.0
+TBLA,Taboola,2.13,1,7,0,1,3,2,2,16,-10.0,4.0,Broken,Avoid/exit,12,-1.8,-39.5,-23.9,24.4,1,,Communication Services,1295557376.0,1884970.3
+KRNMF,CLARIANE SE,3.77,1,1,0,3,3,4,2,14,-10.0,4.0,Broken,Avoid/exit,19,0.0,-21.1,-12.8,0.0,0,,nan,1698723712.0,1838.12
+ZPTA,Zapata Computing Holdings Inc. Common Stock,0.65,5,3,8,5,1,4,5,31,-28.0,3.0,Broken,Avoid/exit,29,-11.5,-11.6,-8.5,39.9,0,,Technology,168596032.0,161764.35
+GRLRF,Greenland Resources Inc,0.91,4,3,7,0,0,2,2,18,-15.0,3.0,Broken,Avoid/exit,16,-2.3,-5.2,-7.1,37.6,1,,Basic Materials,139244576.0,84473.62
+TPCXX,BlackRock Liquidity Funds TempCash - Capital,1.0,2,4,0,4,0,1,2,13,-10.0,3.0,Broken,Avoid/exit,16,-0.0,-0.0,-63.9,38.2,0,,nan,nan,0.0
+CAHXX,CAHXX,1.0,3,6,0,4,0,1,4,18,-20.0,3.0,Broken,🔥 COILED: Avoid/exit,24,0.0,0.0,-48.5,43.7,0,,nan,nan,0.0
+OPGXX,OPGXX,1.0,3,6,0,4,0,1,4,18,-20.0,3.0,Broken,🔥 COILED: Avoid/exit,20,0.0,0.0,-49.2,42.3,0,,nan,nan,0.0
+IQ,iQIYI Inc,0.893,8,6,3,1,0,6,2,26,-23.0,3.0,Broken,Avoid/exit,21,-0.9,7.2,-2.2,46.5,1,,Communication Services,1042226752.0,11639107.12
+EMMS,Emmis Communications Corp,1.55,1,4,3,2,3,3,2,18,-15.0,3.0,Broken,Avoid/exit,26,0.0,0.0,-1.2,32.5,1,,Communication Services,26798264.0,574.74
+VLN,Valens,1.44,3,8,5,1,2,2,2,23,-18.0,3.0,Broken,Avoid/exit,27,5.9,-12.2,-6.9,42.0,1,,Technology,310823904.0,1754772.31
+AGXXF,Agilyx AS,1.352,0,2,6,4,3,1,2,18,-15.0,3.0,Broken,Avoid/exit,8,-6.6,-6.6,-6.5,26.4,1,,Industrials,288959744.0,901.5
+TRNLY,Trendlines Group Ltd ADR,1.65,0,4,1,0,4,0,5,14,-11.0,3.0,Broken,Avoid/exit,17,-10.8,-10.8,-7.4,37.9,0,,Financial Services,66952704.0,620.51
+CYH,Community Health Systems Inc,2.21,1,5,1,2,2,4,2,17,-14.0,3.0,Broken,Avoid/exit,8,-3.1,-8.3,-9.7,37.9,0,,Healthcare,393157600.0,1748450.66
+GROW,US Global Investors Inc,2.52,2,5,2,0,0,2,2,13,-10.0,3.0,Broken,Avoid/exit,15,2.4,-6.0,-4.5,37.2,0,,Financial Services,33615372.0,43273.67
+LAES,SEALSQ Corp,1.32,6,6,2,0,0,2,2,18,-15.0,3.0,Broken,Avoid/exit,11,7.3,-15.9,-14.4,33.0,1,,Technology,770798080.0,17083462.77
+MWUSX,METROPOLITAN WEST ULTRA SHORT BOND FUND CLASS M,4.12,1,2,0,6,0,0,4,13,-10.0,3.0,Broken,Avoid/exit,22,-0.5,-0.2,-0.2,36.4,0,,nan,0.0,0.0
+TACT,TransAct Technologies Incorporated,4.88,7,7,2,4,5,0,5,30,-25.0,3.0,Broken,Avoid/exit,43,-3.2,-12.7,-3.3,45.8,1,,Technology,47887460.0,57584.59
+AMS,American Shared Hospital Service,1.09,0,6,1,3,0,0,2,12,-15.0,2.0,Broken,Avoid/exit,17,-6.8,-13.5,-11.3,28.6,1,,Healthcare,9142500.0,72136.82
+KRNGF,Karoon Energy Ltd,1.03,0,2,4,2,0,4,2,14,-8.0,2.0,Broken,Avoid/exit,19,-10.4,-12.7,-9.4,7.2,0,,Energy,1030740288.0,0.0
+CNTX,Context Therapeutics Inc,0.198,6,6,4,3,2,2,2,25,-23.0,2.0,Broken,Avoid/exit,22,5.3,-2.0,-10.5,38.1,2,,Healthcare,186514720.0,858841.52
+NCPCF,Nickel Creek Platinum Corp,0.75,0,4,5,6,0,0,2,17,-15.0,2.0,Broken,Avoid/exit,17,-13.8,-13.8,-11.1,33.0,1,,Basic Materials,13396558.0,4755.97
+MDEVY,Melco International Development Limited,1.38,1,3,1,0,3,2,2,12,-10.0,2.0,Broken,Avoid/exit,6,0.0,-11.0,-16.4,5.2,0,,Consumer Cyclical,1014156096.0,212.25
+CTRM,Castor Maritime Inc,1.31,3,11,0,0,2,2,2,20,-18.0,2.0,Broken,Avoid/exit,6,2.3,-15.5,-11.2,30.4,0,,Industrials,21740296.0,57554.58
+DZZ,DB Gold Double Short ETN,1.61,1,11,0,0,4,0,2,18,-16.0,2.0,Broken,Avoid/exit,30,-3.0,-10.6,-3.7,45.3,0,,nan,nan,79848.57
+HITI,High Tide Inc,2.5,4,5,2,1,0,2,3,17,-15.0,2.0,Broken,Avoid/exit,33,-4.9,-6.0,-4.5,40.7,1,,Healthcare,209196912.0,601472.12
+FSROF,FSROF,1.525,3,2,2,4,0,3,2,16,-10.0,2.0,Broken,Avoid/exit,4,-2.9,-2.9,-5.9,0.0,0,,nan,457748736.0,51.98
+AIFU,Fanhua Inc.,9.18,4,9,4,0,3,2,2,24,-22.0,2.0,Broken,Avoid/exit,22,7.1,1.9,-3.8,44.1,2,,Financial Services,263101328.0,19471.69
+FUTG,Leverage Shares 2x Long FUTU Daily ETF,2.81,0,5,3,0,0,4,2,14,-10.0,2.0,Broken,Avoid/exit,22,1.4,-13.3,-12.4,39.0,0,,nan,nan,0.0
+CMND,Clearmind Medicine Inc. Common Shares,4.62,7,4,4,3,3,2,2,25,-23.0,2.0,Broken,Avoid/exit,45,-21.0,-21.0,-14.4,40.0,1,,Healthcare,2985766.0,649106.03
+FIEE,"FiEE, Inc.",2.8,4,5,4,5,0,0,2,20,-18.0,2.0,Broken,Avoid/exit,18,-8.2,-3.1,-9.6,36.1,0,,Technology,37568476.0,65461.98
+OGI,OrganiGram Holdings Inc,0.834,0,5,5,4,0,0,2,16,-15.0,1.0,Broken,Avoid/exit,18,-10.3,-13.2,-8.9,31.8,1,,Healthcare,152037024.0,819375.81
+BMEA,Biomea Fusion Inc,0.563,6,9,3,0,2,2,2,24,-23.0,1.0,Broken,Avoid/exit,6,-4.2,-9.6,-20.5,31.3,1,,Healthcare,99050232.0,1495367.33
+PROK,ProKidney Corp.,1.15,1,8,0,1,4,2,2,18,-15.0,1.0,Broken,Avoid/exit,16,8.0,-21.8,-9.6,38.1,2,,Healthcare,522563136.0,1311690.88
+BOREF,Borealis Exploration Ltd,1.5,5,7,1,7,4,2,2,28,-27,1,Broken,Avoid/exit,25,1400.0,-25.0,5.4,49.8,1,3,Financial Services,10897809.0,940.43
+TORM,TOR Minerals International Inc,1.95,2,3,3,2,0,4,2,16,-15.0,1.0,Broken,Avoid/exit,29,-2.0,-15.2,-7.1,40.2,1,,Basic Materials,7614662.0,2704.35
+THSGF,Thesis Gold Inc,1.6,2,7,3,0,0,2,2,16,-15.0,1.0,Broken,Avoid/exit,6,-3.6,-4.8,-9.9,35.6,1,,Basic Materials,689002880.0,67149.5
+RADLY,Raia Drogasil SA ADR,2.59,1,3,0,5,0,4,2,15,-14.0,1.0,Broken,Avoid/exit,16,-4.6,-9.1,-15.5,30.0,0,,Healthcare,5979994112.0,19503.0
+ZURA,Zura Bio Limited Class A Ordinary Shares,1.24,0,4,0,8,0,0,2,14,-13.0,1.0,Broken,Avoid/exit,4,-66.7,-67.8,-60.4,26.2,1,,Healthcare,366239552.0,975387.5
+ANY,Sphere 3D Corp,1.66,3,7,6,0,0,2,2,20,-19.0,1.0,Broken,Avoid/exit,33,6.0,-16.6,-11.7,36.7,2,,Financial Services,27722850.0,1110592.1
+FLWS,1-800 FLOWERS.COM Inc,2.61,0,3,5,4,2,0,2,16,-15.0,1.0,Broken,Avoid/exit,16,0.4,-9.4,-4.6,43.0,1,,Consumer Cyclical,289725152.0,996287.64
+LAC,Lithium Americas Corp,1.63,0,8,1,2,2,0,2,15,-15.0,1.0,Broken,Avoid/exit,11,-11.4,-23.5,-18.6,28.1,1,,Basic Materials,1790418560.0,21941757.42
+TDUP,ThredUp Inc,1.5,1,9,0,0,4,0,2,16,-13.0,1.0,Broken,Avoid/exit,12,3.4,-32.4,-18.7,36.0,2,,Consumer Cyclical,619396096.0,2185186.12
